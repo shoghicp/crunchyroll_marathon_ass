@@ -4,7 +4,7 @@ Just sideload them on your favorite player using locally-sourced episode files :
 
 Repeated text is collapsed over the span of several seconds for a better experience, making it bigger. Longer text is collapsed over a longer period of time.
 
-TODO: add emotes using vector drawings
+~~TODO: add emotes using vector drawings~~ [oh no we have emotes as well](https://streamable.com/bzs24)
 
 === Example Image ===
 ![](https://i.imgur.com/QVJLIQn.jpg)
