@@ -1,0 +1,1239 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 1920
+PlayResY: 1080
+Created: 1506071794
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Chat,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1226,0:00:00.00,0:00:06.00,Chat,,0,0,0,,{\be1\an2\move(1920,404,-1560,404,0,6000)\fs50\c&H95D125&}NARUTO
+Dialogue: 1225,0:00:00.66,0:00:06.66,Chat,,0,0,0,,{\be1\an2\move(1920,101,-1660,101,0,6000)\fs50\c&H2A77BE&}SELLOUT
+Dialogue: 1224,0:00:01.00,0:00:07.00,Chat,,0,0,0,,{\be1\an2\move(1920,290,-2160,290,0,6000)\fs50\c&HB75220&}2d GRILLS <3
+Dialogue: 1223,0:00:01.33,0:00:07.33,Chat,,0,0,0,,{\be1\an2\move(1920,197,-1760,197,0,6000)\fs50\c&HCE802E&}TehePelo
+Dialogue: 1222,0:00:01.66,0:00:07.66,Chat,,0,0,0,,{\be1\an2\move(1920,388,-2460,388,0,6000)\fs46\c&HDE434C&}GUERRILA ADVERTS
+Dialogue: 1221,0:00:02.00,0:00:08.00,Chat,,0,0,0,,{\be1\an2\move(1920,751,-1560,751,0,6000)\fs100\c&H3E9D86&}LUL
+Dialogue: 1220,0:00:02.20,0:00:08.19,Chat,,0,0,0,,{\be1\an2\move(1920,103,-1460,103,0,6000)\fs50\c&HAC38DC&}HIME!
+Dialogue: 1219,0:00:02.39,0:00:08.40,Chat,,0,0,0,,{\be1\an2\move(1920,668,-2160,668,0,6000)\fs100\c&H676061&}VoHiYo
+Dialogue: 1218,0:00:02.60,0:00:08.59,Chat,,0,0,0,,{\be1\an2\move(1920,322,-1760,322,0,6000)\fs50\c&HAADD3D&}Kreygasm
+Dialogue: 1217,0:00:02.79,0:00:08.80,Chat,,0,0,0,,{\be1\an2\move(1920,576,-2160,576,0,6000)\fs50\c&H78C0E7&}BYE GOOD ART
+Dialogue: 1216,0:00:03.00,0:00:09.00,Chat,,0,0,0,,{\be1\an2\move(1920,368,-2560,368,0,6000)\fs100\c&H609D97&}PogChamp
+Dialogue: 1215,0:00:03.39,0:00:15.40,Chat,,0,0,0,,{\be1\an2\move(1920,835,-3560,835,0,12000)\fs100\c&H8C666C&}TPcrunchyroll
+Dialogue: 1214,0:00:03.60,0:00:09.59,Chat,,0,0,0,,{\be1\an2\move(1920,555,-1560,555,0,6000)\fs100\c&H878F80&}WTF
+Dialogue: 1213,0:00:03.79,0:00:12.90,Chat,,0,0,0,,{\be1\an2\move(1920,719,-2360,719,0,9100)\fs100\c&H6994A0&}WutFace
+Dialogue: 1212,0:00:04.00,0:00:10.00,Chat,,0,0,0,,{\be1\an2\move(1920,177,-1560,177,0,6000)\fs75\c&HAFB680&}HIME
+Dialogue: 1211,0:00:04.13,0:00:10.13,Chat,,0,0,0,,{\be1\an2\move(1920,849,-1560,849,0,6000)\fs100\c&H5FC389&}lol
+Dialogue: 1210,0:00:04.79,0:00:10.80,Chat,,0,0,0,,{\be1\an2\move(1920,739,-2460,739,0,6000)\fs41\c&HB926D8&}CR Mascot PogChamp
+Dialogue: 1209,0:00:06.10,0:00:12.10,Chat,,0,0,0,,{\be1\an2\move(1920,116,-2260,116,0,6000)\fs50\c&H2D4ADA&}VoHiYo VoHiYo
+Dialogue: 1208,0:00:06.20,0:00:12.21,Chat,,0,0,0,,{\be1\an2\move(1920,588,-1560,588,0,6000)\fs50\c&H373C9A&}KonCha
+Dialogue: 1207,0:00:06.42,0:00:12.42,Chat,,0,0,0,,{\be1\an2\move(1920,507,-1960,507,0,6000)\fs50\c&H8C4E19&}YUKARIN <3
+Dialogue: 1206,0:00:06.52,0:00:12.52,Chat,,0,0,0,,{\be1\an2\move(1920,255,-2560,255,0,6000)\fs100\c&H8C8A8E&}DansGame
+Dialogue: 1205,0:00:06.73,0:00:12.73,Chat,,0,0,0,,{\be1\an2\move(1920,239,-2060,239,0,6000)\fs50\c&HDE7846&}CRUNCRYROLL
+Dialogue: 1204,0:00:06.84,0:00:12.84,Chat,,0,0,0,,{\be1\an2\move(1920,178,-1760,178,0,6000)\fs50\c&HDF744A&}cirLaugh
+Dialogue: 1203,0:00:07.15,0:00:13.15,Chat,,0,0,0,,{\be1\an2\move(1920,407,-1260,407,0,6000)\fs50\c&HB123C6&};_;
+Dialogue: 1202,0:00:07.26,0:00:13.26,Chat,,0,0,0,,{\be1\an2\move(1920,669,-2360,669,0,6000)\fs100\c&H2AA24D&}ENGLISH
+Dialogue: 1201,0:00:07.47,0:00:13.47,Chat,,0,0,0,,{\be1\an2\move(1920,307,-2160,307,0,6000)\fs50\c&H2A9A8F&}????????????
+Dialogue: 1200,0:00:07.57,0:00:13.57,Chat,,0,0,0,,{\be1\an2\move(1920,673,-1560,673,0,6000)\fs50\c&H3360DB&}NANI?!
+Dialogue: 1199,0:00:07.89,0:00:13.89,Chat,,0,0,0,,{\be1\an2\move(1920,695,-2010,695,0,6000)\fs75\c&H81875D&}ENGRISH
+Dialogue: 1198,0:00:08.07,0:00:14.07,Chat,,0,0,0,,{\be1\an2\move(1920,89,-1260,89,0,6000)\fs75\c&H527545&}D:
+Dialogue: 1197,0:00:08.14,0:00:14.14,Chat,,0,0,0,,{\be1\an2\move(1920,731,-2460,731,0,6000)\fs46\c&H808372&}ENGLISH PogChamp
+Dialogue: 1196,0:00:08.50,0:00:14.50,Chat,,0,0,0,,{\be1\an2\move(1920,743,-2360,743,0,6000)\fs50\c&H20B651&}Arpeggio great
+Dialogue: 1195,0:00:08.71,0:00:14.71,Chat,,0,0,0,,{\be1\an2\move(1920,183,-1460,183,0,6000)\fs50\c&H198D55&}?????
+Dialogue: 1194,0:00:08.78,0:00:15.18,Chat,,0,0,0,,{\be1\an2\move(1920,166,-3960,166,0,6400)\fs93\c&H8EB58B&}ENGLISH DansGame
+Dialogue: 1193,0:00:08.85,0:00:14.85,Chat,,0,0,0,,{\be1\an2\move(1920,999,-2160,999,0,6000)\fs50\c&H891875&}Hyuuga Keepo
+Dialogue: 1192,0:00:09.21,0:00:15.21,Chat,,0,0,0,,{\be1\an2\move(1920,739,-3210,739,0,6000)\fs75\c&H628289&}ENGLISH WutFace
+Dialogue: 1191,0:00:09.64,0:00:15.64,Chat,,0,0,0,,{\be1\an2\move(1920,371,-1760,371,0,6000)\fs50\c&H81CF24&}danThink
+Dialogue: 1190,0:00:09.92,0:00:15.92,Chat,,0,0,0,,{\be1\an2\move(1920,432,-1360,432,0,6000)\fs50\c&HC26DE5&}LMAO
+Dialogue: 1189,0:00:10.16,0:00:16.16,Chat,,0,0,0,,{\be1\an2\move(1920,236,-2060,236,0,6000)\fs50\c&H25931A&}LUL LUL LUL
+Dialogue: 1188,0:00:10.33,0:00:16.33,Chat,,0,0,0,,{\be1\an2\move(1920,340,-2360,340,0,6000)\fs50\c&H41D1DD&}OH GOD ENGIRSH
+Dialogue: 1187,0:00:10.50,0:00:16.50,Chat,,0,0,0,,{\be1\an2\move(1920,315,-1560,315,0,6000)\fs50\c&HC2DB33&}NA LUL
+Dialogue: 1186,0:00:10.75,0:00:16.75,Chat,,0,0,0,,{\be1\an2\move(1920,897,-2610,897,0,6000)\fs75\c&H4CB09D&}SELLOUT LUL
+Dialogue: 1185,0:00:10.83,0:00:16.83,Chat,,0,0,0,,{\be1\an2\move(1920,230,-1560,230,0,6000)\fs50\c&H3226D7&}NANI!?
+Dialogue: 1184,0:00:11.00,0:00:17.00,Chat,,0,0,0,,{\be1\an2\move(1920,227,-2160,227,0,6000)\fs50\c&H9A1B24&}ENRISH 4Head
+Dialogue: 1183,0:00:11.08,0:00:17.08,Chat,,0,0,0,,{\be1\an2\move(1920,684,-1360,684,0,6000)\fs50\c&H76C8E7&}WUUT
+Dialogue: 1182,0:00:11.16,0:00:17.16,Chat,,0,0,0,,{\be1\an2\move(1920,214,-1260,214,0,6000)\fs50\c&H2194BC&}???
+Dialogue: 1181,0:00:11.33,0:00:17.33,Chat,,0,0,0,,{\be1\an2\move(1920,318,-1260,318,0,6000)\fs50\c&H86181E&}WAT
+Dialogue: 1180,0:00:11.75,0:00:17.75,Chat,,0,0,0,,{\be1\an2\move(1920,214,-2160,214,0,6000)\fs50\c&H1B5099&}DUBS WutFace
+Dialogue: 1179,0:00:12.14,0:00:18.14,Chat,,0,0,0,,{\be1\an2\move(1920,436,-2160,436,0,6000)\fs50\c&H4CAEDF&}ENGLISH?????
+Dialogue: 1178,0:00:12.29,0:00:18.29,Chat,,0,0,0,,{\be1\an2\move(1920,403,-2160,403,0,6000)\fs50\c&H40DD80&}SNACK TIME ?
+Dialogue: 1177,0:00:12.36,0:00:18.37,Chat,,0,0,0,,{\be1\an2\move(1920,975,-2460,975,0,6000)\fs50\c&H40B520&}niinininininini
+Dialogue: 1176,0:00:12.74,0:00:18.73,Chat,,0,0,0,,{\be1\an2\move(1920,1022,-2460,1022,0,6000)\fs44\c&H53A4E1&}WutFace ENGLISH?!
+Dialogue: 1175,0:00:12.96,0:00:18.96,Chat,,0,0,0,,{\be1\an2\move(1920,134,-1160,134,0,6000)\fs50\c&H3720B4&}OK
+Dialogue: 1174,0:00:13.11,0:00:19.11,Chat,,0,0,0,,{\be1\an2\move(1920,820,-1560,820,0,6000)\fs100\c&H7C9C5C&}LUL
+Dialogue: 1173,0:00:13.18,0:00:19.18,Chat,,0,0,0,,{\be1\an2\move(1920,1003,-2060,1003,0,6000)\fs50\c&H198D6B&}ENGLISH LU:
+Dialogue: 1172,0:00:13.62,0:00:19.62,Chat,,0,0,0,,{\be1\an2\move(1920,667,-1660,667,0,6000)\fs50\c&H90AC1E&}DUB LOL
+Dialogue: 1171,0:00:13.70,0:00:19.70,Chat,,0,0,0,,{\be1\an2\move(1920,72,-2360,72,0,6000)\fs50\c&HCB246C&}ENGLISH moon2P
+Dialogue: 1170,0:00:13.77,0:00:19.77,Chat,,0,0,0,,{\be1\an2\move(1920,712,-2460,712,0,6000)\fs41\c&H591CA0&}ENGLISH?! PogChamp
+Dialogue: 1169,0:00:13.85,0:00:19.85,Chat,,0,0,0,,{\be1\an2\move(1920,158,-1860,158,0,6000)\fs50\c&HDF498F&}SeemsGood
+Dialogue: 1168,0:00:13.92,0:00:19.92,Chat,,0,0,0,,{\be1\an2\move(1920,174,-1660,174,0,6000)\fs50\c&H4D80E0&}oh cool
+Dialogue: 1167,0:00:14.00,0:00:20.00,Chat,,0,0,0,,{\be1\an2\move(1920,249,-2460,249,0,6000)\fs50\c&HA1791C&}WTF ENGLIGHSATS
+Dialogue: 1166,0:00:14.55,0:00:20.55,Chat,,0,0,0,,{\be1\an2\move(1920,526,-2360,526,0,6000)\fs100\c&H8F6D69&}WutFace
+Dialogue: 1165,0:00:15.00,0:00:21.00,Chat,,0,0,0,,{\be1\an2\move(1920,910,-2060,910,0,6000)\fs50\c&HDBA431&}ego WutFace
+Dialogue: 1164,0:00:15.22,0:00:21.22,Chat,,0,0,0,,{\be1\an2\move(1920,197,-1660,197,0,6000)\fs50\c&H48DF98&}LUL LUL
+Dialogue: 1163,0:00:15.88,0:00:21.88,Chat,,0,0,0,,{\be1\an2\move(1920,698,-1560,698,0,6000)\fs50\c&H32971B&}VoHiYo
+Dialogue: 1162,0:00:16.00,0:00:22.00,Chat,,0,0,0,,{\be1\an2\move(1920,191,-1860,191,0,6000)\fs50\c&HB32068&}KKona WUT
+Dialogue: 1161,0:00:16.18,0:00:22.18,Chat,,0,0,0,,{\be1\an2\move(1920,584,-1360,584,0,6000)\fs50\c&HDAE673&}NLUL
+Dialogue: 1160,0:00:16.27,0:00:22.27,Chat,,0,0,0,,{\be1\an2\move(1920,1013,-1660,1013,0,6000)\fs50\c&H3DAADD&}SELLOUT
+Dialogue: 1159,0:00:16.36,0:00:22.36,Chat,,0,0,0,,{\be1\an2\move(1920,887,-2460,887,0,6000)\fs50\c&H1B5697&}ENG DUB WutFace
+Dialogue: 1158,0:00:16.45,0:00:22.45,Chat,,0,0,0,,{\be1\an2\move(1920,750,-1260,750,0,6000)\fs50\c&HACE153&}lol
+Dialogue: 1157,0:00:16.63,0:00:28.63,Chat,,0,0,0,,{\be1\an2\move(1920,652,-3560,652,0,12000)\fs100\c&H7F867F&}TPcrunchyroll
+Dialogue: 1156,0:00:17.54,0:00:23.54,Chat,,0,0,0,,{\be1\an2\move(1920,143,-1560,143,0,6000)\fs50\c&H6E921A&}lOOOOL
+Dialogue: 1155,0:00:17.63,0:00:23.63,Chat,,0,0,0,,{\be1\an2\move(1920,621,-2460,621,0,6000)\fs46\c&H235BC8&}AMERICAN????!!!!
+Dialogue: 1154,0:00:17.72,0:00:23.72,Chat,,0,0,0,,{\be1\an2\move(1920,633,-2360,633,0,6000)\fs50\c&H907F19&}American KKona
+Dialogue: 1153,0:00:17.90,0:00:23.90,Chat,,0,0,0,,{\be1\an2\move(1920,255,-1560,255,0,6000)\fs50\c&HE0924F&}JP pls
+Dialogue: 1152,0:00:18.00,0:00:24.00,Chat,,0,0,0,,{\be1\an2\move(1920,800,-1660,800,0,6000)\fs50\c&H214C96&}SourPls
+Dialogue: 1151,0:00:18.66,0:00:24.66,Chat,,0,0,0,,{\be1\an2\move(1920,928,-2360,928,0,6000)\fs50\c&H8FAE21&}ACTUAL ENGLISH
+Dialogue: 1150,0:00:18.88,0:00:24.88,Chat,,0,0,0,,{\be1\an2\move(1920,431,-2460,431,0,6000)\fs41\c&H865BE2&}META TPcrunchyroll
+Dialogue: 1149,0:00:19.55,0:00:25.55,Chat,,0,0,0,,{\be1\an2\move(1920,394,-2460,394,0,6000)\fs50\c&H204BB5&}ENGLISH WutFace
+Dialogue: 1148,0:00:20.00,0:00:26.00,Chat,,0,0,0,,{\be1\an2\move(1920,120,-2460,120,0,6000)\fs46\c&HCA6BE5&}ENGLISH? WutFace
+Dialogue: 1147,0:00:20.23,0:00:26.23,Chat,,0,0,0,,{\be1\an2\move(1920,918,-2460,918,0,6000)\fs46\c&H5E78DD&}ENGLISH DansGame
+Dialogue: 1146,0:00:20.58,0:00:26.58,Chat,,0,0,0,,{\be1\an2\move(1920,831,-1460,831,0,6000)\fs50\c&HE69270&}nani?
+Dialogue: 1145,0:00:21.05,0:00:27.05,Chat,,0,0,0,,{\be1\an2\move(1920,386,-2460,386,0,6000)\fs39\c&H8B6819&}EYUTIU7TYU7TIRII7]\
+Dialogue: 1144,0:00:21.41,0:00:27.41,Chat,,0,0,0,,{\be1\an2\move(1920,70,-1460,70,0,6000)\fs50\c&H29BED9&}KKona
+Dialogue: 1143,0:00:21.64,0:00:27.64,Chat,,0,0,0,,{\be1\an2\move(1920,682,-2460,682,0,6000)\fs41\c&H7527D9&}HIME-CHAN? WutFace
+Dialogue: 1142,0:00:21.88,0:00:27.88,Chat,,0,0,0,,{\be1\an2\move(1920,677,-2360,677,0,6000)\fs50\c&H6A80E5&}日本語でOK
+Dialogue: 1141,0:00:22.00,0:00:28.00,Chat,,0,0,0,,{\be1\an2\move(1920,527,-2060,527,0,6000)\fs50\c&H1EA77F&}ENGLISH LUL
+Dialogue: 1140,0:00:22.33,0:00:28.33,Chat,,0,0,0,,{\be1\an2\move(1920,667,-2260,667,0,6000)\fs50\c&H61E386&}dubs DansGame
+Dialogue: 1139,0:00:22.77,0:00:28.77,Chat,,0,0,0,,{\be1\an2\move(1920,619,-2260,619,0,6000)\fs50\c&H68D0E4&}NANI THE FUCK
+Dialogue: 1138,0:00:23.00,0:00:29.00,Chat,,0,0,0,,{\be1\an2\move(1920,855,-1760,855,0,6000)\fs50\c&H76AF1F&}ENGLISH?
+Dialogue: 1137,0:00:23.11,0:00:29.11,Chat,,0,0,0,,{\be1\an2\move(1920,856,-1660,856,0,6000)\fs50\c&H1FB021&}KKona /
+Dialogue: 1136,0:00:23.44,0:00:29.44,Chat,,0,0,0,,{\be1\an2\move(1920,971,-1760,971,0,6000)\fs50\c&H53E199&}Jebaited
+Dialogue: 1135,0:00:23.88,0:00:29.88,Chat,,0,0,0,,{\be1\an2\move(1920,963,-2060,963,0,6000)\fs50\c&H39DCAE&}Crunchyroll
+Dialogue: 1134,0:00:24.13,0:00:30.13,Chat,,0,0,0,,{\be1\an2\move(1920,719,-2060,719,0,6000)\fs50\c&H3921BC&}USA KKona /
+Dialogue: 1133,0:00:24.93,0:00:30.93,Chat,,0,0,0,,{\be1\an2\move(1920,797,-1660,797,0,6000)\fs50\c&HDE4799&}ENGLISH
+Dialogue: 1132,0:00:25.19,0:00:31.19,Chat,,0,0,0,,{\be1\an2\move(1920,948,-1960,948,0,6000)\fs50\c&HD9C427&}BigBrother
+Dialogue: 1131,0:00:25.33,0:00:31.33,Chat,,0,0,0,,{\be1\an2\move(1920,961,-1460,961,0,6000)\fs50\c&HAD4D1F&}LOOOL
+Dialogue: 1130,0:00:25.60,0:00:31.60,Chat,,0,0,0,,{\be1\an2\move(1920,861,-1860,861,0,6000)\fs50\c&HA3DA2C&}USA KKona
+Dialogue: 1129,0:00:25.73,0:00:31.73,Chat,,0,0,0,,{\be1\an2\move(1920,354,-2260,354,0,6000)\fs50\c&H3CA91E&}OMG LOLOLOLOL
+Dialogue: 1128,0:00:26.00,0:00:32.00,Chat,,0,0,0,,{\be1\an2\move(1920,727,-2460,727,0,6000)\fs50\c&H4C23C4&}PERFECT ENGLISH
+Dialogue: 1127,0:00:26.80,0:00:32.79,Chat,,0,0,0,,{\be1\an2\move(1920,188,-1260,188,0,6000)\fs50\c&HE07D4D&}LUL
+Dialogue: 1126,0:00:27.19,0:00:33.20,Chat,,0,0,0,,{\be1\an2\move(1920,548,-2260,548,0,6000)\fs50\c&H1EA956&}NO SNACK TIME
+Dialogue: 1125,0:00:28.14,0:00:34.14,Chat,,0,0,0,,{\be1\an2\move(1920,383,-1460,383,0,6000)\fs50\c&HB84720&}OPPAI
+Dialogue: 1124,0:00:28.28,0:00:34.28,Chat,,0,0,0,,{\be1\an2\move(1920,962,-2160,962,0,6000)\fs50\c&H81E777&}LOOLOLOOLOLL
+Dialogue: 1123,0:00:28.42,0:00:34.42,Chat,,0,0,0,,{\be1\an2\move(1920,271,-1860,271,0,6000)\fs50\c&H2155B8&}sell outs
+Dialogue: 1122,0:00:28.57,0:00:34.57,Chat,,0,0,0,,{\be1\an2\move(1920,75,-2260,75,0,6000)\fs50\c&HA91E8E&}AMERICA KKona
+Dialogue: 1121,0:00:28.71,0:00:34.71,Chat,,0,0,0,,{\be1\an2\move(1920,570,-2910,570,0,6000)\fs75\c&H6475C7&}TPcrunchyroll
+Dialogue: 1120,0:00:29.28,0:00:35.28,Chat,,0,0,0,,{\be1\an2\move(1920,550,-1760,550,0,6000)\fs50\c&H25D45E&}????????
+Dialogue: 1119,0:00:30.36,0:00:36.36,Chat,,0,0,0,,{\be1\an2\move(1920,171,-1860,171,0,6000)\fs50\c&H981B1B&}gachiGASM
+Dialogue: 1118,0:00:30.54,0:00:36.54,Chat,,0,0,0,,{\be1\an2\move(1920,1001,-2360,1001,0,6000)\fs50\c&H31951A&}MUH GUNS KKona
+Dialogue: 1117,0:00:30.72,0:00:36.72,Chat,,0,0,0,,{\be1\an2\move(1920,847,-1760,847,0,6000)\fs50\c&H8A8296&}PogChamp
+Dialogue: 1116,0:00:30.90,0:00:36.90,Chat,,0,0,0,,{\be1\an2\move(1920,653,-2460,653,0,6000)\fs39\c&H65E4BC&}MONEY'S TIGHT 4Head
+Dialogue: 1115,0:00:31.08,0:00:37.09,Chat,,0,0,0,,{\be1\an2\move(1920,250,-2360,250,0,6000)\fs100\c&H6C3CC7&}OMG LOL
+Dialogue: 1114,0:00:31.27,0:00:37.27,Chat,,0,0,0,,{\be1\an2\move(1920,558,-1960,558,0,6000)\fs50\c&HE1569E&}USA OH YEA
+Dialogue: 1113,0:00:31.45,0:00:37.45,Chat,,0,0,0,,{\be1\an2\move(1920,752,-2160,752,0,6000)\fs50\c&H1DA740&}ENGLISH SCUM
+Dialogue: 1112,0:00:32.83,0:00:38.83,Chat,,0,0,0,,{\be1\an2\move(1920,827,-1360,827,0,6000)\fs50\c&H1B198C&}DUB?
+Dialogue: 1111,0:00:34.75,0:00:40.75,Chat,,0,0,0,,{\be1\an2\move(1920,104,-1660,104,0,6000)\fs50\c&H711CA1&}LOL OMG
+Dialogue: 1110,0:00:35.25,0:00:41.25,Chat,,0,0,0,,{\be1\an2\move(1920,206,-2460,206,0,6000)\fs39\c&H8639DC&}English in 2017 LUL
+Dialogue: 1109,0:00:35.75,0:00:41.75,Chat,,0,0,0,,{\be1\an2\move(1920,458,-1260,458,0,6000)\fs50\c&HB92169&}OMG
+Dialogue: 1108,0:00:36.00,0:00:42.00,Chat,,0,0,0,,{\be1\an2\move(1920,92,-1760,92,0,6000)\fs50\c&H36BCAB&}Kreygasm
+Dialogue: 1107,0:00:36.22,0:00:42.22,Chat,,0,0,0,,{\be1\an2\move(1920,905,-1960,905,0,6000)\fs50\c&H20A2B6&}💪 Kappa
+Dialogue: 1106,0:00:36.66,0:00:42.66,Chat,,0,0,0,,{\be1\an2\move(1920,176,-1960,176,0,6000)\fs100\c&H75A270&}KKona
+Dialogue: 1105,0:00:36.88,0:00:42.88,Chat,,0,0,0,,{\be1\an2\move(1920,301,-1160,301,0,6000)\fs50\c&H789019&}NA
+Dialogue: 1104,0:00:37.77,0:00:43.77,Chat,,0,0,0,,{\be1\an2\move(1920,594,-1260,594,0,6000)\fs50\c&H9CCD24&}POW
+Dialogue: 1103,0:00:38.00,0:00:44.00,Chat,,0,0,0,,{\be1\an2\move(1920,69,-1160,69,0,6000)\fs50\c&H6148DF&}Uk
+Dialogue: 1102,0:00:38.22,0:00:44.22,Chat,,0,0,0,,{\be1\an2\move(1920,937,-2460,937,0,6000)\fs50\c&HC0E673&}LOL OMG YEAH GO
+Dialogue: 1101,0:00:38.44,0:00:44.44,Chat,,0,0,0,,{\be1\an2\move(1920,962,-1660,962,0,6000)\fs50\c&H5F1B9A&}USA LUL
+Dialogue: 1100,0:00:38.88,0:00:44.88,Chat,,0,0,0,,{\be1\an2\move(1920,647,-1960,647,0,6000)\fs50\c&HE04E99&}BigBrother
+Dialogue: 1099,0:00:39.11,0:00:45.11,Chat,,0,0,0,,{\be1\an2\move(1920,423,-1560,423,0,6000)\fs50\c&H54791A&}RIPPED
+Dialogue: 1098,0:00:40.15,0:00:46.15,Chat,,0,0,0,,{\be1\an2\move(1920,474,-2910,474,0,6000)\fs75\c&H8672B3&}TPcrunchyroll
+Dialogue: 1097,0:00:40.76,0:00:46.76,Chat,,0,0,0,,{\be1\an2\move(1920,738,-2460,738,0,6000)\fs50\c&H4432DB&}USAAAAAAAAAAAAA
+Dialogue: 1096,0:00:40.92,0:00:46.92,Chat,,0,0,0,,{\be1\an2\move(1920,840,-1660,840,0,6000)\fs50\c&H40D1DD&}USA USA
+Dialogue: 1095,0:00:41.07,0:00:47.07,Chat,,0,0,0,,{\be1\an2\move(1920,348,-1860,348,0,6000)\fs50\c&H38C022&}USA KKona
+Dialogue: 1094,0:00:42.88,0:00:48.88,Chat,,0,0,0,,{\be1\an2\move(1920,255,-1260,255,0,6000)\fs50\c&HA41D71&}LUL
+Dialogue: 1093,0:00:43.11,0:00:49.11,Chat,,0,0,0,,{\be1\an2\move(1920,823,-2060,823,0,6000)\fs50\c&HE56C73&}U-S-A U-S-A
+Dialogue: 1092,0:00:43.33,0:00:49.33,Chat,,0,0,0,,{\be1\an2\move(1920,924,-1260,924,0,6000)\fs50\c&H7B7C22&}USA
+Dialogue: 1091,0:00:43.77,0:00:49.77,Chat,,0,0,0,,{\be1\an2\move(1920,222,-2260,222,0,6000)\fs50\c&H25D350&}PAID BY STEVE
+Dialogue: 1090,0:00:44.00,0:00:50.00,Chat,,0,0,0,,{\be1\an2\move(1920,867,-2460,867,0,6000)\fs41\c&HDE4CDF&}Hime chan PogChamp
+Dialogue: 1089,0:00:44.72,0:00:50.72,Chat,,0,0,0,,{\be1\an2\move(1920,228,-1760,228,0,6000)\fs50\c&H20B7A3&}tyler1HA
+Dialogue: 1088,0:00:45.09,0:00:51.09,Chat,,0,0,0,,{\be1\an2\move(1920,853,-1460,853,0,6000)\fs50\c&HB0381F&}U S A
+Dialogue: 1087,0:00:45.81,0:00:51.81,Chat,,0,0,0,,{\be1\an2\move(1920,757,-2460,757,0,6000)\fs41\c&H1EAC80&}KAKEGURUI PogChamp
+Dialogue: 1086,0:00:46.28,0:00:52.28,Chat,,0,0,0,,{\be1\an2\move(1920,544,-1660,544,0,6000)\fs50\c&HE16B53&}TPhimev
+Dialogue: 1085,0:00:46.57,0:00:52.57,Chat,,0,0,0,,{\be1\an2\move(1920,805,-1560,805,0,6000)\fs50\c&H1C639C&}Maffia
+Dialogue: 1084,0:00:46.85,0:00:52.85,Chat,,0,0,0,,{\be1\an2\move(1920,1008,-1960,1008,0,6000)\fs50\c&HE6B270&}RIPPED RIP
+Dialogue: 1083,0:00:48.00,0:00:54.00,Chat,,0,0,0,,{\be1\an2\move(1920,89,-1660,89,0,6000)\fs50\c&H26AE5B&}SourPls
+Dialogue: 1082,0:00:49.00,0:00:55.00,Chat,,0,0,0,,{\be1\an2\move(1920,276,-3210,276,0,6000)\fs66\c&H4D5854&}Werewolf PogChamp
+Dialogue: 1081,0:00:00.33,0:00:07.13,Chat,,0,0,0,,{\be1\an2\move(1920,1040,-3000,1040,0,6800)\fs30\c&H26D8A0&\alpha&H7f}Kreygasm HARUNA BEST GIRL Kreygasm
+Dialogue: 1080,0:00:50.36,0:00:56.36,Chat,,0,0,0,,{\be1\an2\move(1920,807,-1360,807,0,6000)\fs50\c&HE35E5F&}META
+Dialogue: 1079,0:00:50.54,0:00:56.54,Chat,,0,0,0,,{\be1\an2\move(1920,594,-1460,594,0,6000)\fs50\c&H7B5E9E&}KKona
+Dialogue: 1078,0:00:51.09,0:00:57.09,Chat,,0,0,0,,{\be1\an2\move(1920,843,-2560,843,0,6000)\fs100\c&HAA5685&}PogChamp
+Dialogue: 1077,0:00:51.27,0:00:57.27,Chat,,0,0,0,,{\be1\an2\move(1920,107,-2460,107,0,6000)\fs44\c&H969D1C&}U S A U S A U S A
+Dialogue: 1076,0:00:51.63,0:00:57.63,Chat,,0,0,0,,{\be1\an2\move(1920,144,-2060,144,0,6000)\fs50\c&H59E25B&}monkaS 🥄
+Dialogue: 1075,0:00:52.28,0:00:58.28,Chat,,0,0,0,,{\be1\an2\move(1920,255,-1860,255,0,6000)\fs50\c&HAD1F1F&}MORE 🤔
+Dialogue: 1074,0:00:52.57,0:00:58.57,Chat,,0,0,0,,{\be1\an2\move(1920,522,-1560,522,0,6000)\fs50\c&H8ADF49&}monkaS
+Dialogue: 1073,0:00:03.20,0:00:09.19,Chat,,0,0,0,,{\be1\an2\move(1920,120,-2460,120,0,6000)\fs30\c&H1B9B91&\alpha&H7f}THERE WILL BE NO JOJO lol
+Dialogue: 1072,0:00:53.42,0:00:59.42,Chat,,0,0,0,,{\be1\an2\move(1920,365,-1660,365,0,6000)\fs50\c&HA9751E&}OhMyDog
+Dialogue: 1071,0:00:53.71,0:00:59.71,Chat,,0,0,0,,{\be1\an2\move(1920,189,-2460,189,0,6000)\fs50\c&H187A89&}Furries WutFace
+Dialogue: 1070,0:00:04.53,0:00:10.53,Chat,,0,0,0,,{\be1\an2\move(1920,845,-2460,845,0,6000)\fs34\c&HE671C6&\alpha&H7f}KKona WHERE'S MY SNACK
+Dialogue: 1069,0:00:05.06,0:00:16.86,Chat,,0,0,0,,{\be1\an2\move(1920,689,-4500,689,0,11800)\fs30\c&H84173C&\alpha&H7f}TPhimefrown TPhimefrown TPhimefrown TPhimefrown TPhimefrown
+Dialogue: 1068,0:00:55.33,0:01:01.33,Chat,,0,0,0,,{\be1\an2\move(1920,694,-1860,694,0,6000)\fs50\c&H3D1C9E&}Sick beat
+Dialogue: 1067,0:00:56.00,0:01:02.00,Chat,,0,0,0,,{\be1\an2\move(1920,289,-2460,289,0,6000)\fs44\c&H3FDD81&}Joker game? Kappa
+Dialogue: 1066,0:00:06.63,0:00:15.43,Chat,,0,0,0,,{\be1\an2\move(1920,424,-3600,424,0,8800)\fs30\c&H788217&\alpha&H7f}PogChamp PogChamp PogChamp PogChamp PogChamp
+Dialogue: 1065,0:00:57.60,0:01:03.60,Chat,,0,0,0,,{\be1\an2\move(1920,173,-1710,173,0,6000)\fs75\c&HAF72AD&}GIRLS
+Dialogue: 1064,0:00:58.00,0:01:04.00,Chat,,0,0,0,,{\be1\an2\move(1920,177,-2160,177,0,6000)\fs50\c&HD76026&}WEREWOLF LOL
+Dialogue: 1063,0:00:58.28,0:01:04.28,Chat,,0,0,0,,{\be1\an2\move(1920,510,-2060,510,0,6000)\fs50\c&H198F55&}CLAP BEATS!
+Dialogue: 1062,0:00:08.42,0:00:16.22,Chat,,0,0,0,,{\be1\an2\move(1920,883,-3300,883,0,7800)\fs30\c&H9CE56C&\alpha&H7f}TPhimev TPhimev TPhimev TPhimev TPhimev
+Dialogue: 1061,0:00:58.57,0:01:04.57,Chat,,0,0,0,,{\be1\an2\move(1920,933,-1460,933,0,6000)\fs50\c&HA0AA1E&}YOSHI
+Dialogue: 1060,0:00:58.85,0:01:06.85,Chat,,0,0,0,,{\be1\an2\move(1920,353,-2560,353,0,8000)\fs100\c&H559B91&}Kreygasm
+Dialogue: 1059,0:00:08.92,0:00:20.92,Chat,,0,0,0,,{\be1\an2\move(1920,995,-6460,995,0,12000)\fs50\c&H56BB94&\alpha&H7f}TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll
+Dialogue: 1058,0:00:59.42,0:01:05.42,Chat,,0,0,0,,{\be1\an2\move(1920,97,-2060,97,0,6000)\fs50\c&H9AE466&}DOESN'T USE
+Dialogue: 1057,0:00:09.71,0:00:21.71,Chat,,0,0,0,,{\be1\an2\move(1920,629,-5060,629,0,12000)\fs50\c&H8FAE3D&\alpha&H7f}TPcrunchyroll TPcrunchyroll TPcrunchyroll
+Dialogue: 1056,0:01:00.22,0:01:06.22,Chat,,0,0,0,,{\be1\an2\move(1920,940,-1760,940,0,6000)\fs50\c&H981B51&}moon2WUT
+Dialogue: 1055,0:01:00.44,0:01:06.44,Chat,,0,0,0,,{\be1\an2\move(1920,707,-1360,707,0,6000)\fs50\c&H1A964D&}GAMU
+Dialogue: 1054,0:01:01.33,0:01:07.33,Chat,,0,0,0,,{\be1\an2\move(1920,555,-2260,555,0,6000)\fs50\c&H23A1C4&}Town of Salem
+Dialogue: 1053,0:01:01.55,0:01:07.55,Chat,,0,0,0,,{\be1\an2\move(1920,116,-960,116,0,6000)\fs50\c&H7355E1&}
+Dialogue: 1052,0:01:02.00,0:01:08.00,Chat,,0,0,0,,{\be1\an2\move(1920,378,-2160,378,0,6000)\fs75\c&H74A788&}PogChamp
+Dialogue: 1051,0:01:02.25,0:01:08.25,Chat,,0,0,0,,{\be1\an2\move(1920,970,-1660,970,0,6000)\fs50\c&H2B5E56&}WutFace
+Dialogue: 1050,0:00:12.66,0:00:20.76,Chat,,0,0,0,,{\be1\an2\move(1920,134,-3390,134,0,8100)\fs44\c&H93986E&\alpha&H7f}TPcrunchyroll TPcrunchyroll
+Dialogue: 1049,0:00:12.81,0:00:18.81,Chat,,0,0,0,,{\be1\an2\move(1920,428,-2520,428,0,6000)\fs30\c&H655FE3&\alpha&H7f}PogChamp PogChamp PogChamp
+Dialogue: 1048,0:00:12.88,0:00:18.88,Chat,,0,0,0,,{\be1\an2\move(1920,1011,-2460,1011,0,6000)\fs32\c&HD3E35E&\alpha&H7f}WHAT LANGUAGE IS THIS?!
+Dialogue: 1047,0:01:03.00,0:01:09.00,Chat,,0,0,0,,{\be1\an2\move(1920,800,-1560,800,0,6000)\fs50\c&H88186E&}monkaS
+Dialogue: 1046,0:00:13.25,0:00:19.25,Chat,,0,0,0,,{\be1\an2\move(1920,160,-2460,160,0,6000)\fs35\c&HC42323&\alpha&H7f}Kreygasm GOOD ENGLISH
+Dialogue: 1045,0:00:14.22,0:00:21.42,Chat,,0,0,0,,{\be1\an2\move(1920,870,-3120,870,0,7200)\fs30\c&HDC3672&\alpha&H7f}WHAT IS THIS ENGLISH SHIT I'M SCARED
+Dialogue: 1044,0:01:04.25,0:01:10.25,Chat,,0,0,0,,{\be1\an2\move(1920,971,-2460,971,0,6000)\fs44\c&H24C963&}werewolf PogChamp
+Dialogue: 1043,0:00:14.44,0:00:20.44,Chat,,0,0,0,,{\be1\an2\move(1920,1033,-2460,1033,0,6000)\fs35\c&H5421BB&\alpha&H7f}LUL Nani the fuck LUL
+Dialogue: 1042,0:01:04.50,0:01:10.50,Chat,,0,0,0,,{\be1\an2\move(1920,611,-2460,611,0,6000)\fs41\c&H3DAC1E&}FeelsGoodMan JOSHY
+Dialogue: 1041,0:01:04.75,0:01:10.75,Chat,,0,0,0,,{\be1\an2\move(1920,347,-2360,347,0,6000)\fs50\c&HB4806A&}GIRLS Kreygasm
+Dialogue: 1040,0:01:05.00,0:01:11.00,Chat,,0,0,0,,{\be1\an2\move(1920,309,-2460,309,0,6000)\fs50\c&HDEE87B&}Furries WutFace
+Dialogue: 1039,0:01:05.25,0:01:11.25,Chat,,0,0,0,,{\be1\an2\move(1920,482,-1560,482,0,6000)\fs50\c&H2489CF&}Joyshi
+Dialogue: 1038,0:01:05.50,0:01:11.50,Chat,,0,0,0,,{\be1\an2\move(1920,770,-2160,770,0,6000)\fs50\c&HDA2C48&}thisi awfull
+Dialogue: 1037,0:00:16.08,0:00:22.08,Chat,,0,0,0,,{\be1\an2\move(1920,383,-2460,383,0,6000)\fs35\c&H22BE79&\alpha&H7f}WHAT LANGUAGE IS THIS
+Dialogue: 1036,0:01:06.50,0:01:12.50,Chat,,0,0,0,,{\be1\an2\move(1920,1001,-2060,1001,0,6000)\fs50\c&H9CBE22&}wtf is this
+Dialogue: 1035,0:01:06.75,0:01:12.75,Chat,,0,0,0,,{\be1\an2\move(1920,572,-1460,572,0,6000)\fs50\c&HC8DF4A&}raysP
+Dialogue: 1034,0:00:17.18,0:00:23.18,Chat,,0,0,0,,{\be1\an2\move(1920,56,-2460,56,0,6000)\fs32\c&H55E1D0&\alpha&H7f}NO ENGRISH PLZ DansGame
+Dialogue: 1033,0:01:07.25,0:01:13.25,Chat,,0,0,0,,{\be1\an2\move(1920,423,-2460,423,0,6000)\fs39\c&HD4E35E&}LUL 12k VIEWERS LUL
+Dialogue: 1032,0:00:18.22,0:00:24.22,Chat,,0,0,0,,{\be1\an2\move(1920,533,-2460,533,0,6000)\fs32\c&HD2DF4B&\alpha&H7f}ENGLISH WutFace WutFace
+Dialogue: 1031,0:00:18.44,0:00:30.24,Chat,,0,0,0,,{\be1\an2\move(1920,605,-4500,605,0,11800)\fs30\c&H8433DB&\alpha&H7f}This anime is like the most "OK" thing i've watched all day
+Dialogue: 1030,0:01:08.61,0:01:14.61,Chat,,0,0,0,,{\be1\an2\move(1920,671,-1260,671,0,6000)\fs50\c&H1A8A96&}NET
+Dialogue: 1029,0:01:08.76,0:01:14.76,Chat,,0,0,0,,{\be1\an2\move(1920,812,-1160,812,0,6000)\fs50\c&HDB6B35&}3D
+Dialogue: 1028,0:01:08.92,0:01:14.92,Chat,,0,0,0,,{\be1\an2\move(1920,296,-1760,296,0,6000)\fs50\c&HA01C45&}GUYS OUT
+Dialogue: 1027,0:00:19.11,0:00:25.11,Chat,,0,0,0,,{\be1\an2\move(1920,299,-2460,299,0,6000)\fs31\c&HAB3EDD&\alpha&H7f}Wow, that was impressive
+Dialogue: 1026,0:01:09.07,0:01:15.47,Chat,,0,0,0,,{\be1\an2\move(1920,164,-2560,164,0,6400)\fs100\c&H988A60&}Kreygasm
+Dialogue: 1025,0:00:19.77,0:00:25.77,Chat,,0,0,0,,{\be1\an2\move(1920,293,-2460,293,0,6000)\fs31\c&H5468E1&\alpha&H7f}PERFECT ENGLISH PogChamp
+Dialogue: 1024,0:01:09.69,0:01:15.69,Chat,,0,0,0,,{\be1\an2\move(1920,209,-1560,209,0,6000)\fs50\c&H22A9C2&}GRILLS
+Dialogue: 1023,0:00:20.46,0:00:29.87,Chat,,0,0,0,,{\be1\an2\move(1920,1021,-3780,1021,0,9400)\fs30\c&HE04E7B&\alpha&H7f}ENGLISH WutFace WutFace WutFace WutFace WutFace
+Dialogue: 1022,0:00:20.82,0:00:26.82,Chat,,0,0,0,,{\be1\an2\move(1920,267,-2460,267,0,6000)\fs30\c&H3CDD44&\alpha&H7f}Good english in anime LUL
+Dialogue: 1021,0:00:21.29,0:00:27.29,Chat,,0,0,0,,{\be1\an2\move(1920,41,-2460,41,0,6000)\fs31\c&H3B89DC&\alpha&H7f}IS THAT ENGLISH PogChamp
+Dialogue: 1020,0:01:10.22,0:01:16.22,Chat,,0,0,0,,{\be1\an2\move(1920,127,-1560,127,0,6000)\fs50\c&HB76620&}(puke)
+Dialogue: 1019,0:01:10.66,0:01:16.66,Chat,,0,0,0,,{\be1\an2\move(1920,752,-1760,752,0,6000)\fs50\c&H5B4CDF&}virgins!
+Dialogue: 1018,0:00:22.11,0:00:28.11,Chat,,0,0,0,,{\be1\an2\move(1920,187,-2460,187,0,6000)\fs34\c&HC3E468&\alpha&H7f}im so fucking confused
+Dialogue: 1017,0:00:22.22,0:00:28.22,Chat,,0,0,0,,{\be1\an2\move(1920,468,-2700,468,0,6000)\fs30\c&H21BC9C&\alpha&H7f}KKona KKona KKona KKona KKona
+Dialogue: 1016,0:00:22.66,0:00:28.66,Chat,,0,0,0,,{\be1\an2\move(1920,596,-2460,596,0,6000)\fs32\c&H2CC8DA&\alpha&H7f}nininini nihongo de Oke
+Dialogue: 1015,0:00:23.22,0:00:35.22,Chat,,0,0,0,,{\be1\an2\move(1920,584,-5220,584,0,12000)\fs30\c&HB423C4&\alpha&H7f}She spoke English, the barrier was broken lads. WutFace WutFace WutFace
+Dialogue: 1014,0:01:13.20,0:01:19.20,Chat,,0,0,0,,{\be1\an2\move(1920,638,-2360,638,0,6000)\fs50\c&H58D325&}Grills WutFace
+Dialogue: 1013,0:00:23.33,0:00:29.33,Chat,,0,0,0,,{\be1\an2\move(1920,284,-2460,284,0,6000)\fs32\c&HB634DB&\alpha&H7f}nihongo de ok SeemsGood
+Dialogue: 1012,0:00:23.55,0:00:29.55,Chat,,0,0,0,,{\be1\an2\move(1920,912,-2460,912,0,6000)\fs34\c&H1B198F&\alpha&H7f}GOOD ENGLISH ?????????
+Dialogue: 1011,0:01:13.59,0:01:19.59,Chat,,0,0,0,,{\be1\an2\move(1920,755,-1260,755,0,6000)\fs50\c&HC42EDA&}LUL
+Dialogue: 1010,0:00:23.66,0:00:29.66,Chat,,0,0,0,,{\be1\an2\move(1920,984,-2460,984,0,6000)\fs32\c&HE155B1&\alpha&H7f}WutFace WutFace WutFace
+Dialogue: 1009,0:00:24.00,0:00:30.00,Chat,,0,0,0,,{\be1\an2\move(1920,72,-2580,72,0,6000)\fs30\c&H18718B&\alpha&H7f}TheIlluminati TheIlluminati
+Dialogue: 1008,0:00:24.39,0:00:31.30,Chat,,0,0,0,,{\be1\an2\move(1920,108,-3210,108,0,6900)\fs48\c&H639E8D&\alpha&H7f}SourPls SourPls SourPls
+Dialogue: 1007,0:01:14.28,0:01:20.28,Chat,,0,0,0,,{\be1\an2\move(1920,772,-2160,772,0,6000)\fs50\c&HE4678C&}FeelsGoodMan
+Dialogue: 1006,0:00:24.66,0:00:30.66,Chat,,0,0,0,,{\be1\an2\move(1920,834,-2580,834,0,6000)\fs30\c&H177C82&\alpha&H7f}WTF I NEED SNACKS SwiftRage
+Dialogue: 1005,0:01:14.85,0:01:20.85,Chat,,0,0,0,,{\be1\an2\move(1920,148,-1860,148,0,6000)\fs75\c&H9CC164&}TTours
+Dialogue: 1004,0:00:25.46,0:00:31.46,Chat,,0,0,0,,{\be1\an2\move(1920,834,-2640,834,0,6000)\fs30\c&H1B9824&\alpha&H7f}English? In my anime? REEEEE
+Dialogue: 1003,0:01:15.42,0:01:21.42,Chat,,0,0,0,,{\be1\an2\move(1920,965,-1760,965,0,6000)\fs50\c&H7421BC&}DansGame
+Dialogue: 1002,0:00:25.86,0:00:31.86,Chat,,0,0,0,,{\be1\an2\move(1920,288,-2460,288,0,6000)\fs30\c&H20B875&\alpha&H7f}I CANT SPEAK WHITE PEOPLE
+Dialogue: 1001,0:01:15.71,0:01:21.71,Chat,,0,0,0,,{\be1\an2\move(1920,224,-2360,224,0,6000)\fs50\c&H1C9D50&}JOSHI Kreygasm
+Dialogue: 1000,0:01:16.25,0:01:22.25,Chat,,0,0,0,,{\be1\an2\move(1920,907,-1660,907,0,6000)\fs50\c&H99DF47&}danGasm
+Dialogue: 999,0:01:16.75,0:01:22.75,Chat,,0,0,0,,{\be1\an2\move(1920,977,-1660,977,0,6000)\fs50\c&H69AFDC&}SourPls
+Dialogue: 998,0:00:27.60,0:00:33.60,Chat,,0,0,0,,{\be1\an2\move(1920,310,-2460,310,0,6000)\fs30\c&HB3CD24&\alpha&H7f}OMG LOL LOL OMG USA 4Head
+Dialogue: 997,0:01:17.00,0:01:23.00,Chat,,0,0,0,,{\be1\an2\move(1920,688,-2460,688,0,6000)\fs50\c&HBC213A&}this is awfulll
+Dialogue: 996,0:01:17.25,0:01:23.25,Chat,,0,0,0,,{\be1\an2\move(1920,534,-2060,534,0,6000)\fs50\c&H6CE574&}Girlwolfs?!
+Dialogue: 995,0:00:28.00,0:00:34.00,Chat,,0,0,0,,{\be1\an2\move(1920,811,-2580,811,0,6000)\fs30\c&H581C9E&\alpha&H7f}PunOko PunOko PunOko PunOko
+Dialogue: 994,0:00:28.85,0:00:39.45,Chat,,0,0,0,,{\be1\an2\move(1920,972,-4140,972,0,10600)\fs30\c&HE5B96D&\alpha&H7f}I DONT KNOW WHATS GOING ON BUT IT SEEMS COOL PogChamp
+Dialogue: 993,0:01:18.33,0:01:24.33,Chat,,0,0,0,,{\be1\an2\move(1920,64,-1660,64,0,6000)\fs50\c&HDA2FB8&}CGI LUL
+Dialogue: 992,0:01:18.66,0:01:24.66,Chat,,0,0,0,,{\be1\an2\move(1920,381,-1560,381,0,6000)\fs50\c&H749C1C&}10 fps
+Dialogue: 991,0:00:29.00,0:00:38.39,Chat,,0,0,0,,{\be1\an2\move(1920,59,-3780,59,0,9400)\fs30\c&HC48E23&\alpha&H7f}evoShill evoUSA evoShill evoUSA evoShill evoUSA
+Dialogue: 990,0:00:29.14,0:00:35.14,Chat,,0,0,0,,{\be1\an2\move(1920,218,-2460,218,0,6000)\fs30\c&H8C3519&\alpha&H7f}ENGLISH DansGame DansGame
+Dialogue: 989,0:00:29.71,0:00:40.91,Chat,,0,0,0,,{\be1\an2\move(1920,896,-4320,896,0,11200)\fs30\c&HCB9324&\alpha&H7f}Hime-chan?? PogChamp PogChamp PogChamp PogChamp PogChamp
+Dialogue: 988,0:00:29.85,0:00:35.85,Chat,,0,0,0,,{\be1\an2\move(1920,465,-2700,465,0,6000)\fs30\c&H61E397&\alpha&H7f}USA yeah! USA yeah! USA yeah!
+Dialogue: 987,0:01:19.00,0:01:25.00,Chat,,0,0,0,,{\be1\an2\move(1920,270,-1760,270,0,6000)\fs50\c&H4BD7DF&}Jebaited
+Dialogue: 986,0:01:19.33,0:01:25.33,Chat,,0,0,0,,{\be1\an2\move(1920,479,-2460,479,0,6000)\fs41\c&HC6DD3F&}SATANIC RITUAL LUL
+Dialogue: 985,0:01:19.66,0:01:25.66,Chat,,0,0,0,,{\be1\an2\move(1920,162,-2360,162,0,6000)\fs50\c&H5D83E2&}DansGame Dizzy
+Dialogue: 984,0:00:30.00,0:00:36.00,Chat,,0,0,0,,{\be1\an2\move(1920,277,-2460,277,0,6000)\fs35\c&HA1AB1E&\alpha&H7f}wow crunchy roll lmao
+Dialogue: 983,0:00:30.18,0:00:36.18,Chat,,0,0,0,,{\be1\an2\move(1920,321,-2460,321,0,6000)\fs35\c&HBB21A5&\alpha&H7f}TPcrunchyroll SELLOUT
+Dialogue: 982,0:01:20.00,0:01:26.00,Chat,,0,0,0,,{\be1\an2\move(1920,253,-1760,253,0,6000)\fs50\c&H4CBE42&}Kreygasm
+Dialogue: 981,0:00:31.63,0:00:43.63,Chat,,0,0,0,,{\be1\an2\move(1920,165,-5940,165,0,12000)\fs30\c&H8364AD&\alpha&H7f}TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll
+Dialogue: 980,0:00:32.16,0:00:44.16,Chat,,0,0,0,,{\be1\an2\move(1920,1025,-5100,1025,0,12000)\fs30\c&HDEB967&\alpha&H7f}TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll
+Dialogue: 979,0:00:32.66,0:00:38.66,Chat,,0,0,0,,{\be1\an2\move(1920,410,-2700,410,0,6000)\fs30\c&H37B7DC&\alpha&H7f}PartyTime PartyTime PartyTime
+Dialogue: 978,0:00:33.00,0:00:44.79,Chat,,0,0,0,,{\be1\an2\move(1920,240,-4500,240,0,11800)\fs30\c&HDD3C8B&\alpha&H7f}USA KKona USA KKona USA KKona USA KKona USA KKona USA KKona
+Dialogue: 977,0:00:33.33,0:00:39.33,Chat,,0,0,0,,{\be1\an2\move(1920,428,-2460,428,0,6000)\fs35\c&H95DE41&\alpha&H7f}OpieOP SNACKS? OpieOP
+Dialogue: 976,0:00:33.50,0:00:40.89,Chat,,0,0,0,,{\be1\an2\move(1920,414,-3180,414,0,7400)\fs30\c&HC5235A&\alpha&H7f}TwitchPresents for shadow TPhimefrown
+Dialogue: 975,0:01:23.33,0:01:29.33,Chat,,0,0,0,,{\be1\an2\move(1920,547,-2010,547,0,6000)\fs75\c&H4AB3D6&}WutFace
+Dialogue: 974,0:00:34.25,0:00:40.25,Chat,,0,0,0,,{\be1\an2\move(1920,843,-2460,843,0,6000)\fs34\c&H181886&\alpha&H7f}PAID BY STEVE PogChamp
+Dialogue: 973,0:00:35.00,0:00:41.00,Chat,,0,0,0,,{\be1\an2\move(1920,473,-2700,473,0,6000)\fs30\c&H5CE2CA&\alpha&H7f}what is happening NotLikeThis
+Dialogue: 972,0:00:36.44,0:00:48.44,Chat,,0,0,0,,{\be1\an2\move(1920,958,-9480,958,0,12000)\fs30\c&HE7D975&\alpha&H7f}BigBrother ? BigBrother ? BigBrother ? BigBrother ? BigBrother ? BigBrother ? BigBrother ? BigBrother ? BigBrother ? BigBrother ? BigBrother ?
+Dialogue: 971,0:00:37.11,0:00:43.11,Chat,,0,0,0,,{\be1\an2\move(1920,297,-2460,297,0,6000)\fs32\c&HDC3A92&\alpha&H7f}ENGLISH DO YOU SPEAK IT
+Dialogue: 970,0:01:27.00,0:01:33.00,Chat,,0,0,0,,{\be1\an2\move(1920,605,-2060,605,0,6000)\fs50\c&H637958&}NotLikeThis
+Dialogue: 969,0:00:37.33,0:00:43.33,Chat,,0,0,0,,{\be1\an2\move(1920,874,-2460,874,0,6000)\fs37\c&H2451CC&}Buff wooser PogChamp
+Dialogue: 968,0:00:37.55,0:00:44.35,Chat,,0,0,0,,{\be1\an2\move(1920,172,-3000,172,0,6800)\fs30\c&HAB401E&\alpha&H7f}VoHiYo VoHiYo VoHiYo VoHiYo VoHiYo
+Dialogue: 967,0:01:28.00,0:01:34.00,Chat,,0,0,0,,{\be1\an2\move(1920,1018,-2460,1018,0,6000)\fs50\c&H1A914C&}who is the spy?
+Dialogue: 966,0:00:39.33,0:00:51.33,Chat,,0,0,0,,{\be1\an2\move(1920,698,-8460,698,0,12000)\fs30\c&H4551DE&\alpha&H7f}PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp
+Dialogue: 965,0:00:40.00,0:00:46.00,Chat,,0,0,0,,{\be1\an2\move(1920,662,-2460,662,0,6000)\fs35\c&H29BDD9&\alpha&H7f}we need JAP subtitles
+Dialogue: 964,0:00:40.46,0:00:52.46,Chat,,0,0,0,,{\be1\an2\move(1920,156,-8100,156,0,12000)\fs30\c&H2B198D&\alpha&H7f}I NEED SNACK TIME KKona I NEED SNACK TIME KKona I NEED SNACK TIME KKona I NEED SNACK TIME KKona I NEED SNACK TIME KKona
+Dialogue: 963,0:00:40.61,0:00:47.81,Chat,,0,0,0,,{\be1\an2\move(1920,716,-3120,716,0,7200)\fs30\c&H185986&\alpha&H7f}PROPER ENGLISH PRONUNCIATION WutFace
+Dialogue: 962,0:01:31.00,0:01:37.00,Chat,,0,0,0,,{\be1\an2\move(1920,124,-1760,124,0,6000)\fs50\c&H23AFC9&}Kreygasm
+Dialogue: 961,0:00:41.22,0:00:53.22,Chat,,0,0,0,,{\be1\an2\move(1920,70,-8460,70,0,12000)\fs30\c&H173E84&\alpha&H7f}TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll
+Dialogue: 960,0:00:41.38,0:00:53.38,Chat,,0,0,0,,{\be1\an2\move(1920,84,-4680,84,0,12000)\fs30\c&H7EE673&\alpha&H7f}SourPls SourPlsBetterTTV Global Emotes SourPls SourPls SourPls
+Dialogue: 959,0:01:31.50,0:01:37.50,Chat,,0,0,0,,{\be1\an2\move(1920,191,-1860,191,0,6000)\fs50\c&HD5DC38&}BrokeBack
+Dialogue: 958,0:00:42.00,0:00:51.00,Chat,,0,0,0,,{\be1\an2\move(1920,112,-3660,112,0,9000)\fs30\c&H42DEBA&\alpha&H7f}THIS ANIME KNOWS OF THE AMRATHON!! ScaredyCat
+Dialogue: 957,0:00:42.22,0:00:52.62,Chat,,0,0,0,,{\be1\an2\move(1920,219,-4080,219,0,10400)\fs30\c&HD278E7&\alpha&H7f}those who put this in the marathon are pretty savage
+Dialogue: 956,0:00:42.44,0:00:48.44,Chat,,0,0,0,,{\be1\an2\move(1920,899,-2580,899,0,6000)\fs30\c&H7C2CDA&\alpha&H7f}Kreygasm GACHI BOY Kreygasm
+Dialogue: 955,0:00:42.66,0:00:48.66,Chat,,0,0,0,,{\be1\an2\move(1920,715,-2460,715,0,6000)\fs34\c&H75A4E7&\alpha&H7f}nihongo ga wakarimasen
+Dialogue: 954,0:01:32.00,0:01:38.00,Chat,,0,0,0,,{\be1\an2\move(1920,220,-2460,220,0,6000)\fs39\c&H8A1863&}my head NotLikeThis
+Dialogue: 953,0:01:33.00,0:01:39.00,Chat,,0,0,0,,{\be1\an2\move(1920,943,-1360,943,0,6000)\fs50\c&H7221B9&}ME ?
+Dialogue: 952,0:00:44.18,0:00:51.98,Chat,,0,0,0,,{\be1\an2\move(1920,161,-3300,161,0,7800)\fs30\c&H6D20B5&\alpha&H7f}tyler1SSJ tyler1SSJ tyler1SSJ tyler1SSJ
+Dialogue: 951,0:01:34.00,0:01:40.00,Chat,,0,0,0,,{\be1\an2\move(1920,1016,-1460,1016,0,6000)\fs50\c&HE25BA4&}JOSHY
+Dialogue: 950,0:01:34.40,0:01:40.40,Chat,,0,0,0,,{\be1\an2\move(1920,725,-1360,725,0,6000)\fs50\c&H25D47C&}Rem?
+Dialogue: 949,0:01:34.79,0:01:40.79,Chat,,0,0,0,,{\be1\an2\move(1920,200,-1260,200,0,6000)\fs50\c&H21BD66&}ME?
+Dialogue: 948,0:00:45.27,0:00:51.27,Chat,,0,0,0,,{\be1\an2\move(1920,274,-2760,274,0,6000)\fs30\c&H2333C9&\alpha&H7f}РУССКИЕ ЕСТЬ? Kappa
+Dialogue: 947,0:01:35.20,0:01:41.20,Chat,,0,0,0,,{\be1\an2\move(1920,573,-2460,573,0,6000)\fs46\c&HC69123&}Rin FeelsGoodMan
+Dialogue: 946,0:01:35.59,0:01:41.59,Chat,,0,0,0,,{\be1\an2\move(1920,401,-2460,401,0,6000)\fs46\c&HB2C122&}OwO what's this?
+Dialogue: 945,0:00:46.00,0:00:52.00,Chat,,0,0,0,,{\be1\an2\move(1920,422,-2460,422,0,6000)\fs30\c&HDD4071&\alpha&H7f}NO SNACKS!@TwitchPresents
+Dialogue: 944,0:01:36.25,0:01:42.25,Chat,,0,0,0,,{\be1\an2\move(1920,381,-1860,381,0,6000)\fs50\c&H1B7796&}LEN Pogzo
+Dialogue: 943,0:01:36.50,0:01:42.50,Chat,,0,0,0,,{\be1\an2\move(1920,399,-1160,399,0,6000)\fs50\c&HD928A9&}ME
+Dialogue: 942,0:01:36.75,0:01:42.75,Chat,,0,0,0,,{\be1\an2\move(1920,131,-2460,131,0,6000)\fs46\c&H4BD425&}RIN LEN YUU MIHO
+Dialogue: 941,0:01:37.25,0:01:43.25,Chat,,0,0,0,,{\be1\an2\move(1920,995,-2060,995,0,6000)\fs50\c&H8821B8&}me ? monkaS
+Dialogue: 940,0:00:47.42,0:00:53.42,Chat,,0,0,0,,{\be1\an2\move(1920,605,-2460,605,0,6000)\fs35\c&H40B11F&\alpha&H7f}SELLOUT THE ANIME LUL
+Dialogue: 939,0:00:47.71,0:00:53.91,Chat,,0,0,0,,{\be1\an2\move(1920,789,-2820,789,0,6200)\fs30\c&H1D68A2&\alpha&H7f}THAT WAS UNCANNY VALLEY ENGLISH
+Dialogue: 938,0:01:37.50,0:01:43.50,Chat,,0,0,0,,{\be1\an2\move(1920,969,-2360,969,0,6000)\fs100\c&H528597&}WutFace
+Dialogue: 937,0:01:37.75,0:01:43.75,Chat,,0,0,0,,{\be1\an2\move(1920,635,-2160,635,0,6000)\fs50\c&HA71D45&}YOU. ME. LUL
+Dialogue: 936,0:01:38.40,0:01:44.40,Chat,,0,0,0,,{\be1\an2\move(1920,299,-1560,299,0,6000)\fs50\c&H1EAC9B&}ME????
+Dialogue: 935,0:01:38.79,0:01:44.79,Chat,,0,0,0,,{\be1\an2\move(1920,949,-960,949,0,6000)\fs50\c&HE6D072&}
+Dialogue: 934,0:01:39.20,0:01:45.20,Chat,,0,0,0,,{\be1\an2\move(1920,391,-1760,391,0,6000)\fs50\c&H2440CA&}ME??? :D
+Dialogue: 933,0:00:50.00,0:00:59.00,Chat,,0,0,0,,{\be1\an2\move(1920,341,-3660,341,0,9000)\fs30\c&H1FB22A&\alpha&H7f}PERFECT ENGLISH?! WE'RE ALL GOING TO DIE NOW.
+Dialogue: 932,0:01:40.00,0:01:46.00,Chat,,0,0,0,,{\be1\an2\move(1920,846,-1560,846,0,6000)\fs50\c&HC864E4&}RIN <3
+Dialogue: 931,0:01:40.28,0:01:46.28,Chat,,0,0,0,,{\be1\an2\move(1920,252,-1960,252,0,6000)\fs50\c&H4FCFE0&}DANGANROPA
+Dialogue: 930,0:00:50.72,0:00:56.72,Chat,,0,0,0,,{\be1\an2\move(1920,100,-2760,100,0,6000)\fs30\c&H761B9C&\alpha&H7f}日本語で OK! TPcrunchyroll
+Dialogue: 929,0:01:40.57,0:01:46.57,Chat,,0,0,0,,{\be1\an2\move(1920,216,-2460,216,0,6000)\fs41\c&H1C939D&}WHO IS THE TRAITOR
+Dialogue: 928,0:01:41.42,0:01:47.42,Chat,,0,0,0,,{\be1\an2\move(1920,752,-2460,752,0,6000)\fs41\c&H1B9870&}KAKEGURUI PogChamp
+Dialogue: 927,0:00:52.00,0:01:04.00,Chat,,0,0,0,,{\be1\an2\move(1920,180,-4680,180,0,12000)\fs30\c&HC24922&\alpha&H7f}VoHiYo TPcrunchyroll VoHiYo TPcrunchyroll VoHiYo TPcrunchyroll
+Dialogue: 926,0:00:52.85,0:00:58.85,Chat,,0,0,0,,{\be1\an2\move(1920,553,-2700,553,0,6000)\fs30\c&H971B3E&\alpha&H7f}I'VE PLAYED WEREWOLF PogChamp
+Dialogue: 925,0:01:42.00,0:01:48.00,Chat,,0,0,0,,{\be1\an2\move(1920,71,-1460,71,0,6000)\fs50\c&H26B420&}SABER
+Dialogue: 924,0:01:43.00,0:01:49.00,Chat,,0,0,0,,{\be1\an2\move(1920,639,-1560,639,0,6000)\fs50\c&HD929BB&}ME ???
+Dialogue: 923,0:01:44.28,0:01:50.28,Chat,,0,0,0,,{\be1\an2\move(1920,596,-1660,596,0,6000)\fs50\c&HA0221C&}I agree
+Dialogue: 922,0:00:54.66,0:01:06.66,Chat,,0,0,0,,{\be1\an2\move(1920,432,-6660,432,0,12000)\fs30\c&H8A79E7&\alpha&H7f}I NEED SNACK TIME KKona I NEED SNACK TIME KKona I NEED SNACK TIME KKona I NEED SNACK TIME KKona
+Dialogue: 921,0:01:44.85,0:01:50.85,Chat,,0,0,0,,{\be1\an2\move(1920,343,-1760,343,0,6000)\fs50\c&H3364DB&}PogChamp
+Dialogue: 920,0:01:45.14,0:01:51.14,Chat,,0,0,0,,{\be1\an2\move(1920,648,-2060,648,0,6000)\fs50\c&HB94621&}It's Gwent?
+Dialogue: 919,0:00:56.79,0:01:02.79,Chat,,0,0,0,,{\be1\an2\move(1920,680,-2520,680,0,6000)\fs30\c&H2A23C4&\alpha&H7f}Werewolf PogChamp PogChamp
+Dialogue: 918,0:01:46.66,0:01:52.66,Chat,,0,0,0,,{\be1\an2\move(1920,679,-2360,679,0,6000)\fs50\c&HDBCF32&}ANIME Dansgame
+Dialogue: 917,0:01:48.00,0:01:54.00,Chat,,0,0,0,,{\be1\an2\move(1920,488,-1560,488,0,6000)\fs50\c&HC99225&}monkaS
+Dialogue: 916,0:01:48.33,0:01:54.33,Chat,,0,0,0,,{\be1\an2\move(1920,791,-1660,791,0,6000)\fs50\c&H5AB954&}WutFace
+Dialogue: 915,0:01:49.00,0:01:55.00,Chat,,0,0,0,,{\be1\an2\move(1920,512,-1560,512,0,6000)\fs50\c&HB8206F&}kappa1
+Dialogue: 914,0:00:59.14,0:01:05.14,Chat,,0,0,0,,{\be1\an2\move(1920,542,-2460,542,0,6000)\fs37\c&HE4686F&}werewolfs within now
+Dialogue: 913,0:01:49.33,0:01:55.33,Chat,,0,0,0,,{\be1\an2\move(1920,781,-2360,781,0,6000)\fs50\c&HCD2498&}JOJO REFERENCE
+Dialogue: 912,0:01:00.00,0:01:06.00,Chat,,0,0,0,,{\be1\an2\move(1920,398,-2640,398,0,6000)\fs30\c&H6D991B&\alpha&H7f}Wow such AMAZING ENGLISH~~~~
+Dialogue: 911,0:01:50.50,0:01:56.50,Chat,,0,0,0,,{\be1\an2\move(1920,756,-1760,756,0,6000)\fs50\c&H1EA920&}Kreygasm
+Dialogue: 910,0:01:51.00,0:01:57.00,Chat,,0,0,0,,{\be1\an2\move(1920,840,-2260,840,0,6000)\fs50\c&H7AE8A7&}DANGANRONPA ?
+Dialogue: 909,0:01:51.50,0:01:57.50,Chat,,0,0,0,,{\be1\an2\move(1920,402,-2360,402,0,6000)\fs50\c&H4D5FE0&}DID HE SAY ME?
+Dialogue: 908,0:01:01.77,0:01:13.77,Chat,,0,0,0,,{\be1\an2\move(1920,162,-5220,162,0,12000)\fs30\c&H785EE3&\alpha&H7f}@Kiralord Nah, that was Anne Happy, this is at least visually different
+Dialogue: 907,0:01:52.00,0:01:58.00,Chat,,0,0,0,,{\be1\an2\move(1920,92,-2460,92,0,6000)\fs46\c&HCD9624&}actual boardgame
+Dialogue: 906,0:01:02.50,0:01:11.29,Chat,,0,0,0,,{\be1\an2\move(1920,638,-3600,638,0,8800)\fs30\c&HB62053&\alpha&H7f}I had excepted this to be a Mahjong refrence
+Dialogue: 905,0:01:02.75,0:01:10.95,Chat,,0,0,0,,{\be1\an2\move(1920,171,-3420,171,0,8200)\fs30\c&H97C623&\alpha&H7f}U S A. U S A. U S A. U S A. U S A. U S A.
+Dialogue: 904,0:01:03.25,0:01:11.04,Chat,,0,0,0,,{\be1\an2\move(1920,332,-3300,332,0,7800)\fs44\c&H5A8EC7&\alpha&H7f}Kreygasm Kreygasm Kreygasm
+Dialogue: 903,0:01:54.00,0:02:00.00,Chat,,0,0,0,,{\be1\an2\move(1920,760,-2160,760,0,6000)\fs50\c&H1DA339&}that's mafia
+Dialogue: 902,0:01:54.66,0:02:00.66,Chat,,0,0,0,,{\be1\an2\move(1920,420,-1660,420,0,6000)\fs50\c&H49AD1F&}FURRIES
+Dialogue: 901,0:01:55.33,0:02:01.33,Chat,,0,0,0,,{\be1\an2\move(1920,735,-2460,735,0,6000)\fs41\c&H7A8618&}KAKEGURUI PogChamp
+Dialogue: 900,0:01:06.25,0:01:16.04,Chat,,0,0,0,,{\be1\an2\move(1920,320,-3900,320,0,9800)\fs30\c&HD025A1&\alpha&H7f}KKona IT'S BEEN 10 MINUTES WHERE'S MY SNACK KKona
+Dialogue: 899,0:01:08.00,0:01:18.00,Chat,,0,0,0,,{\be1\an2\move(1920,292,-3960,292,0,10000)\fs30\c&H1A9594&\alpha&H7f}JOSHI TehePelo JOSHI TehePelo JOSHI DA YO TehePelo
+Dialogue: 898,0:01:58.00,0:02:04.00,Chat,,0,0,0,,{\be1\an2\move(1920,838,-2360,838,0,6000)\fs50\c&HA41D7F&}Mafia PogChamp
+Dialogue: 897,0:01:58.66,0:02:04.66,Chat,,0,0,0,,{\be1\an2\move(1920,92,-2460,92,0,6000)\fs39\c&H937BE8&}REN IS THE WEREWOLF
+Dialogue: 896,0:01:58.88,0:02:04.88,Chat,,0,0,0,,{\be1\an2\move(1920,233,-2460,233,0,6000)\fs50\c&H7FE154&}CUTE GINGER BOY
+Dialogue: 895,0:01:59.33,0:02:05.33,Chat,,0,0,0,,{\be1\an2\move(1920,927,-1360,927,0,6000)\fs50\c&H2572D0&}LIES
+Dialogue: 894,0:01:59.55,0:02:05.55,Chat,,0,0,0,,{\be1\an2\move(1920,134,-1760,134,0,6000)\fs50\c&HD96228&}JeBaited
+Dialogue: 893,0:01:09.84,0:01:15.84,Chat,,0,0,0,,{\be1\an2\move(1920,967,-2460,967,0,6000)\fs34\c&H9D6D1C&\alpha&H7f}so many hirls Kreygasm
+Dialogue: 892,0:01:59.77,0:02:05.77,Chat,,0,0,0,,{\be1\an2\move(1920,960,-2060,960,0,6000)\fs50\c&H59E25B&}monkaS 🥄
+Dialogue: 891,0:01:10.44,0:01:17.44,Chat,,0,0,0,,{\be1\an2\move(1920,764,-3060,764,0,7000)\fs30\c&HC92392&\alpha&H7f}Kreygasm Kreygasm Kreygasm Kreygasm
+Dialogue: 890,0:02:00.00,0:02:06.00,Chat,,0,0,0,,{\be1\an2\move(1920,929,-1260,929,0,6000)\fs50\c&H519D1C&}LUL
+Dialogue: 889,0:02:00.40,0:02:06.40,Chat,,0,0,0,,{\be1\an2\move(1920,922,-2160,922,0,6000)\fs50\c&HE1547D&}LEN Kreygasm
+Dialogue: 888,0:01:10.88,0:01:16.88,Chat,,0,0,0,,{\be1\an2\move(1920,265,-2460,265,0,6000)\fs32\c&H7CE8B0&\alpha&H7f}WutFace NO GUYS WutFace
+Dialogue: 887,0:02:00.79,0:02:06.79,Chat,,0,0,0,,{\be1\an2\move(1920,507,-2460,507,0,6000)\fs46\c&H67B8E4&}BUNNY IS TRAITOR
+Dialogue: 886,0:01:11.11,0:01:17.11,Chat,,0,0,0,,{\be1\an2\move(1920,347,-2460,347,0,6000)\fs35\c&H26D75F&\alpha&H7f}Give us jo jo Jew Jew
+Dialogue: 885,0:01:11.33,0:01:17.33,Chat,,0,0,0,,{\be1\an2\move(1920,240,-2460,240,0,6000)\fs34\c&H37CFDC&\alpha&H7f}WHERE IS THIS Kreygasm
+Dialogue: 884,0:01:11.77,0:01:23.77,Chat,,0,0,0,,{\be1\an2\move(1920,98,-12300,98,0,12000)\fs30\c&HDE45D1&\alpha&H7f}IF I GET CRUNCHYROLL WILL I BE ABLE TO WATCH ALL ANIME IN ENGLIGH????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Dialogue: 883,0:02:02.00,0:02:08.00,Chat,,0,0,0,,{\be1\an2\move(1920,450,-2460,450,0,6000)\fs41\c&H7DE674&}BLONDI IS THE WOLF
+Dialogue: 882,0:02:02.50,0:02:08.50,Chat,,0,0,0,,{\be1\an2\move(1920,250,-2260,250,0,6000)\fs50\c&H2CAE1F&}he's lying D:
+Dialogue: 881,0:02:03.00,0:02:09.00,Chat,,0,0,0,,{\be1\an2\move(1920,150,-2360,150,0,6000)\fs50\c&HD5E156&}Danganronpa V3
+Dialogue: 880,0:01:14.00,0:01:26.00,Chat,,0,0,0,,{\be1\an2\move(1920,471,-10980,471,0,12000)\fs30\c&H9A4DE0&\alpha&H7f}NOW THIS IS MY KIND OF HAREM FeelsGoodMan NOW THIS IS MY KIND OF HAREM FeelsGoodMan NOW THIS IS MY KIND OF HAREM FeelsGoodMan NOW THIS IS MY KIND OF HAREM FeelsGoodMan
+Dialogue: 879,0:02:05.33,0:02:11.33,Chat,,0,0,0,,{\be1\an2\move(1920,439,-1760,439,0,6000)\fs50\c&H8CA01C&}cmonBruh
+Dialogue: 878,0:02:06.00,0:02:12.00,Chat,,0,0,0,,{\be1\an2\move(1920,675,-2460,675,0,6000)\fs46\c&H26D86F&}ETRAIN ODESSEY ?
+Dialogue: 877,0:02:06.25,0:02:12.25,Chat,,0,0,0,,{\be1\an2\move(1920,890,-1460,890,0,6000)\fs50\c&H6D61C6&}MAFIA
+Dialogue: 876,0:01:16.50,0:01:28.50,Chat,,0,0,0,,{\be1\an2\move(1920,596,-10260,596,0,12000)\fs30\c&HD22578&\alpha&H7f}WEEBS DansGame WEEBS DansGame WEEBS DansGame WEEBS DansGame WEEBS DansGame WEEBS DansGame WEEBS DansGame WEEBS DansGame WEEBS DansGame WEEBS DansGame WEEBS
+Dialogue: 875,0:02:06.50,0:02:12.50,Chat,,0,0,0,,{\be1\an2\move(1920,877,-2460,877,0,6000)\fs39\c&H79E468&}Which anime is it ?
+Dialogue: 874,0:02:06.75,0:02:12.75,Chat,,0,0,0,,{\be1\an2\move(1920,190,-2460,190,0,6000)\fs50\c&H20ACB8&}WHO IS THE SPY?
+Dialogue: 873,0:02:07.00,0:02:13.00,Chat,,0,0,0,,{\be1\an2\move(1920,640,-2260,640,0,6000)\fs50\c&HC923A2&}Playing Mafia
+Dialogue: 872,0:02:07.25,0:02:13.25,Chat,,0,0,0,,{\be1\an2\move(1920,222,-1560,222,0,6000)\fs50\c&H64E49C&}TTours
+Dialogue: 871,0:01:17.50,0:01:23.50,Chat,,0,0,0,,{\be1\an2\move(1920,236,-2520,236,0,6000)\fs30\c&H2143BB&\alpha&H7f}Fire mixtape bruh BasedGod
+Dialogue: 870,0:02:07.50,0:02:13.50,Chat,,0,0,0,,{\be1\an2\move(1920,387,-2460,387,0,6000)\fs44\c&HDDCA3D&}werewolf cmonBruh
+Dialogue: 869,0:01:17.75,0:01:26.34,Chat,,0,0,0,,{\be1\an2\move(1920,950,-3540,950,0,8600)\fs30\c&H765DE2&\alpha&H7f}https://www.youtube.com/watch?v=MCxDJnHiLqs
+Dialogue: 868,0:02:07.75,0:02:13.75,Chat,,0,0,0,,{\be1\an2\move(1920,166,-2260,166,0,6000)\fs50\c&H26D840&}Len best girl
+Dialogue: 867,0:01:18.00,0:01:25.20,Chat,,0,0,0,,{\be1\an2\move(1920,774,-3120,774,0,7200)\fs30\c&H56E159&\alpha&H7f}staying up for world end FeelsBadMan
+Dialogue: 866,0:02:08.00,0:02:14.00,Chat,,0,0,0,,{\be1\an2\move(1920,464,-2460,464,0,6000)\fs50\c&HC17B22&}WEREWOLF WITHIN
+Dialogue: 865,0:02:08.40,0:02:14.40,Chat,,0,0,0,,{\be1\an2\move(1920,242,-2060,242,0,6000)\fs50\c&HB323C9&}DANGANRONPA
+Dialogue: 864,0:02:08.80,0:02:14.80,Chat,,0,0,0,,{\be1\an2\move(1920,682,-2460,682,0,6000)\fs39\c&H6935DB&}LOLI IS THE TRAITOR
+Dialogue: 863,0:02:10.00,0:02:16.00,Chat,,0,0,0,,{\be1\an2\move(1920,933,-2360,933,0,6000)\fs50\c&H1F46B2&}MAFIA PogChamp
+Dialogue: 862,0:02:10.50,0:02:16.50,Chat,,0,0,0,,{\be1\an2\move(1920,112,-2460,112,0,6000)\fs46\c&HD025AE&}I love this game
+Dialogue: 861,0:02:11.00,0:02:17.00,Chat,,0,0,0,,{\be1\an2\move(1920,764,-1860,764,0,6000)\fs50\c&HB85522&}Mafia LUL
+Dialogue: 860,0:02:11.50,0:02:17.50,Chat,,0,0,0,,{\be1\an2\move(1920,359,-2260,359,0,6000)\fs50\c&H1A7D91&}MONSUTO CAADO
+Dialogue: 859,0:02:12.00,0:02:18.00,Chat,,0,0,0,,{\be1\an2\move(1920,367,-2160,367,0,6000)\fs50\c&H301EAC&}ARARARGI-Kun
+Dialogue: 858,0:01:22.33,0:01:28.73,Chat,,0,0,0,,{\be1\an2\move(1920,521,-2880,521,0,6400)\fs30\c&H68E4D4&\alpha&H7f}DANCE (ditto) WITH (ditto) DITTO
+Dialogue: 857,0:01:22.66,0:01:28.66,Chat,,0,0,0,,{\be1\an2\move(1920,829,-2460,829,0,6000)\fs34\c&H1FB0AE&\alpha&H7f}NotLikeThis gonna puke
+Dialogue: 856,0:02:12.66,0:02:18.66,Chat,,0,0,0,,{\be1\an2\move(1920,173,-1760,173,0,6000)\fs50\c&HDB8834&}Jebaited
+Dialogue: 855,0:02:13.33,0:02:19.33,Chat,,0,0,0,,{\be1\an2\move(1920,867,-2460,867,0,6000)\fs46\c&HC22275&}BUNNY IS TRAITOR
+Dialogue: 854,0:01:23.66,0:01:29.66,Chat,,0,0,0,,{\be1\an2\move(1920,590,-2700,590,0,6000)\fs30\c&HA51D1E&\alpha&H7f}timing out the puke emote LUL
+Dialogue: 853,0:01:24.00,0:01:30.00,Chat,,0,0,0,,{\be1\an2\move(1920,376,-2460,376,0,6000)\fs35\c&H2B4BDA&\alpha&H7f}IT'S A FEAST Kreygasm
+Dialogue: 852,0:02:14.00,0:02:20.00,Chat,,0,0,0,,{\be1\an2\move(1920,803,-2160,803,0,6000)\fs50\c&HDA5F2E&}mafia monkaS
+Dialogue: 851,0:02:14.22,0:02:20.22,Chat,,0,0,0,,{\be1\an2\move(1920,180,-1560,180,0,6000)\fs50\c&H9EBC21&}3D LUL
+Dialogue: 850,0:02:14.44,0:02:20.44,Chat,,0,0,0,,{\be1\an2\move(1920,995,-1260,995,0,6000)\fs50\c&H341B9A&}SPY
+Dialogue: 849,0:01:25.00,0:01:31.00,Chat,,0,0,0,,{\be1\an2\move(1920,482,-2640,482,0,6000)\fs30\c&H1A916F&\alpha&H7f}Werewolf is a legit fun game
+Dialogue: 848,0:01:25.50,0:01:31.50,Chat,,0,0,0,,{\be1\an2\move(1920,964,-2460,964,0,6000)\fs30\c&H24C9A3&\alpha&H7f}DESPAIR!! upupupupupupupu
+Dialogue: 847,0:02:15.33,0:02:21.33,Chat,,0,0,0,,{\be1\an2\move(1920,759,-1860,759,0,6000)\fs50\c&H786EE5&}mafia lol
+Dialogue: 846,0:02:16.28,0:02:22.28,Chat,,0,0,0,,{\be1\an2\move(1920,96,-2460,96,0,6000)\fs44\c&H4BCCC2&}TOWN OF SALEM LUL
+Dialogue: 845,0:02:16.85,0:02:22.85,Chat,,0,0,0,,{\be1\an2\move(1920,904,-2460,904,0,6000)\fs39\c&HA2331D&}35 KILLS BTW PunOko
+Dialogue: 844,0:02:17.14,0:02:23.14,Chat,,0,0,0,,{\be1\an2\move(1920,895,-2360,895,0,6000)\fs50\c&HE468C8&}who is the 7TH
+Dialogue: 843,0:02:17.71,0:02:23.71,Chat,,0,0,0,,{\be1\an2\move(1920,106,-2460,106,0,6000)\fs41\c&H1C32A0&}traitors SwiftRage
+Dialogue: 842,0:02:18.00,0:02:24.00,Chat,,0,0,0,,{\be1\an2\move(1920,799,-2460,799,0,6000)\fs44\c&H9F8A1C&}Town of Salem? XD
+Dialogue: 841,0:02:18.28,0:02:24.28,Chat,,0,0,0,,{\be1\an2\move(1920,611,-1660,611,0,6000)\fs50\c&H1DA355&}Deja Vu
+Dialogue: 840,0:02:18.85,0:02:24.85,Chat,,0,0,0,,{\be1\an2\move(1920,473,-2460,473,0,6000)\fs39\c&H177583&}ANIME WAS A MISTAKE
+Dialogue: 839,0:02:19.42,0:02:25.42,Chat,,0,0,0,,{\be1\an2\move(1920,215,-2160,215,0,6000)\fs50\c&HC8232F&}Danganropa??
+Dialogue: 838,0:01:30.00,0:01:36.00,Chat,,0,0,0,,{\be1\an2\move(1920,182,-2460,182,0,6000)\fs31\c&HD92731&\alpha&H7f}WE WILL WE WILL ROCK YOU
+Dialogue: 837,0:02:20.66,0:02:26.66,Chat,,0,0,0,,{\be1\an2\move(1920,105,-2460,105,0,6000)\fs39\c&H25941A&}BUNNY IS THE 7TH F:
+Dialogue: 836,0:02:21.33,0:02:27.33,Chat,,0,0,0,,{\be1\an2\move(1920,718,-2360,718,0,6000)\fs50\c&H7BE8DB&}CREEPY WutFace
+Dialogue: 835,0:02:21.66,0:02:27.66,Chat,,0,0,0,,{\be1\an2\move(1920,542,-1960,542,0,6000)\fs50\c&HDB3461&}tyler1Monk
+Dialogue: 834,0:02:22.00,0:02:28.00,Chat,,0,0,0,,{\be1\an2\move(1920,791,-2460,791,0,6000)\fs44\c&H86184A&}TIGER MAFIA ZULUL
+Dialogue: 833,0:02:22.28,0:02:28.28,Chat,,0,0,0,,{\be1\an2\move(1920,929,-1660,929,0,6000)\fs50\c&H62E3D4&}SourPls
+Dialogue: 832,0:02:22.85,0:02:28.85,Chat,,0,0,0,,{\be1\an2\move(1920,756,-1860,756,0,6000)\fs50\c&H219CBE&}Mafia LUL
+Dialogue: 831,0:02:23.42,0:02:29.42,Chat,,0,0,0,,{\be1\an2\move(1920,161,-1460,161,0,6000)\fs50\c&H4CDF88&}MAFIA
+Dialogue: 830,0:02:24.00,0:02:30.00,Chat,,0,0,0,,{\be1\an2\move(1920,971,-2460,971,0,6000)\fs44\c&HE27C59&}JK PARTY PogChamp
+Dialogue: 829,0:02:25.00,0:02:31.00,Chat,,0,0,0,,{\be1\an2\move(1920,889,-2260,889,0,6000)\fs50\c&H2341C4&}TOWN OF SALEM
+Dialogue: 828,0:02:25.33,0:02:31.33,Chat,,0,0,0,,{\be1\an2\move(1920,857,-1760,857,0,6000)\fs50\c&H1A3E96&}PogChamp
+Dialogue: 827,0:02:25.66,0:02:31.66,Chat,,0,0,0,,{\be1\an2\move(1920,870,-2460,870,0,6000)\fs50\c&H4DDE47&}MONSTURA CARDDO
+Dialogue: 826,0:01:36.00,0:01:42.40,Chat,,0,0,0,,{\be1\an2\move(1920,697,-2880,697,0,6400)\fs30\c&HBC5FE3&\alpha&H7f}LOL FUCK ARARAGI IN THE BACK LUL
+Dialogue: 825,0:01:37.00,0:01:43.79,Chat,,0,0,0,,{\be1\an2\move(1920,285,-3000,285,0,6800)\fs30\c&H4C45DE&\alpha&H7f}WHY DO I GET ALL OF THE REFERENCES
+Dialogue: 824,0:02:26.66,0:02:32.66,Chat,,0,0,0,,{\be1\an2\move(1920,312,-2460,312,0,6000)\fs46\c&HDAB730&}werewolf = mafia
+Dialogue: 823,0:02:27.33,0:02:33.33,Chat,,0,0,0,,{\be1\an2\move(1920,919,-2460,919,0,6000)\fs44\c&H1C9097&}TOWN OF SALEM LUL
+Dialogue: 822,0:01:38.00,0:01:50.00,Chat,,0,0,0,,{\be1\an2\move(1920,308,-12300,308,0,12000)\fs30\c&HE66F77&\alpha&H7f}SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage
+Dialogue: 821,0:02:29.42,0:02:35.42,Chat,,0,0,0,,{\be1\an2\move(1920,451,-2360,451,0,6000)\fs50\c&HE360C5&}WHO IS THE 7TH
+Dialogue: 820,0:01:39.59,0:01:45.59,Chat,,0,0,0,,{\be1\an2\move(1920,804,-2460,804,0,6000)\fs31\c&H33C923&\alpha&H7f}viewers FeelsBadMan 📉
+Dialogue: 819,0:01:40.85,0:01:50.25,Chat,,0,0,0,,{\be1\an2\move(1920,1004,-3780,1004,0,9400)\fs30\c&H5ED125&\alpha&H7f}etmFacepalm etmFacepalm etmFacepalm etmFacepalm
+Dialogue: 818,0:02:30.00,0:02:36.00,Chat,,0,0,0,,{\be1\an2\move(1920,605,-1860,605,0,6000)\fs50\c&HB5E35F&}Omg MAFIA
+Dialogue: 817,0:01:41.14,0:01:47.14,Chat,,0,0,0,,{\be1\an2\move(1920,492,-2460,492,0,6000)\fs30\c&HC2E56D&\alpha&H7f}Which one is the Seventh?
+Dialogue: 816,0:01:41.71,0:01:47.71,Chat,,0,0,0,,{\be1\an2\move(1920,947,-2460,947,0,6000)\fs37\c&H812DDA&}Len-chan Kreygasm <3
+Dialogue: 815,0:02:31.00,0:02:37.00,Chat,,0,0,0,,{\be1\an2\move(1920,501,-2160,501,0,6000)\fs50\c&HC6E776&}HUNGER GAMES
+Dialogue: 814,0:02:32.00,0:02:38.00,Chat,,0,0,0,,{\be1\an2\move(1920,327,-2460,327,0,6000)\fs41\c&H58E285&}Town of Salem hype
+Dialogue: 813,0:02:34.00,0:02:40.00,Chat,,0,0,0,,{\be1\an2\move(1920,391,-2360,391,0,6000)\fs50\c&H5B82E2&}MAFIA PogChamp
+Dialogue: 812,0:01:45.42,0:01:52.42,Chat,,0,0,0,,{\be1\an2\move(1920,306,-3060,306,0,7000)\fs30\c&H188A3B&\alpha&H7f}Shit they're gonna find the seventh
+Dialogue: 811,0:02:36.00,0:02:42.00,Chat,,0,0,0,,{\be1\an2\move(1920,284,-1760,284,0,6000)\fs50\c&H23C53D&}RIN CHAN
+Dialogue: 810,0:02:36.66,0:02:42.66,Chat,,0,0,0,,{\be1\an2\move(1920,796,-2460,796,0,6000)\fs41\c&H2471CB&}wooser is werewolf
+Dialogue: 809,0:01:47.33,0:01:53.33,Chat,,0,0,0,,{\be1\an2\move(1920,665,-2460,665,0,6000)\fs37\c&HD7DE46&}harem anime Kreygasm
+Dialogue: 808,0:02:38.40,0:02:44.40,Chat,,0,0,0,,{\be1\an2\move(1920,426,-1560,426,0,6000)\fs50\c&H995BE2&}200 IQ
+Dialogue: 807,0:01:48.66,0:01:54.66,Chat,,0,0,0,,{\be1\an2\move(1920,393,-2460,393,0,6000)\fs31\c&H69DBE5&\alpha&H7f}WHO IS THE 5th VILLAGER?
+Dialogue: 806,0:01:49.66,0:01:56.66,Chat,,0,0,0,,{\be1\an2\move(1920,276,-3060,276,0,7000)\fs30\c&H9122C0&\alpha&H7f}FailFish FailFish FailFish FailFish
+Dialogue: 805,0:02:41.00,0:02:47.00,Chat,,0,0,0,,{\be1\an2\move(1920,502,-1260,502,0,6000)\fs50\c&H6F1A93&}USA
+Dialogue: 804,0:02:42.00,0:02:48.00,Chat,,0,0,0,,{\be1\an2\move(1920,381,-1560,381,0,6000)\fs100\c&H79787D&}LUL
+Dialogue: 803,0:02:42.80,0:02:48.80,Chat,,0,0,0,,{\be1\an2\move(1920,730,-1760,730,0,6000)\fs50\c&H5EE391&}PogChamp
+Dialogue: 802,0:02:43.19,0:02:49.19,Chat,,0,0,0,,{\be1\an2\move(1920,173,-1160,173,0,6000)\fs50\c&H42B732&}D:
+Dialogue: 801,0:02:43.59,0:02:49.59,Chat,,0,0,0,,{\be1\an2\move(1920,667,-1560,667,0,6000)\fs50\c&HAEE66E&}GOT EM
+Dialogue: 800,0:02:44.28,0:02:50.28,Chat,,0,0,0,,{\be1\an2\move(1920,618,-1260,618,0,6000)\fs50\c&H95A4BF&}LOL
+Dialogue: 799,0:02:44.57,0:02:50.57,Chat,,0,0,0,,{\be1\an2\move(1920,359,-1960,359,0,6000)\fs50\c&H1E93A9&}200 IQ LUL
+Dialogue: 798,0:02:46.00,0:02:52.00,Chat,,0,0,0,,{\be1\an2\move(1920,500,-1460,500,0,6000)\fs50\c&HBF26D6&}U S A
+Dialogue: 797,0:02:46.30,0:02:52.30,Chat,,0,0,0,,{\be1\an2\move(1920,790,-1860,790,0,6000)\fs50\c&H77E7A5&}MAFIA LUL
+Dialogue: 796,0:02:46.61,0:02:52.61,Chat,,0,0,0,,{\be1\an2\move(1920,499,-1860,499,0,6000)\fs50\c&H6C57E1&}BrokeBack
+Dialogue: 795,0:02:46.76,0:02:52.76,Chat,,0,0,0,,{\be1\an2\move(1920,655,-2160,655,0,6000)\fs75\c&H7A5C74&}cmonBruh
+Dialogue: 794,0:02:47.07,0:02:53.07,Chat,,0,0,0,,{\be1\an2\move(1920,178,-1260,178,0,6000)\fs50\c&HBE5522&}LIL
+Dialogue: 793,0:02:47.22,0:02:53.22,Chat,,0,0,0,,{\be1\an2\move(1920,898,-1260,898,0,6000)\fs50\c&H5725D1&}wat
+Dialogue: 792,0:02:47.53,0:02:53.53,Chat,,0,0,0,,{\be1\an2\move(1920,185,-2060,185,0,6000)\fs50\c&H7B1990&}FeelsBadMan
+Dialogue: 791,0:02:47.69,0:02:53.69,Chat,,0,0,0,,{\be1\an2\move(1920,902,-1560,902,0,6000)\fs50\c&HCCE157&}TTours
+Dialogue: 790,0:02:48.00,0:02:54.00,Chat,,0,0,0,,{\be1\an2\move(1920,209,-2060,209,0,6000)\fs50\c&H1A956E&}NA IQ 4Head
+Dialogue: 789,0:01:58.44,0:02:04.44,Chat,,0,0,0,,{\be1\an2\move(1920,154,-2460,154,0,6000)\fs37\c&H51CAE0&}7th villager WutFace
+Dialogue: 788,0:01:59.11,0:02:11.11,Chat,,0,0,0,,{\be1\an2\move(1920,1023,-4620,1023,0,12000)\fs30\c&H74E6CC&\alpha&H7f}IVE PLAYED THIS!! cirLaugh (AND WON AS A SOLITARY WEREWOLF!!)
+Dialogue: 787,0:02:50.22,0:02:56.22,Chat,,0,0,0,,{\be1\an2\move(1920,767,-2460,767,0,6000)\fs39\c&HDB6734&}Wooser is a traitor
+Dialogue: 786,0:02:01.20,0:02:08.40,Chat,,0,0,0,,{\be1\an2\move(1920,277,-3120,277,0,7200)\fs30\c&HBAE56B&\alpha&H7f}Fyring to mane it easy with da names
+Dialogue: 785,0:02:51.33,0:02:57.33,Chat,,0,0,0,,{\be1\an2\move(1920,917,-1460,917,0,6000)\fs50\c&H2522BF&}20 IQ
+Dialogue: 784,0:02:01.59,0:02:07.59,Chat,,0,0,0,,{\be1\an2\move(1920,580,-2460,580,0,6000)\fs34\c&H1A2E93&\alpha&H7f}werewolf game PogChamp
+Dialogue: 783,0:02:52.15,0:02:58.15,Chat,,0,0,0,,{\be1\an2\move(1920,419,-1560,419,0,6000)\fs50\c&HB4DD3E&}RACIST
+Dialogue: 782,0:02:52.30,0:02:58.30,Chat,,0,0,0,,{\be1\an2\move(1920,361,-1660,361,0,6000)\fs50\c&HDF7F46&}EXPOSED
+Dialogue: 781,0:02:52.46,0:02:58.46,Chat,,0,0,0,,{\be1\an2\move(1920,401,-2460,401,0,6000)\fs44\c&H24CB64&}cmonBruh we aight
+Dialogue: 780,0:02:52.61,0:02:58.61,Chat,,0,0,0,,{\be1\an2\move(1920,945,-1560,945,0,6000)\fs100\c&H717876&}LUL
+Dialogue: 779,0:02:52.92,0:02:58.92,Chat,,0,0,0,,{\be1\an2\move(1920,476,-2160,476,0,6000)\fs50\c&HC2DB33&}LUL CmonBruh
+Dialogue: 778,0:02:53.22,0:02:59.22,Chat,,0,0,0,,{\be1\an2\move(1920,113,-1660,113,0,6000)\fs50\c&HDBA631&}EARSLUL
+Dialogue: 777,0:02:03.50,0:02:11.69,Chat,,0,0,0,,{\be1\an2\move(1920,938,-3420,938,0,8200)\fs30\c&HA62BDA&\alpha&H7f}oh if i remember this is the best episode
+Dialogue: 776,0:02:53.84,0:02:59.84,Chat,,0,0,0,,{\be1\an2\move(1920,953,-2360,953,0,6000)\fs50\c&HE0CB4F&}RACISM TriHard
+Dialogue: 775,0:02:04.00,0:02:10.00,Chat,,0,0,0,,{\be1\an2\move(1920,981,-2460,981,0,6000)\fs31\c&H7947DE&\alpha&H7f}Actual werewolf game LUL
+Dialogue: 774,0:02:04.66,0:02:16.66,Chat,,0,0,0,,{\be1\an2\move(1920,651,-9540,651,0,12000)\fs30\c&HD58726&\alpha&H7f}FeelsGoodMan HAPPIEST FeelsGoodMan GIRL FeelsGoodMan IN FeelsGoodMan THE FeelsGoodMan WORLD FeelsGoodMan WAITING FeelsGoodMan ROOM FeelsGoodMan
+Dialogue: 773,0:02:54.50,0:03:00.50,Chat,,0,0,0,,{\be1\an2\move(1920,861,-1360,861,0,6000)\fs100\c&H8F5452&}D:
+Dialogue: 772,0:02:56.50,0:03:02.50,Chat,,0,0,0,,{\be1\an2\move(1920,240,-2060,240,0,6000)\fs50\c&H69E46A&}monkaS 🥄
+Dialogue: 771,0:02:58.25,0:03:04.25,Chat,,0,0,0,,{\be1\an2\move(1920,302,-2360,302,0,6000)\fs50\c&H36A6DC&}WOOSER LYNCHED
+Dialogue: 770,0:02:09.19,0:02:15.19,Chat,,0,0,0,,{\be1\an2\move(1920,605,-2580,605,0,6000)\fs30\c&H194A8E&\alpha&H7f}one night ultimate werewolf
+Dialogue: 769,0:02:59.50,0:03:05.50,Chat,,0,0,0,,{\be1\an2\move(1920,469,-1960,469,0,6000)\fs50\c&HB0421F&}LUL RACIST
+Dialogue: 768,0:03:00.00,0:03:06.00,Chat,,0,0,0,,{\be1\an2\move(1920,500,-2260,500,0,6000)\fs50\c&H2176B8&}REALISTIC LUL
+Dialogue: 767,0:03:00.19,0:03:06.19,Chat,,0,0,0,,{\be1\an2\move(1920,930,-2460,930,0,6000)\fs46\c&HE48F65&}NA DEDUCTION LUL
+Dialogue: 766,0:03:00.59,0:03:06.59,Chat,,0,0,0,,{\be1\an2\move(1920,444,-1960,444,0,6000)\fs50\c&H4BD325&}D: ehhhhhh
+Dialogue: 765,0:03:00.80,0:03:06.80,Chat,,0,0,0,,{\be1\an2\move(1920,231,-1860,231,0,6000)\fs50\c&HD869E4&}It's Miho
+Dialogue: 764,0:03:01.00,0:03:07.00,Chat,,0,0,0,,{\be1\an2\move(1920,965,-2360,965,0,6000)\fs50\c&H25B7D1&}random lynch!!
+Dialogue: 763,0:03:01.59,0:03:07.59,Chat,,0,0,0,,{\be1\an2\move(1920,881,-2460,881,0,6000)\fs46\c&H1FB19F&}ME-CHAN?????????
+Dialogue: 762,0:03:01.80,0:03:07.80,Chat,,0,0,0,,{\be1\an2\move(1920,153,-1060,153,0,6000)\fs50\c&H6178E0&}F
+Dialogue: 761,0:03:02.00,0:03:08.00,Chat,,0,0,0,,{\be1\an2\move(1920,481,-1760,481,0,6000)\fs50\c&H1C2DA0&}TOO REAL
+Dialogue: 760,0:03:02.66,0:03:08.66,Chat,,0,0,0,,{\be1\an2\move(1920,510,-2460,510,0,6000)\fs50\c&H2576CF&}danganronpa LUL
+Dialogue: 759,0:03:03.33,0:03:09.33,Chat,,0,0,0,,{\be1\an2\move(1920,490,-1560,490,0,6000)\fs100\c&H54AB73&}LUL
+Dialogue: 758,0:03:04.00,0:03:10.00,Chat,,0,0,0,,{\be1\an2\move(1920,750,-1760,750,0,6000)\fs50\c&H49AA1E&}its miho
+Dialogue: 757,0:03:04.25,0:03:10.25,Chat,,0,0,0,,{\be1\an2\move(1920,608,-1660,608,0,6000)\fs50\c&HE8D47A&}EXPOSED
+Dialogue: 756,0:02:14.66,0:02:20.66,Chat,,0,0,0,,{\be1\an2\move(1920,145,-2460,145,0,6000)\fs34\c&H887B1C&\alpha&H7f}town of salem PogChamp
+Dialogue: 755,0:03:04.75,0:03:10.75,Chat,,0,0,0,,{\be1\an2\move(1920,587,-1460,587,0,6000)\fs50\c&H33DB73&}F LUL
+Dialogue: 754,0:02:15.11,0:02:21.11,Chat,,0,0,0,,{\be1\an2\move(1920,816,-2460,816,0,6000)\fs31\c&H4AC9DF&\alpha&H7f}Mafia the anime PogChamp
+Dialogue: 753,0:03:05.25,0:03:11.25,Chat,,0,0,0,,{\be1\an2\move(1920,625,-1060,625,0,6000)\fs50\c&H739019&}1
+Dialogue: 752,0:02:15.55,0:02:22.55,Chat,,0,0,0,,{\be1\an2\move(1920,459,-3060,459,0,7000)\fs30\c&H539A1B&\alpha&H7f}show is Wooser's Hand-to-Mouth Life
+Dialogue: 751,0:03:05.50,0:03:11.50,Chat,,0,0,0,,{\be1\an2\move(1920,259,-1760,259,0,6000)\fs50\c&H4B6756&}Jebaited
+Dialogue: 750,0:02:15.77,0:02:21.77,Chat,,0,0,0,,{\be1\an2\move(1920,433,-2460,433,0,6000)\fs35\c&H7BE89E&\alpha&H7f}creepy waifus WutFace
+Dialogue: 749,0:03:06.16,0:03:12.16,Chat,,0,0,0,,{\be1\an2\move(1920,572,-1560,572,0,6000)\fs75\c&H8A4283&}MIHO
+Dialogue: 748,0:02:16.57,0:02:22.57,Chat,,0,0,0,,{\be1\an2\move(1920,594,-2460,594,0,6000)\fs37\c&H2B9B1B&}DANGANRONPA PogChamp
+Dialogue: 747,0:02:17.42,0:02:23.42,Chat,,0,0,0,,{\be1\an2\move(1920,859,-2460,859,0,6000)\fs30\c&HB1E361&\alpha&H7f}sooo what are we watching
+Dialogue: 746,0:03:07.00,0:03:13.00,Chat,,0,0,0,,{\be1\an2\move(1920,533,-1760,533,0,6000)\fs50\c&H923879&}REKT LUL
+Dialogue: 745,0:02:18.57,0:02:24.97,Chat,,0,0,0,,{\be1\an2\move(1920,748,-2880,748,0,6400)\fs30\c&H6869E4&\alpha&H7f}TOWN OF SALEM THE ANIME PogChamp
+Dialogue: 744,0:03:08.66,0:03:14.66,Chat,,0,0,0,,{\be1\an2\move(1920,778,-1660,778,0,6000)\fs50\c&H91AE1F&}Its len
+Dialogue: 743,0:02:19.14,0:02:25.14,Chat,,0,0,0,,{\be1\an2\move(1920,461,-2460,461,0,6000)\fs32\c&H1EAAA9&\alpha&H7f}NotLikeThis blluurrgggg
+Dialogue: 742,0:03:09.33,0:03:15.33,Chat,,0,0,0,,{\be1\an2\move(1920,737,-1410,737,0,6000)\fs75\c&H962057&}LOL
+Dialogue: 741,0:02:19.71,0:02:31.71,Chat,,0,0,0,,{\be1\an2\move(1920,785,-8460,785,0,12000)\fs30\c&HBB2AD9&\alpha&H7f}NOW THIS IS MY KIND OF HAREM FeelsGoodMan NOW THIS IS MY KIND OF HAREM FeelsGoodMan NOW THIS IS MY KIND OF HAREM FeelsGoodMan
+Dialogue: 740,0:02:20.33,0:02:26.33,Chat,,0,0,0,,{\be1\an2\move(1920,866,-2460,866,0,6000)\fs31\c&HD2E56B&\alpha&H7f}RIN IS THE TRAITOR haHAA
+Dialogue: 739,0:03:10.00,0:03:16.00,Chat,,0,0,0,,{\be1\an2\move(1920,758,-1560,758,0,6000)\fs75\c&HAC5581&}REKT
+Dialogue: 738,0:03:10.28,0:03:16.28,Chat,,0,0,0,,{\be1\an2\move(1920,940,-2460,940,0,6000)\fs50\c&H55DB31&}miho BibleThump
+Dialogue: 737,0:02:21.00,0:02:27.00,Chat,,0,0,0,,{\be1\an2\move(1920,441,-2460,441,0,6000)\fs37\c&H8E43DE&}Len-chan is waifu <3
+Dialogue: 736,0:03:11.14,0:03:19.14,Chat,,0,0,0,,{\be1\an2\move(1920,636,-2960,636,0,8000)\fs100\c&H818B85&}BibleThump
+Dialogue: 735,0:03:11.71,0:03:17.71,Chat,,0,0,0,,{\be1\an2\move(1920,726,-1860,726,0,6000)\fs50\c&HC7DF49&}raysThump
+Dialogue: 734,0:03:12.00,0:03:18.00,Chat,,0,0,0,,{\be1\an2\move(1920,213,-1760,213,0,6000)\fs50\c&H3C1889&}WHAT LUL
+Dialogue: 733,0:03:12.19,0:03:18.19,Chat,,0,0,0,,{\be1\an2\move(1920,796,-1660,796,0,6000)\fs50\c&H1C9D61&}LUL LUL
+Dialogue: 732,0:03:12.40,0:03:18.40,Chat,,0,0,0,,{\be1\an2\move(1920,668,-2160,668,0,6000)\fs50\c&H32DB77&}MONOKUMA LUL
+Dialogue: 731,0:03:12.59,0:03:18.59,Chat,,0,0,0,,{\be1\an2\move(1920,889,-2460,889,0,6000)\fs41\c&H1FAE33&}those eyes WutFace
+Dialogue: 730,0:02:23.14,0:02:35.14,Chat,,0,0,0,,{\be1\an2\move(1920,52,-11820,52,0,12000)\fs30\c&H481B9A&\alpha&H7f}Want to engage with other fans of Twitch Presents? Join our server on the desktop app to relive the magic of the marathons and more! KonCha https://invite.twitch.tv/EreusoJakurDokin
+Dialogue: 729,0:03:13.00,0:03:19.00,Chat,,0,0,0,,{\be1\an2\move(1920,182,-1060,182,0,6000)\fs50\c&H891876&}F
+Dialogue: 728,0:03:13.19,0:03:19.19,Chat,,0,0,0,,{\be1\an2\move(1920,842,-2460,842,0,6000)\fs46\c&H1B9A72&}RANDOM LYNCH LUL
+Dialogue: 727,0:03:13.40,0:03:19.40,Chat,,0,0,0,,{\be1\an2\move(1920,383,-1660,383,0,6000)\fs50\c&HCB4C24&}Looser*
+Dialogue: 726,0:03:13.59,0:03:19.59,Chat,,0,0,0,,{\be1\an2\move(1920,690,-1560,690,0,6000)\fs100\c&H888974&}LUL
+Dialogue: 725,0:02:23.71,0:02:29.71,Chat,,0,0,0,,{\be1\an2\move(1920,491,-2460,491,0,6000)\fs34\c&H3DDD83&\alpha&H7f}random lynch first day
+Dialogue: 724,0:03:14.16,0:03:20.16,Chat,,0,0,0,,{\be1\an2\move(1920,667,-1760,667,0,6000)\fs50\c&H921A71&}LUL REKT
+Dialogue: 723,0:02:24.33,0:02:30.33,Chat,,0,0,0,,{\be1\an2\move(1920,183,-2460,183,0,6000)\fs35\c&HE77A79&\alpha&H7f}wooser is the traitor
+Dialogue: 722,0:02:24.66,0:02:30.66,Chat,,0,0,0,,{\be1\an2\move(1920,690,-2460,690,0,6000)\fs30\c&HCA2460&\alpha&H7f}DANG IT RON PAUL PogChamp
+Dialogue: 721,0:03:14.66,0:03:20.66,Chat,,0,0,0,,{\be1\an2\move(1920,257,-2460,257,0,6000)\fs46\c&H1D99A3&}LUL TRUE AS FUCK
+Dialogue: 720,0:03:14.83,0:03:20.83,Chat,,0,0,0,,{\be1\an2\move(1920,277,-2460,277,0,6000)\fs46\c&H729B1B&}MIHO FeelsBadMan
+Dialogue: 719,0:02:26.00,0:02:32.00,Chat,,0,0,0,,{\be1\an2\move(1920,108,-2520,108,0,6000)\fs30\c&HE777AB&\alpha&H7f}holy shit town of salem!!!
+Dialogue: 718,0:02:28.00,0:02:35.80,Chat,,0,0,0,,{\be1\an2\move(1920,387,-3300,387,0,7800)\fs30\c&H3FD1DD&\alpha&H7f}THE WEREWOLF KILLED 35 PEOPLE BTW haHAA
+Dialogue: 717,0:02:28.28,0:02:38.88,Chat,,0,0,0,,{\be1\an2\move(1920,520,-4140,520,0,10600)\fs30\c&HE1B458&\alpha&H7f}town of salem is based on werewolves, idiots FailFish
+Dialogue: 716,0:02:28.57,0:02:34.57,Chat,,0,0,0,,{\be1\an2\move(1920,847,-2760,847,0,6000)\fs30\c&H1D32A5&\alpha&H7f}they all have good poker faces
+Dialogue: 715,0:02:28.85,0:02:34.85,Chat,,0,0,0,,{\be1\an2\move(1920,654,-2460,654,0,6000)\fs35\c&H8EAA1E&\alpha&H7f}NEVER TRUST AN E-GIRL
+Dialogue: 714,0:02:29.14,0:02:35.34,Chat,,0,0,0,,{\be1\an2\move(1920,912,-2820,912,0,6200)\fs30\c&H47DC3A&\alpha&H7f}PINK TANKTOP IS THE WOLF MonkaS
+Dialogue: 713,0:03:19.14,0:03:25.14,Chat,,0,0,0,,{\be1\an2\move(1920,182,-2460,182,0,6000)\fs44\c&H6D1EAA&}TOWN OF SALEM LUL
+Dialogue: 712,0:02:29.71,0:02:41.71,Chat,,0,0,0,,{\be1\an2\move(1920,732,-5940,732,0,12000)\fs30\c&H49C937&\alpha&H7f}DANGANRONPA PogChamp DANGANRONPA PogChamp DANGANRONPA PogChamp DANGANRONPA PogChamp
+Dialogue: 711,0:03:19.71,0:03:25.71,Chat,,0,0,0,,{\be1\an2\move(1920,663,-2160,663,0,6000)\fs50\c&H6BAB1E&}danTriggered
+Dialogue: 710,0:03:20.00,0:03:26.00,Chat,,0,0,0,,{\be1\an2\move(1920,699,-2260,699,0,6000)\fs50\c&H2342C7&}TOWN OF SALEM
+Dialogue: 709,0:03:20.40,0:03:26.40,Chat,,0,0,0,,{\be1\an2\move(1920,265,-1360,265,0,6000)\fs50\c&HDAE156&}TRUE
+Dialogue: 708,0:03:21.59,0:03:27.59,Chat,,0,0,0,,{\be1\an2\move(1920,352,-2960,352,0,6000)\fs100\c&H80944A&}BibleThump
+Dialogue: 707,0:03:23.33,0:03:29.33,Chat,,0,0,0,,{\be1\an2\move(1920,745,-1760,745,0,6000)\fs50\c&H7A4DAC&}Jebaited
+Dialogue: 706,0:03:24.18,0:03:30.18,Chat,,0,0,0,,{\be1\an2\move(1920,701,-1560,701,0,6000)\fs100\c&H757592&}LUL
+Dialogue: 705,0:03:24.36,0:03:30.36,Chat,,0,0,0,,{\be1\an2\move(1920,866,-2060,866,0,6000)\fs50\c&H332FDA&}DANGANRONPA
+Dialogue: 704,0:03:26.00,0:03:32.00,Chat,,0,0,0,,{\be1\an2\move(1920,380,-1760,380,0,6000)\fs50\c&HD65226&}GG NO RE
+Dialogue: 703,0:03:27.50,0:03:33.50,Chat,,0,0,0,,{\be1\an2\move(1920,862,-2460,862,0,6000)\fs41\c&HE17654&}BibleThump SO REAL
+Dialogue: 702,0:02:38.00,0:02:45.80,Chat,,0,0,0,,{\be1\an2\move(1920,445,-3300,445,0,7800)\fs30\c&HBD4721&\alpha&H7f}TOWN OF SALEM EPISODE PogChamp PogChamp
+Dialogue: 701,0:03:28.25,0:03:34.25,Chat,,0,0,0,,{\be1\an2\move(1920,565,-1860,565,0,6000)\fs50\c&H8D21BA&}LOLI DOWN
+Dialogue: 700,0:03:28.50,0:03:34.50,Chat,,0,0,0,,{\be1\an2\move(1920,929,-1160,929,0,6000)\fs100\c&H998D64&}F
+Dialogue: 699,0:02:38.80,0:02:45.00,Chat,,0,0,0,,{\be1\an2\move(1920,298,-2820,298,0,6200)\fs30\c&HA7DC3B&\alpha&H7f}VoHiYo VoHiYo -_- VoHiYo VoHiYo
+Dialogue: 698,0:03:28.75,0:03:34.75,Chat,,0,0,0,,{\be1\an2\move(1920,525,-2060,525,0,6000)\fs50\c&HB79C20&}ararararagi
+Dialogue: 697,0:02:39.19,0:02:45.19,Chat,,0,0,0,,{\be1\an2\move(1920,907,-2460,907,0,6000)\fs30\c&H1DA223&\alpha&H7f}@RadicalDanny pretty much
+Dialogue: 696,0:03:29.25,0:03:35.25,Chat,,0,0,0,,{\be1\an2\move(1920,136,-2160,136,0,6000)\fs50\c&H941A73&}LUL TOO REAL
+Dialogue: 695,0:02:39.59,0:02:45.59,Chat,,0,0,0,,{\be1\an2\move(1920,150,-2460,150,0,6000)\fs37\c&H7CD7E8&}town of salem remake
+Dialogue: 694,0:02:40.00,0:02:46.00,Chat,,0,0,0,,{\be1\an2\move(1920,968,-2700,968,0,6000)\fs30\c&H648C19&\alpha&H7f}I JUST PLAYED THIS MAFIA GAME
+Dialogue: 693,0:03:31.19,0:03:37.19,Chat,,0,0,0,,{\be1\an2\move(1920,670,-1260,670,0,6000)\fs50\c&H67D6E4&}rip
+Dialogue: 692,0:03:31.59,0:03:37.59,Chat,,0,0,0,,{\be1\an2\move(1920,551,-2460,551,0,6000)\fs50\c&H5C29D9&}miho BibleThump
+Dialogue: 691,0:03:32.00,0:03:38.00,Chat,,0,0,0,,{\be1\an2\move(1920,109,-1660,109,0,6000)\fs50\c&HA736DC&}WutFace
+Dialogue: 690,0:03:32.28,0:03:38.28,Chat,,0,0,0,,{\be1\an2\move(1920,813,-1760,813,0,6000)\fs50\c&H6AE599&}TRUE LUL
+Dialogue: 689,0:03:32.57,0:03:38.57,Chat,,0,0,0,,{\be1\an2\move(1920,163,-2460,163,0,6000)\fs46\c&H1EAA32&}this is too real
+Dialogue: 688,0:03:33.14,0:03:39.14,Chat,,0,0,0,,{\be1\an2\move(1920,830,-2260,830,0,6000)\fs50\c&HE18355&}AHAHAHAHAHAHA
+Dialogue: 687,0:03:33.42,0:03:39.42,Chat,,0,0,0,,{\be1\an2\move(1920,290,-1960,290,0,6000)\fs50\c&HDCE779&}BibleThump
+Dialogue: 686,0:03:34.33,0:03:40.33,Chat,,0,0,0,,{\be1\an2\move(1920,122,-1860,122,0,6000)\fs75\c&H8D9B75&}monkaS
+Dialogue: 685,0:02:45.14,0:02:57.14,Chat,,0,0,0,,{\be1\an2\move(1920,125,-7740,125,0,12000)\fs30\c&HDF4954&\alpha&H7f}SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage
+Dialogue: 684,0:03:35.00,0:03:41.00,Chat,,0,0,0,,{\be1\an2\move(1920,519,-2060,519,0,6000)\fs50\c&H75DEE7&}LYNCHED LUL
+Dialogue: 683,0:03:36.00,0:03:42.00,Chat,,0,0,0,,{\be1\an2\move(1920,437,-2160,437,0,6000)\fs50\c&H2177BB&}Maffia Light
+Dialogue: 682,0:03:36.50,0:03:42.50,Chat,,0,0,0,,{\be1\an2\move(1920,297,-2260,297,0,6000)\fs50\c&H9F35DB&}🤔 ah i see
+Dialogue: 681,0:03:37.00,0:03:43.00,Chat,,0,0,0,,{\be1\an2\move(1920,235,-2060,235,0,6000)\fs50\c&H20B422&}monkaS 🥄
+Dialogue: 680,0:03:37.50,0:03:43.50,Chat,,0,0,0,,{\be1\an2\move(1920,102,-1260,102,0,6000)\fs50\c&H8D191E&}LUL
+Dialogue: 679,0:03:38.33,0:03:44.33,Chat,,0,0,0,,{\be1\an2\move(1920,383,-1860,383,0,6000)\fs50\c&H51B0E0&}ROLL CALL
+Dialogue: 678,0:03:39.33,0:03:45.33,Chat,,0,0,0,,{\be1\an2\move(1920,503,-1560,503,0,6000)\fs50\c&HC9DF4B&}TTours
+Dialogue: 677,0:03:39.66,0:03:45.66,Chat,,0,0,0,,{\be1\an2\move(1920,208,-1060,208,0,6000)\fs50\c&H828580&}F
+Dialogue: 676,0:02:50.88,0:03:01.88,Chat,,0,0,0,,{\be1\an2\move(1920,300,-4260,300,0,11000)\fs30\c&H2367C6&\alpha&H7f}Town of salem, mafia, werewolf, it's all the same game.
+Dialogue: 675,0:03:40.00,0:03:46.00,Chat,,0,0,0,,{\be1\an2\move(1920,565,-1360,565,0,6000)\fs50\c&H93E87C&}😡
+Dialogue: 674,0:03:41.00,0:03:47.00,Chat,,0,0,0,,{\be1\an2\move(1920,758,-1560,758,0,6000)\fs50\c&H5BD626&}whoops
+Dialogue: 673,0:03:41.66,0:03:47.66,Chat,,0,0,0,,{\be1\an2\move(1920,591,-2360,591,0,6000)\fs50\c&HCAE362&}I said its len
+Dialogue: 672,0:02:52.00,0:03:00.00,Chat,,0,0,0,,{\be1\an2\move(1920,627,-3360,627,0,8000)\fs30\c&H961A22&\alpha&H7f}YOU THOUGHT IT WAS RIN BUT IT WAS ME DIO
+Dialogue: 671,0:03:42.00,0:03:48.00,Chat,,0,0,0,,{\be1\an2\move(1920,83,-1360,83,0,6000)\fs50\c&HD342DE&}dead
+Dialogue: 670,0:03:42.50,0:03:48.50,Chat,,0,0,0,,{\be1\an2\move(1920,294,-2460,294,0,6000)\fs50\c&H21BA2C&}Miho BibleThump
+Dialogue: 669,0:03:43.00,0:03:49.00,Chat,,0,0,0,,{\be1\an2\move(1920,765,-2460,765,0,6000)\fs50\c&H20B3B1&}ResidentSleeper
+Dialogue: 668,0:03:43.50,0:03:49.50,Chat,,0,0,0,,{\be1\an2\move(1920,608,-1660,608,0,6000)\fs50\c&HAA537C&}forsenS
+Dialogue: 667,0:02:54.00,0:03:00.00,Chat,,0,0,0,,{\be1\an2\move(1920,754,-2520,754,0,6000)\fs30\c&H3695DC&\alpha&H7f}This is actually realistic
+Dialogue: 666,0:03:45.00,0:03:51.00,Chat,,0,0,0,,{\be1\an2\move(1920,489,-1360,489,0,6000)\fs50\c&H89DA2C&}Edgy
+Dialogue: 665,0:03:46.00,0:03:52.00,Chat,,0,0,0,,{\be1\an2\move(1920,103,-1460,103,0,6000)\fs50\c&H878918&}MAFIA
+Dialogue: 664,0:02:56.25,0:03:02.25,Chat,,0,0,0,,{\be1\an2\move(1920,368,-2460,368,0,6000)\fs32\c&H1C9E25&\alpha&H7f}your harem has a furry.
+Dialogue: 663,0:03:46.50,0:03:52.50,Chat,,0,0,0,,{\be1\an2\move(1920,951,-1560,951,0,6000)\fs50\c&H2769D9&}mendoS
+Dialogue: 662,0:02:56.75,0:03:03.15,Chat,,0,0,0,,{\be1\an2\move(1920,331,-2880,331,0,6400)\fs30\c&H541A91&\alpha&H7f}Everyone suspect USA FeelsBadMan
+Dialogue: 661,0:03:47.00,0:03:53.00,Chat,,0,0,0,,{\be1\an2\move(1920,572,-2160,572,0,6000)\fs100\c&HAE8758&}monkaS
+Dialogue: 660,0:03:48.50,0:03:54.50,Chat,,0,0,0,,{\be1\an2\move(1920,215,-1760,215,0,6000)\fs50\c&H8EA31D&}FailFish
+Dialogue: 659,0:02:59.25,0:03:05.25,Chat,,0,0,0,,{\be1\an2\move(1920,430,-2460,430,0,6000)\fs37\c&H6E82E5&}suspicious SwiftRage
+Dialogue: 658,0:02:59.75,0:03:06.55,Chat,,0,0,0,,{\be1\an2\move(1920,244,-3000,244,0,6800)\fs30\c&H22B2BE&\alpha&H7f}GOTTEM HE IS THE SEVENTH EleGiggle
+Dialogue: 657,0:03:49.50,0:03:55.50,Chat,,0,0,0,,{\be1\an2\move(1920,894,-2460,894,0,6000)\fs44\c&H22BE25&}kill all of them.
+Dialogue: 656,0:03:52.40,0:03:58.40,Chat,,0,0,0,,{\be1\an2\move(1920,542,-2460,542,0,6000)\fs41\c&HCBDB30&}Shit is suspensful
+Dialogue: 655,0:03:52.80,0:03:58.80,Chat,,0,0,0,,{\be1\an2\move(1920,156,-2460,156,0,6000)\fs39\c&H2FDA8F&}HEYYY THIS IS MAFIA
+Dialogue: 654,0:03:53.19,0:03:59.19,Chat,,0,0,0,,{\be1\an2\move(1920,981,-1960,981,0,6000)\fs50\c&H7023C9&}BibleThump
+Dialogue: 653,0:03:53.59,0:03:59.59,Chat,,0,0,0,,{\be1\an2\move(1920,193,-2360,193,0,6000)\fs50\c&H2B1DA4&}lol... Araragi
+Dialogue: 652,0:03:04.50,0:03:10.50,Chat,,0,0,0,,{\be1\an2\move(1920,187,-2460,187,0,6000)\fs31\c&H198C4B&\alpha&H7f}BUNNY IS THE TRAITOR LUL
+Dialogue: 651,0:03:55.00,0:04:01.00,Chat,,0,0,0,,{\be1\an2\move(1920,152,-1660,152,0,6000)\fs50\c&H5C7C79&}WutFace
+Dialogue: 650,0:03:06.00,0:03:14.40,Chat,,0,0,0,,{\be1\an2\move(1920,489,-3480,489,0,8400)\fs30\c&H8578E7&\alpha&H7f}This used to be a ☕ stream. FeelsBadMan.
+Dialogue: 649,0:03:06.33,0:03:13.53,Chat,,0,0,0,,{\be1\an2\move(1920,701,-3120,701,0,7200)\fs30\c&H921A7A&\alpha&H7f}Now I wanna play Town of Salem again
+Dialogue: 648,0:03:06.83,0:03:12.83,Chat,,0,0,0,,{\be1\an2\move(1920,646,-2460,646,0,6000)\fs35\c&H911A3F&\alpha&H7f}THINKING IS SUSPICOUS
+Dialogue: 647,0:03:56.00,0:04:02.00,Chat,,0,0,0,,{\be1\an2\move(1920,380,-2460,380,0,6000)\fs41\c&HCCDC3B&}KAKEGURUI PogChamp
+Dialogue: 646,0:03:57.11,0:04:03.11,Chat,,0,0,0,,{\be1\an2\move(1920,673,-2460,673,0,6000)\fs44\c&H1A7891&}TOWN OF SALEM LUL
+Dialogue: 645,0:03:57.33,0:04:03.33,Chat,,0,0,0,,{\be1\an2\move(1920,998,-2360,998,0,6000)\fs50\c&HA91E33&}mafia PogChamp
+Dialogue: 644,0:03:57.77,0:04:03.77,Chat,,0,0,0,,{\be1\an2\move(1920,459,-1860,459,0,6000)\fs75\c&HA86FD0&}monkaS
+Dialogue: 643,0:03:58.00,0:04:04.00,Chat,,0,0,0,,{\be1\an2\move(1920,555,-2460,555,0,6000)\fs41\c&HDD733E&}HE HAS NO EYES LUL
+Dialogue: 642,0:04:00.00,0:04:06.00,Chat,,0,0,0,,{\be1\an2\move(1920,615,-2160,615,0,6000)\fs50\c&H9BDF4A&}danTriggered
+Dialogue: 641,0:04:00.50,0:04:06.50,Chat,,0,0,0,,{\be1\an2\move(1920,684,-2460,684,0,6000)\fs41\c&H3162DB&}FeelsBadMan monkaS
+Dialogue: 640,0:03:10.85,0:03:22.85,Chat,,0,0,0,,{\be1\an2\move(1920,261,-4560,261,0,12000)\fs30\c&HDB8E32&\alpha&H7f}TOWN OF SALEM? dANSgAME....MORE LIKE MAFIA FROM STARCRAFT II
+Dialogue: 639,0:03:11.42,0:03:19.22,Chat,,0,0,0,,{\be1\an2\move(1920,956,-3300,956,0,7800)\fs30\c&H1A9282&\alpha&H7f}This is better than The Emoji Movie LUL
+Dialogue: 638,0:04:01.50,0:04:07.50,Chat,,0,0,0,,{\be1\an2\move(1920,1017,-1760,1017,0,6000)\fs50\c&HD06CE5&}PogChamp
+Dialogue: 637,0:04:02.66,0:04:08.66,Chat,,0,0,0,,{\be1\an2\move(1920,285,-2460,285,0,6000)\fs50\c&H2C53DA&}What is this???
+Dialogue: 636,0:03:12.80,0:03:19.80,Chat,,0,0,0,,{\be1\an2\move(1920,486,-3060,486,0,7000)\fs30\c&H9240DD&\alpha&H7f}tyler1IQ tyler1IQ tyler1IQ tyler1IQ
+Dialogue: 635,0:04:03.33,0:04:09.33,Chat,,0,0,0,,{\be1\an2\move(1920,278,-2060,278,0,6000)\fs50\c&H7B1EAB&}DANGONRANPA
+Dialogue: 634,0:04:04.00,0:04:10.00,Chat,,0,0,0,,{\be1\an2\move(1920,541,-1860,541,0,6000)\fs50\c&H5BE292&}KAKEGURUI
+Dialogue: 633,0:04:05.33,0:04:11.33,Chat,,0,0,0,,{\be1\an2\move(1920,114,-1560,114,0,6000)\fs100\c&H508D5F&}LUL
+Dialogue: 632,0:03:15.66,0:03:27.06,Chat,,0,0,0,,{\be1\an2\move(1920,1000,-4380,1000,0,11400)\fs30\c&HAFBB21&\alpha&H7f}just this ep is better than the whole of joker game Kappa
+Dialogue: 631,0:04:06.00,0:04:12.00,Chat,,0,0,0,,{\be1\an2\move(1920,785,-1160,785,0,6000)\fs100\c&H65A861&}F
+Dialogue: 630,0:04:07.00,0:04:13.00,Chat,,0,0,0,,{\be1\an2\move(1920,768,-1960,768,0,6000)\fs50\c&HD27725&}WOOZER😨
+Dialogue: 629,0:03:18.28,0:03:24.28,Chat,,0,0,0,,{\be1\an2\move(1920,197,-2580,197,0,6000)\fs30\c&H31C022&\alpha&H7f}LITERALLY TOWN OF SALEM LUL
+Dialogue: 628,0:04:08.40,0:04:14.40,Chat,,0,0,0,,{\be1\an2\move(1920,251,-1160,251,0,6000)\fs50\c&HE1B355&}D:
+Dialogue: 627,0:03:18.57,0:03:24.57,Chat,,0,0,0,,{\be1\an2\move(1920,914,-2460,914,0,6000)\fs31\c&H2066B3&\alpha&H7f}YOU ARE THE WEAKEST LINK
+Dialogue: 626,0:03:19.42,0:03:25.42,Chat,,0,0,0,,{\be1\an2\move(1920,808,-2460,808,0,6000)\fs32\c&HC248DF&\alpha&H7f}THAT'S RIGHT DON'T TALK
+Dialogue: 625,0:04:10.00,0:04:16.00,Chat,,0,0,0,,{\be1\an2\move(1920,672,-2060,672,0,6000)\fs50\c&H22BE23&}\ TriHard /
+Dialogue: 624,0:04:10.36,0:04:16.36,Chat,,0,0,0,,{\be1\an2\move(1920,184,-2460,184,0,6000)\fs50\c&H6BA2E5&}ararararararagi
+Dialogue: 623,0:04:10.54,0:04:16.54,Chat,,0,0,0,,{\be1\an2\move(1920,910,-2160,910,0,6000)\fs100\c&H99A57E&}PunOko
+Dialogue: 622,0:04:10.72,0:04:16.72,Chat,,0,0,0,,{\be1\an2\move(1920,546,-1760,546,0,6000)\fs100\c&H6D8D8D&}BAKA
+Dialogue: 621,0:04:10.90,0:04:18.60,Chat,,0,0,0,,{\be1\an2\move(1920,928,-3160,928,0,7700)\fs100\c&H8E6A3A&}BAKA PunOko
+Dialogue: 620,0:04:11.09,0:04:17.08,Chat,,0,0,0,,{\be1\an2\move(1920,403,-2160,403,0,6000)\fs50\c&H182C8A&}yuu-san roo7
+Dialogue: 619,0:04:11.27,0:04:17.27,Chat,,0,0,0,,{\be1\an2\move(1920,835,-1360,835,0,6000)\fs50\c&H883D18&}DEAD
+Dialogue: 618,0:04:11.63,0:04:17.63,Chat,,0,0,0,,{\be1\an2\move(1920,373,-2060,373,0,6000)\fs50\c&H79E7DA&}ME?????????
+Dialogue: 617,0:04:11.81,0:04:17.81,Chat,,0,0,0,,{\be1\an2\move(1920,630,-2260,630,0,6000)\fs50\c&HD9E35E&}BAKA TehePelo
+Dialogue: 616,0:03:22.00,0:03:32.59,Chat,,0,0,0,,{\be1\an2\move(1920,726,-4140,726,0,10600)\fs30\c&H8A31DB&\alpha&H7f}tyler1IQ tyler1IQ tyler1IQ tyler1IQ tyler1IQ tyler1IQ
+Dialogue: 615,0:04:12.19,0:04:18.19,Chat,,0,0,0,,{\be1\an2\move(1920,892,-2460,892,0,6000)\fs44\c&H1FA3AE&}DEVOURED Kreygasm
+Dialogue: 614,0:04:12.59,0:04:18.60,Chat,,0,0,0,,{\be1\an2\move(1920,234,-1560,234,0,6000)\fs50\c&H827D93&}VoHiYo
+Dialogue: 613,0:04:13.40,0:04:19.39,Chat,,0,0,0,,{\be1\an2\move(1920,908,-1960,908,0,6000)\fs50\c&H24CB7A&}BibleThump
+Dialogue: 612,0:03:24.54,0:03:30.54,Chat,,0,0,0,,{\be1\an2\move(1920,117,-2460,117,0,6000)\fs34\c&H90A71D&\alpha&H7f}Houoin Kyouma PogChamp
+Dialogue: 611,0:04:14.19,0:04:20.19,Chat,,0,0,0,,{\be1\an2\move(1920,184,-1760,184,0,6000)\fs50\c&H9267E4&}Bakaaa~~
+Dialogue: 610,0:03:24.90,0:03:36.90,Chat,,0,0,0,,{\be1\an2\move(1920,570,-10020,570,0,12000)\fs30\c&HA61D27&\alpha&H7f}SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage
+Dialogue: 609,0:04:15.00,0:04:21.00,Chat,,0,0,0,,{\be1\an2\move(1920,483,-2360,483,0,6000)\fs50\c&H6AE573&}Yuu BibleThump
+Dialogue: 608,0:04:15.59,0:04:21.60,Chat,,0,0,0,,{\be1\an2\move(1920,271,-2460,271,0,6000)\fs50\c&HA71E45&}C-CUTE Kreygasm
+Dialogue: 607,0:04:16.00,0:04:22.00,Chat,,0,0,0,,{\be1\an2\move(1920,614,-1660,614,0,6000)\fs50\c&H74B69C&}cirBaka
+Dialogue: 606,0:03:26.50,0:03:32.90,Chat,,0,0,0,,{\be1\an2\move(1920,1040,-2880,1040,0,6400)\fs30\c&HE18558&\alpha&H7f}PSYCHIC POWERS FeelsGoodMan 🥄
+Dialogue: 605,0:04:16.76,0:04:22.76,Chat,,0,0,0,,{\be1\an2\move(1920,773,-1110,773,0,6000)\fs75\c&H788763&}F
+Dialogue: 604,0:03:27.00,0:03:33.00,Chat,,0,0,0,,{\be1\an2\move(1920,187,-2760,187,0,6000)\fs30\c&H8C46DE&\alpha&H7f}This is me every time FailFish
+Dialogue: 603,0:04:17.53,0:04:23.53,Chat,,0,0,0,,{\be1\an2\move(1920,323,-2060,323,0,6000)\fs50\c&H3D75DD&}PunOko BAKA
+Dialogue: 602,0:04:17.84,0:04:23.84,Chat,,0,0,0,,{\be1\an2\move(1920,166,-2460,166,0,6000)\fs41\c&HD726A7&}PunOko Bakaaaaaaaa
+Dialogue: 601,0:04:18.36,0:04:24.36,Chat,,0,0,0,,{\be1\an2\move(1920,841,-2160,841,0,6000)\fs50\c&H2AAE1F&}BYE BYE JOJO
+Dialogue: 600,0:04:18.90,0:04:24.90,Chat,,0,0,0,,{\be1\an2\move(1920,817,-2060,817,0,6000)\fs50\c&H1D45A7&}PunOko dead
+Dialogue: 599,0:04:19.08,0:04:25.08,Chat,,0,0,0,,{\be1\an2\move(1920,67,-1860,67,0,6000)\fs50\c&HE38263&}its mafia
+Dialogue: 598,0:04:19.45,0:04:25.45,Chat,,0,0,0,,{\be1\an2\move(1920,827,-1760,827,0,6000)\fs50\c&H5826D5&}bakawolf
+Dialogue: 597,0:04:19.63,0:04:25.63,Chat,,0,0,0,,{\be1\an2\move(1920,836,-1360,836,0,6000)\fs50\c&H358F19&}roo4
+Dialogue: 596,0:03:29.75,0:03:35.75,Chat,,0,0,0,,{\be1\an2\move(1920,744,-2760,744,0,6000)\fs30\c&H36DBA7&\alpha&H7f}DansGame RANDOM LYNCH DansGame
+Dialogue: 595,0:03:30.00,0:03:38.59,Chat,,0,0,0,,{\be1\an2\move(1920,70,-3540,70,0,8600)\fs30\c&H2562D2&\alpha&H7f}BibleThump BibleThump BibleThump BibleThump
+Dialogue: 594,0:04:20.00,0:04:26.00,Chat,,0,0,0,,{\be1\an2\move(1920,1003,-2060,1003,0,6000)\fs50\c&H1EAA20&}monkaS 🥄
+Dialogue: 593,0:04:20.30,0:04:26.30,Chat,,0,0,0,,{\be1\an2\move(1920,837,-2360,837,0,6000)\fs50\c&H182E87&}PunOko BAKAAA~
+Dialogue: 592,0:04:20.61,0:04:26.61,Chat,,0,0,0,,{\be1\an2\move(1920,865,-2460,865,0,6000)\fs39\c&H1EA97D&}TOWN DIES LUL 4Head
+Dialogue: 591,0:04:20.76,0:04:26.76,Chat,,0,0,0,,{\be1\an2\move(1920,114,-2260,114,0,6000)\fs50\c&H25A9D4&}What is this?
+Dialogue: 590,0:04:21.07,0:04:27.07,Chat,,0,0,0,,{\be1\an2\move(1920,140,-1160,140,0,6000)\fs50\c&HABA093&}:)
+Dialogue: 589,0:04:21.38,0:04:27.38,Chat,,0,0,0,,{\be1\an2\move(1920,313,-1560,313,0,6000)\fs75\c&H4C8870&}BAKA
+Dialogue: 588,0:04:21.53,0:04:27.53,Chat,,0,0,0,,{\be1\an2\move(1920,775,-1660,775,0,6000)\fs50\c&H8D6C6A&}WutFace
+Dialogue: 587,0:04:21.84,0:04:27.84,Chat,,0,0,0,,{\be1\an2\move(1920,879,-2160,879,0,6000)\fs100\c&H916A93&}PunOko
+Dialogue: 586,0:04:22.33,0:04:28.33,Chat,,0,0,0,,{\be1\an2\move(1920,657,-2160,657,0,6000)\fs50\c&H9C24CE&}BAKA! PunOko
+Dialogue: 585,0:04:23.00,0:04:29.00,Chat,,0,0,0,,{\be1\an2\move(1920,881,-2260,881,0,6000)\fs50\c&HA323C7&}BAKAAA PunOko
+Dialogue: 584,0:04:23.33,0:04:29.33,Chat,,0,0,0,,{\be1\an2\move(1920,131,-1560,131,0,6000)\fs50\c&H25CAD2&}monkaS
+Dialogue: 583,0:04:23.66,0:04:29.66,Chat,,0,0,0,,{\be1\an2\move(1920,269,-1760,269,0,6000)\fs50\c&H19688D&}D: DEATH
+Dialogue: 582,0:04:24.66,0:04:30.66,Chat,,0,0,0,,{\be1\an2\move(1920,266,-2260,266,0,6000)\fs50\c&HAB371E&}BAKAAAAAAAAAA
+Dialogue: 581,0:04:25.33,0:04:31.33,Chat,,0,0,0,,{\be1\an2\move(1920,498,-1360,498,0,6000)\fs50\c&H25B21F&}danS
+Dialogue: 580,0:03:35.66,0:03:41.66,Chat,,0,0,0,,{\be1\an2\move(1920,617,-2640,617,0,6000)\fs30\c&HCE24A6&\alpha&H7f}Mafia strategy tips PogChamp
+Dialogue: 579,0:04:26.28,0:04:32.28,Chat,,0,0,0,,{\be1\an2\move(1920,752,-1560,752,0,6000)\fs50\c&H2479CF&}frsenS
+Dialogue: 578,0:04:27.42,0:04:33.42,Chat,,0,0,0,,{\be1\an2\move(1920,384,-1060,384,0,6000)\fs50\c&H8D7319&}F
+Dialogue: 577,0:04:28.57,0:04:34.57,Chat,,0,0,0,,{\be1\an2\move(1920,899,-2260,899,0,6000)\fs50\c&HDC37AB&}KonCha KonCha
+Dialogue: 576,0:03:39.00,0:03:45.00,Chat,,0,0,0,,{\be1\an2\move(1920,1006,-2460,1006,0,6000)\fs34\c&H88C923&\alpha&H7f}mindgames evoMindBlown
+Dialogue: 575,0:04:29.42,0:04:35.42,Chat,,0,0,0,,{\be1\an2\move(1920,571,-2460,571,0,6000)\fs50\c&H2BB821&}Town of Salem??
+Dialogue: 574,0:04:29.71,0:04:35.71,Chat,,0,0,0,,{\be1\an2\move(1920,698,-2460,698,0,6000)\fs41\c&H24CF24&}CMON BAKA cmonBruh
+Dialogue: 573,0:04:30.33,0:04:36.33,Chat,,0,0,0,,{\be1\an2\move(1920,1016,-1660,1016,0,6000)\fs50\c&HA31D95&}araragi
+Dialogue: 572,0:04:31.00,0:04:43.00,Chat,,0,0,0,,{\be1\an2\move(1920,456,-1560,456,0,12000)\fs100\c&H6B8378&}LUL
+Dialogue: 571,0:04:32.30,0:04:38.30,Chat,,0,0,0,,{\be1\an2\move(1920,473,-1410,473,0,6000)\fs75\c&H6A9C7D&}LOL
+Dialogue: 570,0:04:32.39,0:04:44.39,Chat,,0,0,0,,{\be1\an2\move(1920,915,-2360,915,0,12000)\fs100\c&H8C7872&}WutFace
+Dialogue: 569,0:04:32.69,0:04:38.69,Chat,,0,0,0,,{\be1\an2\move(1920,530,-1360,530,0,6000)\fs50\c&HD85326&}????
+Dialogue: 568,0:04:33.39,0:04:39.39,Chat,,0,0,0,,{\be1\an2\move(1920,403,-1560,403,0,6000)\fs100\c&H8E527C&}Wtf
+Dialogue: 567,0:04:33.80,0:04:39.80,Chat,,0,0,0,,{\be1\an2\move(1920,629,-1060,629,0,6000)\fs50\c&H728818&}?
+Dialogue: 566,0:03:44.00,0:03:50.00,Chat,,0,0,0,,{\be1\an2\move(1920,254,-2460,254,0,6000)\fs30\c&H871871&\alpha&H7f}TOWN OF STREAMSNIPERS LUL
+Dialogue: 565,0:04:34.19,0:04:40.19,Chat,,0,0,0,,{\be1\an2\move(1920,256,-1460,256,0,6000)\fs50\c&H6FE397&}?????
+Dialogue: 564,0:04:35.89,0:04:41.89,Chat,,0,0,0,,{\be1\an2\move(1920,846,-1660,846,0,6000)\fs50\c&H32CEDB&}:??????
+Dialogue: 563,0:04:36.25,0:04:42.25,Chat,,0,0,0,,{\be1\an2\move(1920,627,-1260,627,0,6000)\fs50\c&H36DC6C&}wat
+Dialogue: 562,0:04:36.77,0:04:42.77,Chat,,0,0,0,,{\be1\an2\move(1920,308,-1960,308,0,6000)\fs50\c&H1FB26B&}WutFace 3D
+Dialogue: 561,0:04:36.83,0:04:42.83,Chat,,0,0,0,,{\be1\an2\move(1920,549,-2060,549,0,6000)\fs50\c&H24CD24&}WTF WutFace
+Dialogue: 560,0:04:37.03,0:04:43.03,Chat,,0,0,0,,{\be1\an2\move(1920,407,-2060,407,0,6000)\fs50\c&H2076B8&}BAKA PunOko
+Dialogue: 559,0:04:37.41,0:04:43.41,Chat,,0,0,0,,{\be1\an2\move(1920,525,-1660,525,0,6000)\fs50\c&H4DAEC8&}forsenS
+Dialogue: 558,0:04:37.67,0:04:43.67,Chat,,0,0,0,,{\be1\an2\move(1920,380,-2160,380,0,6000)\fs50\c&H476EDF&}WHAT WutFace
+Dialogue: 557,0:03:48.00,0:03:55.40,Chat,,0,0,0,,{\be1\an2\move(1920,676,-3180,676,0,7400)\fs30\c&H59D7E2&\alpha&H7f}WOLF IS GONNA DEVOUR SOMEONE Kreygasm
+Dialogue: 556,0:04:38.27,0:04:44.27,Chat,,0,0,0,,{\be1\an2\move(1920,302,-2160,302,0,6000)\fs50\c&H95DD3F&}danTriggered
+Dialogue: 555,0:04:38.45,0:04:44.45,Chat,,0,0,0,,{\be1\an2\move(1920,670,-1760,670,0,6000)\fs50\c&H6E1FB2&}????????
+Dialogue: 554,0:04:38.81,0:04:44.81,Chat,,0,0,0,,{\be1\an2\move(1920,684,-2460,684,0,6000)\fs50\c&H60E3AA&}LULLLLLULLLULUl
+Dialogue: 553,0:03:49.00,0:03:55.00,Chat,,0,0,0,,{\be1\an2\move(1920,287,-2460,287,0,6000)\fs31\c&H37DA2F&\alpha&H7f}Mafia/town of Salem tips
+Dialogue: 552,0:04:39.08,0:04:45.08,Chat,,0,0,0,,{\be1\an2\move(1920,66,-1360,66,0,6000)\fs50\c&H951DA2&}what
+Dialogue: 551,0:04:39.18,0:04:45.18,Chat,,0,0,0,,{\be1\an2\move(1920,451,-2260,451,0,6000)\fs50\c&HCB9524&}??????????///
+Dialogue: 550,0:04:39.36,0:04:45.36,Chat,,0,0,0,,{\be1\an2\move(1920,199,-2060,199,0,6000)\fs50\c&H1C9D25&}KevinTurtle
+Dialogue: 549,0:04:39.54,0:04:45.54,Chat,,0,0,0,,{\be1\an2\move(1920,290,-1760,290,0,6000)\fs50\c&HD17425&}Kreygasm
+Dialogue: 548,0:04:39.63,0:04:45.63,Chat,,0,0,0,,{\be1\an2\move(1920,482,-1460,482,0,6000)\fs50\c&H853BDC&}wtf?!
+Dialogue: 547,0:04:40.33,0:04:46.33,Chat,,0,0,0,,{\be1\an2\move(1920,541,-1660,541,0,6000)\fs50\c&H5BE2D0&}LUL WTF
+Dialogue: 546,0:04:40.44,0:04:46.44,Chat,,0,0,0,,{\be1\an2\move(1920,799,-1260,799,0,6000)\fs50\c&HB52048&}???
+Dialogue: 545,0:04:40.66,0:04:46.66,Chat,,0,0,0,,{\be1\an2\move(1920,571,-1660,571,0,6000)\fs50\c&HC7238E&}WurFace
+Dialogue: 544,0:04:41.11,0:04:47.11,Chat,,0,0,0,,{\be1\an2\move(1920,391,-2260,391,0,6000)\fs50\c&HA91FB1&}TPcrunchyroll
+Dialogue: 543,0:04:41.33,0:04:47.33,Chat,,0,0,0,,{\be1\an2\move(1920,800,-1560,800,0,6000)\fs100\c&H796F72&}LUL
+Dialogue: 542,0:03:52.00,0:03:58.00,Chat,,0,0,0,,{\be1\an2\move(1920,435,-2460,435,0,6000)\fs32\c&H2FBA21&\alpha&H7f}he can't close his eyes
+Dialogue: 541,0:04:42.00,0:04:48.00,Chat,,0,0,0,,{\be1\an2\move(1920,667,-2460,667,0,6000)\fs50\c&H768BC4&}WutFace WutFace
+Dialogue: 540,0:04:42.11,0:04:48.11,Chat,,0,0,0,,{\be1\an2\move(1920,455,-2160,455,0,6000)\fs50\c&H26D770&}WTF PogChamp
+Dialogue: 539,0:04:42.33,0:04:48.33,Chat,,0,0,0,,{\be1\an2\move(1920,374,-1660,374,0,6000)\fs50\c&H9B281B&}WufFace
+Dialogue: 538,0:04:42.44,0:04:48.44,Chat,,0,0,0,,{\be1\an2\move(1920,1003,-2460,1003,0,6000)\fs44\c&HDA2E63&}WHAT IS HAPPENING
+Dialogue: 537,0:04:42.55,0:04:48.55,Chat,,0,0,0,,{\be1\an2\move(1920,195,-2360,195,0,6000)\fs100\c&HAB4881&}WutFace
+Dialogue: 536,0:04:42.88,0:04:48.88,Chat,,0,0,0,,{\be1\an2\move(1920,438,-1760,438,0,6000)\fs50\c&HB923C4&}DansGame
+Dialogue: 535,0:04:43.55,0:04:49.55,Chat,,0,0,0,,{\be1\an2\move(1920,79,-1960,79,0,6000)\fs50\c&H6E22C0&}Lol what?!
+Dialogue: 534,0:04:43.77,0:04:49.77,Chat,,0,0,0,,{\be1\an2\move(1920,487,-1260,487,0,6000)\fs50\c&H47DF85&}WUT
+Dialogue: 533,0:04:43.88,0:04:49.88,Chat,,0,0,0,,{\be1\an2\move(1920,179,-1660,179,0,6000)\fs50\c&H748DE6&}!uptime
+Dialogue: 532,0:03:54.00,0:04:00.00,Chat,,0,0,0,,{\be1\an2\move(1920,795,-2460,795,0,6000)\fs32\c&HE5CF6D&\alpha&H7f}That's ARARAGI voice !?
+Dialogue: 531,0:04:44.00,0:04:50.00,Chat,,0,0,0,,{\be1\an2\move(1920,415,-2360,415,0,6000)\fs50\c&HCFE673&}??????????????
+Dialogue: 530,0:04:44.42,0:04:50.42,Chat,,0,0,0,,{\be1\an2\move(1920,951,-2460,951,0,6000)\fs44\c&H37CFDC&}WHAT THE FUCK????
+Dialogue: 529,0:04:45.57,0:04:51.57,Chat,,0,0,0,,{\be1\an2\move(1920,108,-2360,108,0,6000)\fs50\c&HD68626&}LOOOOOOOOOOOOL
+Dialogue: 528,0:04:45.71,0:04:51.71,Chat,,0,0,0,,{\be1\an2\move(1920,629,-1660,629,0,6000)\fs50\c&H904DE0&}WTF LUL
+Dialogue: 527,0:04:45.85,0:04:51.85,Chat,,0,0,0,,{\be1\an2\move(1920,65,-1860,65,0,6000)\fs50\c&HA949DF&}?????????
+Dialogue: 526,0:04:46.44,0:04:52.44,Chat,,0,0,0,,{\be1\an2\move(1920,622,-2460,622,0,6000)\fs46\c&H23C8A9&}Werewolf No Baka
+Dialogue: 525,0:03:56.66,0:04:08.66,Chat,,0,0,0,,{\be1\an2\move(1920,404,-7740,404,0,12000)\fs30\c&HDF4954&\alpha&H7f}SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage
+Dialogue: 524,0:04:46.66,0:04:52.66,Chat,,0,0,0,,{\be1\an2\move(1920,196,-1660,196,0,6000)\fs50\c&H3D74DD&}wtf man
+Dialogue: 523,0:04:46.88,0:04:52.88,Chat,,0,0,0,,{\be1\an2\move(1920,187,-2160,187,0,6000)\fs50\c&HC97223&}😂😂😂
+Dialogue: 522,0:03:57.55,0:04:03.55,Chat,,0,0,0,,{\be1\an2\move(1920,1030,-2460,1030,0,6000)\fs34\c&HB36A20&\alpha&H7f}monkaS disabled monkaS
+Dialogue: 521,0:04:47.77,0:04:53.77,Chat,,0,0,0,,{\be1\an2\move(1920,169,-1260,169,0,6000)\fs50\c&H3926D8&}lol
+Dialogue: 520,0:04:48.00,0:04:54.00,Chat,,0,0,0,,{\be1\an2\move(1920,658,-1960,658,0,6000)\fs50\c&H961A3B&}tyler1Monk
+Dialogue: 519,0:04:48.19,0:04:54.19,Chat,,0,0,0,,{\be1\an2\move(1920,681,-2060,681,0,6000)\fs50\c&HA61D86&}WutFace LUL
+Dialogue: 518,0:03:58.50,0:04:06.09,Chat,,0,0,0,,{\be1\an2\move(1920,782,-3240,782,0,7600)\fs30\c&H7B961A&\alpha&H7f}this is the worst thing i've ever seen
+Dialogue: 517,0:04:48.39,0:04:54.39,Chat,,0,0,0,,{\be1\an2\move(1920,685,-2260,685,0,6000)\fs50\c&HE1527C&}?????????????
+Dialogue: 516,0:04:48.60,0:04:54.60,Chat,,0,0,0,,{\be1\an2\move(1920,927,-1410,927,0,6000)\fs75\c&H9B9E9C&}Wtf
+Dialogue: 515,0:03:59.50,0:04:11.50,Chat,,0,0,0,,{\be1\an2\move(1920,857,-4740,857,0,12000)\fs30\c&HDB3672&\alpha&H7f}WHERE THE HELL IS MY NIGHTMARE FUEL EXECUTION SEQUENCE DansGame
+Dialogue: 514,0:04:49.39,0:04:55.39,Chat,,0,0,0,,{\be1\an2\move(1920,528,-2060,528,0,6000)\fs50\c&H44B3DE&}AHAHAHAHAHA
+Dialogue: 513,0:04:49.80,0:04:55.80,Chat,,0,0,0,,{\be1\an2\move(1920,222,-2460,222,0,6000)\fs46\c&HA25A1D&}WutFace TOO REAL
+Dialogue: 512,0:04:50.33,0:04:56.33,Chat,,0,0,0,,{\be1\an2\move(1920,420,-2460,420,0,6000)\fs46\c&HAD3BDC&}i love this show
+Dialogue: 511,0:04:01.00,0:04:13.00,Chat,,0,0,0,,{\be1\an2\move(1920,391,-4980,391,0,12000)\fs30\c&H7F2AD9&\alpha&H7f}Len-chan is the werewolf. I hope she comes and bites me <3 Kreygasm
+Dialogue: 510,0:04:51.66,0:04:57.66,Chat,,0,0,0,,{\be1\an2\move(1920,766,-1660,766,0,6000)\fs50\c&HE18355&}WUT LUL
+Dialogue: 509,0:04:52.00,0:04:58.00,Chat,,0,0,0,,{\be1\an2\move(1920,464,-1360,464,0,6000)\fs50\c&H3E21BD&}NANI
+Dialogue: 508,0:04:52.57,0:04:58.57,Chat,,0,0,0,,{\be1\an2\move(1920,530,-1560,530,0,6000)\fs100\c&H68A978&}LUL
+Dialogue: 507,0:04:52.85,0:04:58.85,Chat,,0,0,0,,{\be1\an2\move(1920,831,-1660,831,0,6000)\fs50\c&H187A8B&}LUL LUL
+Dialogue: 506,0:04:53.00,0:04:59.00,Chat,,0,0,0,,{\be1\an2\move(1920,965,-2460,965,0,6000)\fs46\c&H9B6CE5&}whats going on ?
+Dialogue: 505,0:04:53.14,0:04:59.14,Chat,,0,0,0,,{\be1\an2\move(1920,867,-1260,867,0,6000)\fs50\c&H68E4C1&}CEO
+Dialogue: 504,0:04:53.28,0:04:59.28,Chat,,0,0,0,,{\be1\an2\move(1920,250,-1560,250,0,6000)\fs50\c&HBBDC3A&}LEAKED
+Dialogue: 503,0:04:53.85,0:04:59.85,Chat,,0,0,0,,{\be1\an2\move(1920,549,-2160,549,0,6000)\fs50\c&HAD51E0&}????????????
+Dialogue: 502,0:04:54.00,0:05:00.00,Chat,,0,0,0,,{\be1\an2\move(1920,520,-1660,520,0,6000)\fs50\c&HC0E466&}META AF
+Dialogue: 501,0:04:54.22,0:05:00.22,Chat,,0,0,0,,{\be1\an2\move(1920,234,-2060,234,0,6000)\fs50\c&H198E4C&}FeelsBadMan
+Dialogue: 500,0:04:54.44,0:05:00.44,Chat,,0,0,0,,{\be1\an2\move(1920,663,-1560,663,0,6000)\fs50\c&H1DA534&}duDudu
+Dialogue: 499,0:04:04.66,0:04:10.66,Chat,,0,0,0,,{\be1\an2\move(1920,482,-2460,482,0,6000)\fs37\c&H4EE0A0&}I LOVE THIS GAME IRL
+Dialogue: 498,0:04:54.88,0:05:00.88,Chat,,0,0,0,,{\be1\an2\move(1920,556,-1760,556,0,6000)\fs50\c&HA923C8&}HAHAHAHA
+Dialogue: 497,0:04:55.11,0:05:01.11,Chat,,0,0,0,,{\be1\an2\move(1920,236,-2460,236,0,6000)\fs41\c&HE35ED9&}NotLikeThis Camera
+Dialogue: 496,0:04:55.33,0:05:01.33,Chat,,0,0,0,,{\be1\an2\move(1920,168,-2360,168,0,6000)\fs50\c&H6E9A1B&}Nice face m8!!
+Dialogue: 495,0:04:55.77,0:05:01.77,Chat,,0,0,0,,{\be1\an2\move(1920,96,-1360,96,0,6000)\fs50\c&H60C8E3&}Baka
+Dialogue: 494,0:04:56.66,0:05:02.66,Chat,,0,0,0,,{\be1\an2\move(1920,756,-1860,756,0,6000)\fs50\c&H61E38B&}?????????
+Dialogue: 493,0:04:57.00,0:05:03.00,Chat,,0,0,0,,{\be1\an2\move(1920,632,-2360,632,0,6000)\fs100\c&H6F8996&}WutFace
+Dialogue: 492,0:04:57.33,0:05:03.33,Chat,,0,0,0,,{\be1\an2\move(1920,140,-2460,140,0,6000)\fs50\c&HC225D4&}Realism WutFace
+Dialogue: 491,0:04:57.66,0:05:03.66,Chat,,0,0,0,,{\be1\an2\move(1920,87,-1860,87,0,6000)\fs50\c&H23C7C3&}forsenS .
+Dialogue: 490,0:04:08.00,0:04:20.00,Chat,,0,0,0,,{\be1\an2\move(1920,95,-9120,95,0,12000)\fs30\c&H3D1DA4&\alpha&H7f}☕ Truth be told, I'm quite proud of my house blend. To attain my flavor and fragrance, I use five different types of coffee beans. ☕
+Dialogue: 489,0:04:58.33,0:05:04.33,Chat,,0,0,0,,{\be1\an2\move(1920,730,-2060,730,0,6000)\fs50\c&H1B7696&}3D DansGame
+Dialogue: 488,0:04:59.66,0:05:05.66,Chat,,0,0,0,,{\be1\an2\move(1920,129,-2060,129,0,6000)\fs50\c&HB33A5E&}NotLikeThis
+Dialogue: 487,0:05:00.19,0:05:06.19,Chat,,0,0,0,,{\be1\an2\move(1920,918,-1460,918,0,6000)\fs50\c&H2C1DA6&}loool
+Dialogue: 486,0:05:00.39,0:05:06.39,Chat,,0,0,0,,{\be1\an2\move(1920,644,-1560,644,0,6000)\fs50\c&HE25B5C&}LUL OK
+Dialogue: 485,0:05:00.60,0:05:06.60,Chat,,0,0,0,,{\be1\an2\move(1920,1015,-2160,1015,0,6000)\fs50\c&HDA3F2F&}Stop WutFace
+Dialogue: 484,0:05:01.00,0:05:07.00,Chat,,0,0,0,,{\be1\an2\move(1920,221,-2460,221,0,6000)\fs46\c&H25B4D0&}wtf is this shit
+Dialogue: 483,0:05:01.39,0:05:07.39,Chat,,0,0,0,,{\be1\an2\move(1920,728,-1360,728,0,6000)\fs50\c&H312EDA&}META
+Dialogue: 482,0:05:01.60,0:05:07.60,Chat,,0,0,0,,{\be1\an2\move(1920,702,-1260,702,0,6000)\fs50\c&HA61D80&}WAT
+Dialogue: 481,0:04:13.00,0:04:19.00,Chat,,0,0,0,,{\be1\an2\move(1920,879,-2460,879,0,6000)\fs32\c&HE56A90&\alpha&H7f}I wanna play this game!
+Dialogue: 480,0:05:03.33,0:05:09.33,Chat,,0,0,0,,{\be1\an2\move(1920,513,-2460,513,0,6000)\fs50\c&H5F1EAA&}WTF LUL LUL LUL
+Dialogue: 479,0:05:04.33,0:05:10.33,Chat,,0,0,0,,{\be1\an2\move(1920,806,-1260,806,0,6000)\fs50\c&H6AAE2D&}wtf
+Dialogue: 478,0:05:05.33,0:05:11.33,Chat,,0,0,0,,{\be1\an2\move(1920,259,-2360,259,0,6000)\fs50\c&H4EE0DE&}BOSSU PogChamp
+Dialogue: 477,0:04:16.30,0:04:22.30,Chat,,0,0,0,,{\be1\an2\move(1920,587,-2460,587,0,6000)\fs37\c&HA33D1D&}PunOko PunOko PunOko
+Dialogue: 476,0:05:06.00,0:05:12.00,Chat,,0,0,0,,{\be1\an2\move(1920,466,-2260,466,0,6000)\fs50\c&H21BBA6&}TheIlluminati
+Dialogue: 475,0:05:06.39,0:05:12.39,Chat,,0,0,0,,{\be1\an2\move(1920,655,-1660,655,0,6000)\fs50\c&H20B8B4&}forsenS
+Dialogue: 474,0:04:16.61,0:04:22.61,Chat,,0,0,0,,{\be1\an2\move(1920,238,-2580,238,0,6000)\fs30\c&H9DAD1E&\alpha&H7f}monkaS disabled in 2k17 LUL
+Dialogue: 473,0:05:07.00,0:05:13.00,Chat,,0,0,0,,{\be1\an2\move(1920,937,-1260,937,0,6000)\fs50\c&HAFE26F&}LUL
+Dialogue: 472,0:05:07.19,0:05:13.19,Chat,,0,0,0,,{\be1\an2\move(1920,319,-1660,319,0,6000)\fs50\c&HD3253F&}LUL LUL
+Dialogue: 471,0:05:07.39,0:05:13.39,Chat,,0,0,0,,{\be1\an2\move(1920,868,-1760,868,0,6000)\fs50\c&H4C599D&}TOO REAL
+Dialogue: 470,0:04:17.69,0:04:24.69,Chat,,0,0,0,,{\be1\an2\move(1920,655,-3060,655,0,7000)\fs30\c&H237CC4&\alpha&H7f}@AnarchKiwi, Tip: Kill..Them...ALL!
+Dialogue: 469,0:05:07.60,0:05:13.60,Chat,,0,0,0,,{\be1\an2\move(1920,245,-1460,245,0,6000)\fs50\c&H2A51D9&}!name
+Dialogue: 468,0:05:07.80,0:05:13.80,Chat,,0,0,0,,{\be1\an2\move(1920,940,-1660,940,0,6000)\fs50\c&H2454C9&}WutFace
+Dialogue: 467,0:05:09.00,0:05:15.00,Chat,,0,0,0,,{\be1\an2\move(1920,551,-1560,551,0,6000)\fs50\c&HE777AB&}PunOko
+Dialogue: 466,0:04:21.69,0:04:30.89,Chat,,0,0,0,,{\be1\an2\move(1920,445,-3720,445,0,9200)\fs30\c&H1EA96C&\alpha&H7f}Its a game called mafia but its different here
+Dialogue: 465,0:04:22.00,0:04:28.00,Chat,,0,0,0,,{\be1\an2\move(1920,250,-2460,250,0,6000)\fs37\c&H25D371&}BLACK IS THE TRAITOR
+Dialogue: 464,0:05:12.33,0:05:18.33,Chat,,0,0,0,,{\be1\an2\move(1920,464,-2060,464,0,6000)\fs50\c&H78E779&}monkaS 🥄
+Dialogue: 463,0:05:12.66,0:05:18.66,Chat,,0,0,0,,{\be1\an2\move(1920,565,-2460,565,0,6000)\fs50\c&HC6AD23&}whats happening
+Dialogue: 462,0:05:13.00,0:05:19.00,Chat,,0,0,0,,{\be1\an2\move(1920,547,-1660,547,0,6000)\fs50\c&H844917&}EXPOSED
+Dialogue: 461,0:05:13.66,0:05:19.66,Chat,,0,0,0,,{\be1\an2\move(1920,437,-1960,437,0,6000)\fs50\c&H2577D0&}BigBrother
+Dialogue: 460,0:05:14.00,0:05:20.00,Chat,,0,0,0,,{\be1\an2\move(1920,484,-2160,484,0,6000)\fs50\c&HB54420&}TOO REAL LUL
+Dialogue: 459,0:05:15.00,0:05:21.00,Chat,,0,0,0,,{\be1\an2\move(1920,995,-2460,995,0,6000)\fs41\c&H58E258&}CMON BAKA cmonBruh
+Dialogue: 458,0:05:15.50,0:05:21.50,Chat,,0,0,0,,{\be1\an2\move(1920,415,-1860,415,0,6000)\fs50\c&HD9C028&}stoooooop
+Dialogue: 457,0:05:16.00,0:05:22.00,Chat,,0,0,0,,{\be1\an2\move(1920,852,-2460,852,0,6000)\fs41\c&H25198D&}photorealism Kappa
+Dialogue: 456,0:05:16.50,0:05:22.50,Chat,,0,0,0,,{\be1\an2\move(1920,755,-2360,755,0,6000)\fs50\c&H6C1DA3&}I love you all
+Dialogue: 455,0:05:17.00,0:05:23.00,Chat,,0,0,0,,{\be1\an2\move(1920,608,-1460,608,0,6000)\fs50\c&H863418&}UH OH
+Dialogue: 454,0:04:27.71,0:04:33.71,Chat,,0,0,0,,{\be1\an2\move(1920,593,-2700,593,0,6000)\fs30\c&H25D1D0&\alpha&H7f}SPOILERS: THE WEREWOLF IS 001
+Dialogue: 453,0:04:28.00,0:04:34.00,Chat,,0,0,0,,{\be1\an2\move(1920,61,-2460,61,0,6000)\fs37\c&H57DF49&}wooser is the 7th D:
+Dialogue: 452,0:05:18.00,0:05:24.00,Chat,,0,0,0,,{\be1\an2\move(1920,350,-1560,350,0,6000)\fs50\c&H1C8718&}danLUL
+Dialogue: 451,0:04:28.28,0:04:34.28,Chat,,0,0,0,,{\be1\an2\move(1920,581,-2580,581,0,6000)\fs30\c&H5DE279&\alpha&H7f}TOP 10 VIOLENT ANIME DEATHS
+Dialogue: 450,0:04:29.14,0:04:35.14,Chat,,0,0,0,,{\be1\an2\move(1920,880,-2460,880,0,6000)\fs31\c&HE67570&\alpha&H7f}Araragi and okarin 4sure
+Dialogue: 449,0:04:30.00,0:04:42.00,Chat,,0,0,0,,{\be1\an2\move(1920,1023,-10500,1023,0,12000)\fs30\c&HBE79E7&\alpha&H7f}KILL ALL OF TWITCH CHAT FeelsAmazingMan KILL ALL OF TWITCH CHAT FeelsAmazingMan KILL ALL OF TWITCH CHAT FeelsAmazingMan KILL ALL OF TWITCH CHAT FeelsAmazingMan
+Dialogue: 448,0:05:20.00,0:05:26.00,Chat,,0,0,0,,{\be1\an2\move(1920,546,-1260,546,0,6000)\fs50\c&HBE24CD&}iie
+Dialogue: 447,0:05:20.50,0:05:26.50,Chat,,0,0,0,,{\be1\an2\move(1920,286,-1660,286,0,6000)\fs50\c&H6DCCE5&}WutFace
+Dialogue: 446,0:04:30.66,0:04:38.06,Chat,,0,0,0,,{\be1\an2\move(1920,879,-3180,879,0,7400)\fs30\c&HE87DB4&\alpha&H7f}Town PogChamp Of PogChamp Salem Kappa
+Dialogue: 445,0:05:21.00,0:05:27.00,Chat,,0,0,0,,{\be1\an2\move(1920,426,-2360,426,0,6000)\fs50\c&HB8E467&}Whaaaa so dark
+Dialogue: 444,0:05:21.50,0:05:27.50,Chat,,0,0,0,,{\be1\an2\move(1920,248,-1260,248,0,6000)\fs50\c&HDD723D&}LIL
+Dialogue: 443,0:04:32.10,0:04:38.10,Chat,,0,0,0,,{\be1\an2\move(1920,846,-2460,846,0,6000)\fs34\c&H6EE5D0&\alpha&H7f}these smug muthafuckas
+Dialogue: 442,0:05:22.00,0:05:28.00,Chat,,0,0,0,,{\be1\an2\move(1920,830,-1560,830,0,6000)\fs100\c&H818977&}LUL
+Dialogue: 441,0:04:32.89,0:04:38.89,Chat,,0,0,0,,{\be1\an2\move(1920,417,-2460,417,0,6000)\fs34\c&HE3CB62&\alpha&H7f}arararagi san kamiasta
+Dialogue: 440,0:05:22.80,0:05:28.80,Chat,,0,0,0,,{\be1\an2\move(1920,910,-2060,910,0,6000)\fs50\c&H3AA3DC&}YIIIIIIIIII
+Dialogue: 439,0:05:23.19,0:05:29.19,Chat,,0,0,0,,{\be1\an2\move(1920,285,-2360,285,0,6000)\fs50\c&H5A6744&}JIIIIIIIIIIIII
+Dialogue: 438,0:05:23.60,0:05:29.60,Chat,,0,0,0,,{\be1\an2\move(1920,220,-1960,220,0,6000)\fs50\c&H5F2CAE&}jiiiiiiiii
+Dialogue: 437,0:04:33.89,0:04:40.30,Chat,,0,0,0,,{\be1\an2\move(1920,455,-2880,455,0,6400)\fs30\c&H5093E0&\alpha&H7f}its a board game called werewolf
+Dialogue: 436,0:05:24.00,0:05:30.00,Chat,,0,0,0,,{\be1\an2\move(1920,886,-2160,886,0,6000)\fs50\c&H2378C8&}JIIIIIIIIIII
+Dialogue: 435,0:04:34.50,0:04:42.69,Chat,,0,0,0,,{\be1\an2\move(1920,886,-3420,886,0,8200)\fs30\c&HD85126&\alpha&H7f}WutFace WutFace WutFace WutFace That face
+Dialogue: 434,0:05:24.57,0:05:30.57,Chat,,0,0,0,,{\be1\an2\move(1920,424,-2060,424,0,6000)\fs50\c&HD27525&}JIIIIIIIII~
+Dialogue: 433,0:05:24.85,0:05:30.85,Chat,,0,0,0,,{\be1\an2\move(1920,468,-2060,468,0,6000)\fs50\c&H1C3D9E&}STAAAARRREE
+Dialogue: 432,0:05:26.11,0:05:32.11,Chat,,0,0,0,,{\be1\an2\move(1920,557,-1460,557,0,6000)\fs50\c&HDABC2E&}jiiii
+Dialogue: 431,0:05:26.35,0:05:32.35,Chat,,0,0,0,,{\be1\an2\move(1920,374,-2460,374,0,6000)\fs41\c&H93C623&}JIIIIIIIIIIIIIIIII
+Dialogue: 430,0:05:26.47,0:05:32.47,Chat,,0,0,0,,{\be1\an2\move(1920,320,-2460,320,0,6000)\fs46\c&H4571DE&}FeelsGoodMan rip
+Dialogue: 429,0:05:26.70,0:05:32.70,Chat,,0,0,0,,{\be1\an2\move(1920,541,-2460,541,0,6000)\fs50\c&HDC3A80&}JIIIIIII PunOko
+Dialogue: 428,0:05:26.82,0:05:32.82,Chat,,0,0,0,,{\be1\an2\move(1920,639,-1760,639,0,6000)\fs50\c&HE56AC3&}Jebaited
+Dialogue: 427,0:05:27.17,0:05:33.17,Chat,,0,0,0,,{\be1\an2\move(1920,190,-3160,190,0,6000)\fs100\c&H7F7855&}FeelsBadMan
+Dialogue: 426,0:05:27.41,0:05:33.41,Chat,,0,0,0,,{\be1\an2\move(1920,965,-2560,965,0,6000)\fs100\c&H8688A8&}Kreygasm
+Dialogue: 425,0:05:27.52,0:05:33.52,Chat,,0,0,0,,{\be1\an2\move(1920,103,-2160,103,0,6000)\fs50\c&HA5C47B&}FeelsGoodMan
+Dialogue: 424,0:05:27.88,0:05:33.88,Chat,,0,0,0,,{\be1\an2\move(1920,119,-1360,119,0,6000)\fs50\c&HC4DC3A&}JAIL
+Dialogue: 423,0:05:28.00,0:05:34.00,Chat,,0,0,0,,{\be1\an2\move(1920,818,-1960,818,0,6000)\fs50\c&H98C423&}tyler1Monk
+Dialogue: 422,0:05:28.39,0:05:34.39,Chat,,0,0,0,,{\be1\an2\move(1920,246,-1560,246,0,6000)\fs50\c&H642BDA&}Jiiii~
+Dialogue: 421,0:05:28.80,0:05:34.80,Chat,,0,0,0,,{\be1\an2\move(1920,232,-2060,232,0,6000)\fs50\c&HDDE87C&}JIIII>IIIII
+Dialogue: 420,0:05:29.19,0:05:35.19,Chat,,0,0,0,,{\be1\an2\move(1920,361,-1860,361,0,6000)\fs50\c&HB7E463&}JIIIIIIII
+Dialogue: 419,0:05:29.39,0:05:35.39,Chat,,0,0,0,,{\be1\an2\move(1920,261,-1560,261,0,6000)\fs50\c&HDB9E34&}ORE WA
+Dialogue: 418,0:05:29.60,0:05:35.60,Chat,,0,0,0,,{\be1\an2\move(1920,279,-2060,279,0,6000)\fs50\c&HC13EDD&}JIIIIIIIIII
+Dialogue: 417,0:05:30.13,0:05:36.13,Chat,,0,0,0,,{\be1\an2\move(1920,715,-2460,715,0,6000)\fs39\c&HCE74E7&}jIIIIIIIIIIIIIIIIII
+Dialogue: 416,0:05:30.66,0:05:36.66,Chat,,0,0,0,,{\be1\an2\move(1920,831,-1660,831,0,6000)\fs50\c&H27CDD9&}AMAZING
+Dialogue: 415,0:05:30.80,0:05:36.80,Chat,,0,0,0,,{\be1\an2\move(1920,498,-2460,498,0,6000)\fs46\c&HE08051&}JIIIIIIIIIIIIIII
+Dialogue: 414,0:05:30.93,0:05:36.93,Chat,,0,0,0,,{\be1\an2\move(1920,754,-2460,754,0,6000)\fs46\c&HE155C0&}SAME FeelsBadMan
+Dialogue: 413,0:05:31.19,0:05:37.19,Chat,,0,0,0,,{\be1\an2\move(1920,164,-2160,164,0,6000)\fs50\c&H4FDF48&}Jiiiiiii....
+Dialogue: 412,0:05:31.73,0:05:37.73,Chat,,0,0,0,,{\be1\an2\move(1920,724,-1560,724,0,6000)\fs50\c&HE0C64F&}ME IRL
+Dialogue: 411,0:04:42.22,0:04:48.22,Chat,,0,0,0,,{\be1\an2\move(1920,91,-2460,91,0,6000)\fs37\c&H5F25D3&}Too real FeelsBadMan
+Dialogue: 410,0:05:32.00,0:05:38.00,Chat,,0,0,0,,{\be1\an2\move(1920,937,-1460,937,0,6000)\fs50\c&H24CF6A&}STARE
+Dialogue: 409,0:05:32.39,0:05:40.50,Chat,,0,0,0,,{\be1\an2\move(1920,874,-1560,874,0,8100)\fs100\c&H837D84&}LUL
+Dialogue: 408,0:05:32.80,0:05:38.80,Chat,,0,0,0,,{\be1\an2\move(1920,269,-2460,269,0,6000)\fs50\c&H6D6AE5&}jiiiiiiiiiiiiii
+Dialogue: 407,0:04:43.00,0:04:55.00,Chat,,0,0,0,,{\be1\an2\move(1920,702,-6600,702,0,12000)\fs30\c&H5A93E2&\alpha&H7f}well the latest one is One night ultimate werewolf, it's a boardgame that is popular right now
+Dialogue: 406,0:04:43.11,0:04:52.91,Chat,,0,0,0,,{\be1\an2\move(1920,739,-3900,739,0,9800)\fs30\c&H6DE5BC&\alpha&H7f}PLOT TWIST : HE'S WEREWOLF, BUT HE CAN'T REMEMBER
+Dialogue: 405,0:05:33.00,0:05:39.00,Chat,,0,0,0,,{\be1\an2\move(1920,357,-1160,357,0,6000)\fs50\c&H737F7E&}<3
+Dialogue: 404,0:05:33.19,0:05:39.19,Chat,,0,0,0,,{\be1\an2\move(1920,260,-2460,260,0,6000)\fs46\c&HD6E465&}Jjjjjjjjjjjjjjjj
+Dialogue: 403,0:05:33.39,0:05:39.39,Chat,,0,0,0,,{\be1\an2\move(1920,795,-2460,795,0,6000)\fs46\c&HCF416F&}FeelsBadMan same
+Dialogue: 402,0:05:33.80,0:05:39.80,Chat,,0,0,0,,{\be1\an2\move(1920,725,-1760,725,0,6000)\fs50\c&H3896DC&}PogChamp
+Dialogue: 401,0:04:44.28,0:04:55.28,Chat,,0,0,0,,{\be1\an2\move(1920,109,-4260,109,0,11000)\fs30\c&H5EE35E&\alpha&H7f}WutFace WutFace WutFace WutFace WutFace WutFace WutFace
+Dialogue: 400,0:04:44.57,0:04:53.37,Chat,,0,0,0,,{\be1\an2\move(1920,464,-3600,464,0,8800)\fs30\c&HE87CD3&\alpha&H7f}PogChamp PogChamp PogChamp PogChamp PogChamp
+Dialogue: 399,0:04:44.85,0:04:53.85,Chat,,0,0,0,,{\be1\an2\move(1920,783,-3660,783,0,9000)\fs30\c&H991B71&\alpha&H7f}isnt akashic records suppose to be playing ??
+Dialogue: 398,0:05:34.66,0:05:40.66,Chat,,0,0,0,,{\be1\an2\move(1920,338,-1160,338,0,6000)\fs50\c&H309C1B&}:O
+Dialogue: 397,0:04:45.14,0:04:54.94,Chat,,0,0,0,,{\be1\an2\move(1920,767,-3900,767,0,9800)\fs30\c&H501785&\alpha&H7f}tyler1LUL tyler1LUL tyler1LUL tyler1LUL tyler1LUL
+Dialogue: 396,0:05:35.06,0:05:41.06,Chat,,0,0,0,,{\be1\an2\move(1920,796,-1460,796,0,6000)\fs50\c&H8C3619&}Kappa
+Dialogue: 395,0:05:35.19,0:05:41.19,Chat,,0,0,0,,{\be1\an2\move(1920,558,-1560,558,0,6000)\fs50\c&H249019&}GOT EM
+Dialogue: 394,0:05:35.86,0:05:41.86,Chat,,0,0,0,,{\be1\an2\move(1920,406,-1560,406,0,6000)\fs50\c&H5EE368&}U DEAF
+Dialogue: 393,0:05:36.00,0:05:42.00,Chat,,0,0,0,,{\be1\an2\move(1920,689,-1260,689,0,6000)\fs50\c&H7BA44B&}Rip
+Dialogue: 392,0:05:36.28,0:05:42.28,Chat,,0,0,0,,{\be1\an2\move(1920,904,-1860,904,0,6000)\fs50\c&HDE45C4&}Relatable
+Dialogue: 391,0:05:37.71,0:05:43.71,Chat,,0,0,0,,{\be1\an2\move(1920,921,-1860,921,0,6000)\fs50\c&HAB9149&}OMEGA LUL
+Dialogue: 390,0:04:48.80,0:04:54.80,Chat,,0,0,0,,{\be1\an2\move(1920,301,-2460,301,0,6000)\fs31\c&H5E71E3&\alpha&H7f}forsenE ????? GOOD ANIME
+Dialogue: 389,0:05:38.72,0:05:44.72,Chat,,0,0,0,,{\be1\an2\move(1920,155,-1660,155,0,6000)\fs50\c&HCC2494&}WutFace
+Dialogue: 388,0:05:39.45,0:05:45.45,Chat,,0,0,0,,{\be1\an2\move(1920,733,-1860,733,0,6000)\fs50\c&HE38B60&}SAVED LUL
+Dialogue: 387,0:04:49.60,0:04:55.60,Chat,,0,0,0,,{\be1\an2\move(1920,78,-2760,78,0,6000)\fs30\c&H72E56C&\alpha&H7f}am i suppoed TO KNOW THESE PPL
+Dialogue: 386,0:04:50.00,0:04:56.00,Chat,,0,0,0,,{\be1\an2\move(1920,273,-2460,273,0,6000)\fs31\c&HDC3AB0&\alpha&H7f}WutFace 3D FACES WutFace
+Dialogue: 385,0:05:40.33,0:05:46.33,Chat,,0,0,0,,{\be1\an2\move(1920,872,-1660,872,0,6000)\fs50\c&H4747DF&}DENIERD
+Dialogue: 384,0:04:50.66,0:05:01.06,Chat,,0,0,0,,{\be1\an2\move(1920,868,-4080,868,0,10400)\fs30\c&HAF1F5E&\alpha&H7f}I can't live like normal anymore why did this happen
+Dialogue: 383,0:05:40.66,0:05:46.66,Chat,,0,0,0,,{\be1\an2\move(1920,529,-1760,529,0,6000)\fs50\c&HAB21B9&}LUL fuck
+Dialogue: 382,0:04:51.00,0:05:03.00,Chat,,0,0,0,,{\be1\an2\move(1920,698,-4740,698,0,12000)\fs30\c&H6DE5D6&\alpha&H7f}WutFace WutFace WutFace WutFace WutFace WutFace WutFace WutFace
+Dialogue: 381,0:05:41.50,0:05:47.50,Chat,,0,0,0,,{\be1\an2\move(1920,269,-2460,269,0,6000)\fs41\c&H4CDF8C&}LEN IS THE TRAITOR
+Dialogue: 380,0:04:52.28,0:04:58.28,Chat,,0,0,0,,{\be1\an2\move(1920,738,-2460,738,0,6000)\fs35\c&H482DDA&\alpha&H7f}?????????????????????
+Dialogue: 379,0:04:52.42,0:04:58.42,Chat,,0,0,0,,{\be1\an2\move(1920,724,-2460,724,0,6000)\fs31\c&H23BCC9&\alpha&H7f}WHAT IS GOING ON WutFace
+Dialogue: 378,0:05:42.25,0:05:48.25,Chat,,0,0,0,,{\be1\an2\move(1920,386,-1660,386,0,6000)\fs50\c&H5422C1&}ITS RIN
+Dialogue: 377,0:05:42.50,0:05:48.50,Chat,,0,0,0,,{\be1\an2\move(1920,972,-2460,972,0,6000)\fs50\c&H45D7DE&}RIN AND LEN LUL
+Dialogue: 376,0:05:42.75,0:05:48.75,Chat,,0,0,0,,{\be1\an2\move(1920,442,-2060,442,0,6000)\fs50\c&H61E362&}monkaS 🥄
+Dialogue: 375,0:05:43.00,0:05:49.00,Chat,,0,0,0,,{\be1\an2\move(1920,828,-1560,828,0,6000)\fs100\c&H99AC78&}LUL
+Dialogue: 374,0:04:53.42,0:04:59.42,Chat,,0,0,0,,{\be1\an2\move(1920,520,-2700,520,0,6000)\fs30\c&HDB5D32&\alpha&H7f}NANI THE FUCK IS HAPPENING???
+Dialogue: 373,0:04:53.57,0:04:59.97,Chat,,0,0,0,,{\be1\an2\move(1920,856,-2880,856,0,6400)\fs30\c&HDC5436&\alpha&H7f}PunOko PunOko Baka PunOko PunOko
+Dialogue: 372,0:04:53.71,0:05:05.71,Chat,,0,0,0,,{\be1\an2\move(1920,152,-8520,152,0,12000)\fs30\c&H9468E4&\alpha&H7f}Crunchyroll Expo tickets are available now! Use code twitch05 for $5 off Weekend passes: http://link.twitch.tv/crunchyrollexpo
+Dialogue: 371,0:05:43.75,0:05:49.75,Chat,,0,0,0,,{\be1\an2\move(1920,490,-1060,490,0,6000)\fs50\c&H36A1DC&}F
+Dialogue: 370,0:05:44.50,0:05:50.50,Chat,,0,0,0,,{\be1\an2\move(1920,865,-1960,865,0,6000)\fs50\c&H2EB420&}ok but why
+Dialogue: 369,0:04:54.66,0:05:00.86,Chat,,0,0,0,,{\be1\an2\move(1920,767,-2820,767,0,6200)\fs30\c&HD5E157&\alpha&H7f}WutFace WutFace WutFace WutFace
+Dialogue: 368,0:05:45.00,0:05:51.00,Chat,,0,0,0,,{\be1\an2\move(1920,727,-1460,727,0,6000)\fs50\c&H8AD92A&}50 50
+Dialogue: 367,0:05:45.50,0:05:51.50,Chat,,0,0,0,,{\be1\an2\move(1920,729,-2260,729,0,6000)\fs50\c&HBD2192&}RIN BEST GIRL
+Dialogue: 366,0:05:46.66,0:05:52.66,Chat,,0,0,0,,{\be1\an2\move(1920,694,-1260,694,0,6000)\fs75\c&H75AB72&}D:
+Dialogue: 365,0:05:47.00,0:05:53.00,Chat,,0,0,0,,{\be1\an2\move(1920,146,-1660,146,0,6000)\fs50\c&H58E2C0&}ITS LEN
+Dialogue: 364,0:04:58.00,0:05:10.00,Chat,,0,0,0,,{\be1\an2\move(1920,798,-10800,798,0,12000)\fs30\c&H46DEAA&\alpha&H7f}🤔 PLOT TWIST : HE'S WEREWOLF, BUT HE CAN'T REMEMBER 🤔 PLOT TWIST : HE'S WEREWOLF, BUT HE CAN'T REMEMBER 🤔 PLOT TWIST : HE'S WEREWOLF, BUT HE CAN'T REMEMBER
+Dialogue: 363,0:04:59.00,0:05:05.00,Chat,,0,0,0,,{\be1\an2\move(1920,610,-2460,610,0,6000)\fs30\c&HD7E87B&\alpha&H7f}?????????????????????????
+Dialogue: 362,0:04:59.33,0:05:07.13,Chat,,0,0,0,,{\be1\an2\move(1920,163,-3300,163,0,7800)\fs30\c&HC22254&\alpha&H7f}WutFace WutFace WutFace WutFace WutFace
+Dialogue: 361,0:05:50.00,0:05:56.00,Chat,,0,0,0,,{\be1\an2\move(1920,93,-1360,93,0,6000)\fs50\c&H30C07C&}🤔
+Dialogue: 360,0:05:50.33,0:05:56.33,Chat,,0,0,0,,{\be1\an2\move(1920,479,-2460,479,0,6000)\fs41\c&H1EAB57&}wooser is the wolf
+Dialogue: 359,0:05:00.80,0:05:06.80,Chat,,0,0,0,,{\be1\an2\move(1920,624,-2580,624,0,6000)\fs30\c&HC1E775&\alpha&H7f}monkaS TOO MUCH ACID monkaS
+Dialogue: 358,0:05:50.66,0:05:56.66,Chat,,0,0,0,,{\be1\an2\move(1920,997,-1260,997,0,6000)\fs50\c&HBB574B&}rin
+Dialogue: 357,0:05:01.19,0:05:10.60,Chat,,0,0,0,,{\be1\an2\move(1920,208,-3780,208,0,9400)\fs30\c&H4ABEDF&\alpha&H7f}WutFace WutFace WutFace WutFace WutFace WutFace
+Dialogue: 356,0:05:51.00,0:05:57.00,Chat,,0,0,0,,{\be1\an2\move(1920,853,-2160,853,0,6000)\fs50\c&H79C222&}danTriggered
+Dialogue: 355,0:05:51.33,0:05:57.33,Chat,,0,0,0,,{\be1\an2\move(1920,614,-2060,614,0,6000)\fs50\c&H911A3C&}NotLikeThis
+Dialogue: 354,0:05:01.80,0:05:12.60,Chat,,0,0,0,,{\be1\an2\move(1920,775,-4200,775,0,10800)\fs30\c&HA38A1D&\alpha&H7f}ClappyDerp ClappyDerp ClappyDerp ClappyDerp ClappyDerp
+Dialogue: 353,0:05:51.66,0:05:57.66,Chat,,0,0,0,,{\be1\an2\move(1920,102,-1560,102,0,6000)\fs50\c&H3ACCA7&}monkaS
+Dialogue: 352,0:05:52.00,0:05:58.00,Chat,,0,0,0,,{\be1\an2\move(1920,743,-2060,743,0,6000)\fs50\c&HDB4F32&}BELEIVE RIN
+Dialogue: 351,0:05:52.44,0:05:58.44,Chat,,0,0,0,,{\be1\an2\move(1920,455,-2060,455,0,6000)\fs50\c&HDCA13B&}FEELSBADMAN
+Dialogue: 350,0:05:02.66,0:05:13.86,Chat,,0,0,0,,{\be1\an2\move(1920,973,-4320,973,0,11200)\fs30\c&HC68A23&\alpha&H7f}I MISSED GABRIEL DROPOUT WHY DID IT HAVE TO BE AT 4:00AM
+Dialogue: 349,0:05:52.66,0:05:58.66,Chat,,0,0,0,,{\be1\an2\move(1920,1012,-2060,1012,0,6000)\fs50\c&H2CDA9E&}It's WOOSER
+Dialogue: 348,0:05:52.88,0:05:58.88,Chat,,0,0,0,,{\be1\an2\move(1920,151,-1760,151,0,6000)\fs50\c&H4AA1A6&}Kreygasm
+Dialogue: 347,0:05:53.11,0:05:59.11,Chat,,0,0,0,,{\be1\an2\move(1920,459,-1560,459,0,6000)\fs50\c&HA21D9B&}!anime
+Dialogue: 346,0:05:53.55,0:05:59.55,Chat,,0,0,0,,{\be1\an2\move(1920,622,-1410,622,0,6000)\fs75\c&H7267CA&}LEN
+Dialogue: 345,0:05:04.00,0:05:10.00,Chat,,0,0,0,,{\be1\an2\move(1920,449,-2760,449,0,6000)\fs30\c&H71E6C1&\alpha&H7f}SHAFT STUDIO WANNABE LUL 4Head
+Dialogue: 344,0:05:54.00,0:06:00.00,Chat,,0,0,0,,{\be1\an2\move(1920,244,-2460,244,0,6000)\fs44\c&H5924CC&}OBVIOUSLY ITS RIN
+Dialogue: 343,0:05:54.19,0:06:00.19,Chat,,0,0,0,,{\be1\an2\move(1920,998,-1760,998,0,6000)\fs50\c&HDD643D&}Suici de
+Dialogue: 342,0:05:54.60,0:06:00.60,Chat,,0,0,0,,{\be1\an2\move(1920,566,-1960,566,0,6000)\fs50\c&H8D191A&}ITS WOOSER
+Dialogue: 341,0:05:54.80,0:06:00.80,Chat,,0,0,0,,{\be1\an2\move(1920,335,-1660,335,0,6000)\fs50\c&H49D57B&}SourPls
+Dialogue: 340,0:05:55.19,0:06:01.19,Chat,,0,0,0,,{\be1\an2\move(1920,96,-1360,96,0,6000)\fs50\c&H2ACA24&}danS
+Dialogue: 339,0:05:55.60,0:06:01.60,Chat,,0,0,0,,{\be1\an2\move(1920,223,-2460,223,0,6000)\fs44\c&H36ABBB&}Kreygasm Kreygasm
+Dialogue: 338,0:05:56.00,0:06:02.00,Chat,,0,0,0,,{\be1\an2\move(1920,781,-1660,781,0,6000)\fs50\c&H8A7518&}LENTEAM
+Dialogue: 337,0:05:06.19,0:05:12.19,Chat,,0,0,0,,{\be1\an2\move(1920,273,-2460,273,0,6000)\fs31\c&H277DD9&\alpha&H7f}YOU HAVE TO BE THE ALPHA
+Dialogue: 336,0:05:06.80,0:05:12.80,Chat,,0,0,0,,{\be1\an2\move(1920,828,-2700,828,0,6000)\fs30\c&HC0DA2E&\alpha&H7f}TTours ??????????????????????
+Dialogue: 335,0:05:56.85,0:06:02.85,Chat,,0,0,0,,{\be1\an2\move(1920,159,-1560,159,0,6000)\fs100\c&H749C66&}LUL
+Dialogue: 334,0:05:57.14,0:06:03.14,Chat,,0,0,0,,{\be1\an2\move(1920,771,-1960,771,0,6000)\fs50\c&H6264E3&}rip wooser
+Dialogue: 333,0:05:58.80,0:06:04.80,Chat,,0,0,0,,{\be1\an2\move(1920,873,-1760,873,0,6000)\fs50\c&H8B53E1&}DansGame
+Dialogue: 332,0:05:59.19,0:06:05.19,Chat,,0,0,0,,{\be1\an2\move(1920,253,-2460,253,0,6000)\fs41\c&H8521B9&}ITS RIN CALLUNG IT
+Dialogue: 331,0:05:59.60,0:06:05.60,Chat,,0,0,0,,{\be1\an2\move(1920,854,-1160,854,0,6000)\fs50\c&HD0E56E&}:O
+Dialogue: 330,0:05:10.00,0:05:16.00,Chat,,0,0,0,,{\be1\an2\move(1920,99,-2460,99,0,6000)\fs37\c&HC5E670&}whaTVis the happning
+Dialogue: 329,0:06:00.00,0:06:06.00,Chat,,0,0,0,,{\be1\an2\move(1920,646,-1560,646,0,6000)\fs50\c&HC78586&}CHASTE
+Dialogue: 328,0:06:00.33,0:06:06.33,Chat,,0,0,0,,{\be1\an2\move(1920,162,-2060,162,0,6000)\fs50\c&H23C6A8&}its yelolow
+Dialogue: 327,0:06:01.33,0:06:07.33,Chat,,0,0,0,,{\be1\an2\move(1920,569,-2160,569,0,6000)\fs50\c&HE46E67&}LEN IS RIGHT
+Dialogue: 326,0:06:01.66,0:06:07.66,Chat,,0,0,0,,{\be1\an2\move(1920,623,-1560,623,0,6000)\fs50\c&H21BB60&}UUUSER
+Dialogue: 325,0:05:12.00,0:05:18.80,Chat,,0,0,0,,{\be1\an2\move(1920,427,-3000,427,0,6800)\fs30\c&H77DF4A&\alpha&H7f}miyano is such a great voice actor
+Dialogue: 324,0:06:02.00,0:06:08.00,Chat,,0,0,0,,{\be1\an2\move(1920,788,-1260,788,0,6000)\fs50\c&H22C17F&}lol
+Dialogue: 323,0:06:02.66,0:06:08.66,Chat,,0,0,0,,{\be1\an2\move(1920,491,-2360,491,0,6000)\fs100\c&H53958B&}WutFace
+Dialogue: 322,0:06:03.66,0:06:09.66,Chat,,0,0,0,,{\be1\an2\move(1920,443,-2560,443,0,6000)\fs100\c&H688B8F&}Kreygasm
+Dialogue: 321,0:06:04.00,0:06:10.00,Chat,,0,0,0,,{\be1\an2\move(1920,69,-2360,69,0,6000)\fs50\c&HD929A1&}GIRLS Kreygasm
+Dialogue: 320,0:06:04.10,0:06:10.10,Chat,,0,0,0,,{\be1\an2\move(1920,989,-2260,989,0,6000)\fs50\c&HD8BF26&}JAIL Kreygasm
+Dialogue: 319,0:06:04.31,0:06:10.31,Chat,,0,0,0,,{\be1\an2\move(1920,960,-1560,960,0,6000)\fs50\c&H8AA41D&}moon2L
+Dialogue: 318,0:06:04.42,0:06:10.42,Chat,,0,0,0,,{\be1\an2\move(1920,960,-1460,960,0,6000)\fs50\c&H3D20B3&}CHASE
+Dialogue: 317,0:05:14.50,0:05:20.50,Chat,,0,0,0,,{\be1\an2\move(1920,1022,-2460,1022,0,6000)\fs34\c&H931A76&\alpha&H7f}HOLY SHIT THIS IS GOOD
+Dialogue: 316,0:06:04.52,0:06:10.52,Chat,,0,0,0,,{\be1\an2\move(1920,810,-2360,810,0,6000)\fs50\c&H4321BC&}REN IS THE 7TH
+Dialogue: 315,0:06:05.26,0:06:11.26,Chat,,0,0,0,,{\be1\an2\move(1920,365,-2060,365,0,6000)\fs50\c&HDBE671&}BELIEVE LEN
+Dialogue: 314,0:06:05.36,0:06:11.36,Chat,,0,0,0,,{\be1\an2\move(1920,921,-2060,921,0,6000)\fs50\c&H7EAC8A&}NotLikeThis
+Dialogue: 313,0:06:05.57,0:06:11.57,Chat,,0,0,0,,{\be1\an2\move(1920,178,-1260,178,0,6000)\fs50\c&H5A24CE&}RIN
+Dialogue: 312,0:06:05.68,0:06:11.68,Chat,,0,0,0,,{\be1\an2\move(1920,850,-2460,850,0,6000)\fs41\c&H20B462&}FeelsGoodMan TEENS
+Dialogue: 311,0:06:05.78,0:06:11.78,Chat,,0,0,0,,{\be1\an2\move(1920,814,-1260,814,0,6000)\fs50\c&HBD36DC&}LEN
+Dialogue: 310,0:06:06.00,0:06:12.00,Chat,,0,0,0,,{\be1\an2\move(1920,925,-1360,925,0,6000)\fs50\c&HE4C363&}JAIL
+Dialogue: 309,0:06:06.18,0:06:12.18,Chat,,0,0,0,,{\be1\an2\move(1920,57,-2460,57,0,6000)\fs39\c&HCEB224&}MATAYARUNO Kreygasm
+Dialogue: 308,0:06:06.72,0:06:12.72,Chat,,0,0,0,,{\be1\an2\move(1920,161,-2460,161,0,6000)\fs50\c&HD93927&}CHASTE Kreygasm
+Dialogue: 307,0:06:07.08,0:06:13.08,Chat,,0,0,0,,{\be1\an2\move(1920,347,-2460,347,0,6000)\fs46\c&H5A1A94&}Wooser is WW LUL
+Dialogue: 306,0:06:07.27,0:06:13.27,Chat,,0,0,0,,{\be1\an2\move(1920,744,-1760,744,0,6000)\fs50\c&HC82358&}SPOILERS
+Dialogue: 305,0:06:07.45,0:06:13.45,Chat,,0,0,0,,{\be1\an2\move(1920,69,-2360,69,0,6000)\fs50\c&HDEB046&}MY FILTHY EYES
+Dialogue: 304,0:05:17.50,0:05:23.50,Chat,,0,0,0,,{\be1\an2\move(1920,961,-2460,961,0,6000)\fs37\c&H23BAC7&}LUL EXPOSED Jebaited
+Dialogue: 303,0:06:07.63,0:06:13.93,Chat,,0,0,0,,{\be1\an2\move(1920,343,-1560,343,0,6300)\fs100\c&H93719F&}LUL
+Dialogue: 302,0:06:08.39,0:06:14.39,Chat,,0,0,0,,{\be1\an2\move(1920,541,-1360,541,0,6000)\fs50\c&HB01F66&}LEWD
+Dialogue: 301,0:06:08.60,0:06:14.60,Chat,,0,0,0,,{\be1\an2\move(1920,785,-2160,785,0,6000)\fs50\c&H1E97AD&}Jailer pls..
+Dialogue: 300,0:05:19.00,0:05:25.00,Chat,,0,0,0,,{\be1\an2\move(1920,880,-2520,880,0,6000)\fs30\c&HE04F7C&\alpha&H7f}TEENAGE GIRLS ARE BOYS WTF
+Dialogue: 299,0:06:09.39,0:06:15.39,Chat,,0,0,0,,{\be1\an2\move(1920,326,-2460,326,0,6000)\fs50\c&HA125D4&}GOTEEEEEEEEEEEM
+Dialogue: 298,0:06:10.00,0:06:16.00,Chat,,0,0,0,,{\be1\an2\move(1920,485,-1360,485,0,6000)\fs100\c&HB26E78&}D:
+Dialogue: 297,0:06:10.66,0:06:16.66,Chat,,0,0,0,,{\be1\an2\move(1920,459,-1660,459,0,6000)\fs50\c&HD2DA2E&}°•°
+Dialogue: 296,0:06:11.11,0:06:17.11,Chat,,0,0,0,,{\be1\an2\move(1920,176,-1960,176,0,6000)\fs50\c&H30D927&}plot twist
+Dialogue: 295,0:06:11.55,0:06:23.55,Chat,,0,0,0,,{\be1\an2\move(1920,561,-2560,561,0,12000)\fs100\c&H7C7A76&}Jebaited
+Dialogue: 294,0:06:12.00,0:06:18.00,Chat,,0,0,0,,{\be1\an2\move(1920,932,-2560,932,0,6000)\fs100\c&H7F9862&}PogChamp
+Dialogue: 293,0:06:12.07,0:06:18.07,Chat,,0,0,0,,{\be1\an2\move(1920,1009,-1760,1009,0,6000)\fs50\c&H7BA0E8&}omg LEWD
+Dialogue: 292,0:06:12.21,0:06:18.21,Chat,,0,0,0,,{\be1\an2\move(1920,665,-1860,665,0,6000)\fs50\c&HBD5521&}I KNOW IT
+Dialogue: 291,0:06:12.35,0:06:18.35,Chat,,0,0,0,,{\be1\an2\move(1920,575,-1860,575,0,6000)\fs50\c&H29A21D&}I KNEW IT
+Dialogue: 290,0:05:22.39,0:05:28.39,Chat,,0,0,0,,{\be1\an2\move(1920,953,-2460,953,0,6000)\fs35\c&H556B81&\alpha&H7f}JIIIIIIIIIIIIIIIIIIII
+Dialogue: 289,0:06:12.85,0:06:18.85,Chat,,0,0,0,,{\be1\an2\move(1920,888,-1760,888,0,6000)\fs50\c&H76E79C&}Jeabited
+Dialogue: 288,0:06:13.07,0:06:19.07,Chat,,0,0,0,,{\be1\an2\move(1920,465,-2160,465,0,6000)\fs50\c&HD07225&}evoMindBlown
+Dialogue: 287,0:06:13.35,0:06:19.35,Chat,,0,0,0,,{\be1\an2\move(1920,856,-1460,856,0,6000)\fs50\c&H4FB921&}DEARU
+Dialogue: 286,0:06:13.42,0:06:19.42,Chat,,0,0,0,,{\be1\an2\move(1920,805,-1660,805,0,6000)\fs50\c&H1C97A1&}NANI?!!
+Dialogue: 285,0:06:13.57,0:06:19.57,Chat,,0,0,0,,{\be1\an2\move(1920,642,-1360,642,0,6000)\fs50\c&H1DA47A&}REKT
+Dialogue: 284,0:06:13.64,0:06:19.64,Chat,,0,0,0,,{\be1\an2\move(1920,860,-1160,860,0,6000)\fs50\c&HC34B22&}GG
+Dialogue: 283,0:06:13.71,0:06:19.71,Chat,,0,0,0,,{\be1\an2\move(1920,323,-1560,323,0,6000)\fs50\c&H83D325&}danWut
+Dialogue: 282,0:06:13.85,0:06:19.85,Chat,,0,0,0,,{\be1\an2\move(1920,335,-1560,335,0,6000)\fs50\c&H49C2DF&}monkaS
+Dialogue: 281,0:05:24.28,0:05:30.28,Chat,,0,0,0,,{\be1\an2\move(1920,141,-2580,141,0,6000)\fs30\c&H4BDF72&\alpha&H7f}Jiiiiiiiiiiiiiiiiiiiiiiiii~
+Dialogue: 280,0:06:14.25,0:06:20.25,Chat,,0,0,0,,{\be1\an2\move(1920,541,-2360,541,0,6000)\fs100\c&H94B982&}WutFace
+Dialogue: 279,0:06:14.62,0:06:20.62,Chat,,0,0,0,,{\be1\an2\move(1920,441,-1960,441,0,6000)\fs50\c&HE66F8F&}tyler1Monk
+Dialogue: 278,0:06:15.12,0:06:21.12,Chat,,0,0,0,,{\be1\an2\move(1920,468,-2160,468,0,6000)\fs50\c&H5033A7&}LUL Jebaited
+Dialogue: 277,0:06:15.25,0:06:21.25,Chat,,0,0,0,,{\be1\an2\move(1920,772,-1960,772,0,6000)\fs50\c&HB76620&}EXPOED LUL
+Dialogue: 276,0:06:15.50,0:06:21.50,Chat,,0,0,0,,{\be1\an2\move(1920,522,-1360,522,0,6000)\fs50\c&HCF255F&}HAHA
+Dialogue: 275,0:05:26.00,0:05:32.80,Chat,,0,0,0,,{\be1\an2\move(1920,86,-3000,86,0,6800)\fs30\c&HB5CE24&\alpha&H7f}JIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Dialogue: 274,0:06:16.00,0:06:22.00,Chat,,0,0,0,,{\be1\an2\move(1920,450,-1260,450,0,6000)\fs50\c&H3821BB&}WTF
+Dialogue: 273,0:06:16.21,0:06:22.21,Chat,,0,0,0,,{\be1\an2\move(1920,534,-2460,534,0,6000)\fs46\c&HDC37B6&}????????????????
+Dialogue: 272,0:06:16.35,0:06:22.35,Chat,,0,0,0,,{\be1\an2\move(1920,712,-1660,712,0,6000)\fs50\c&HD025A8&}LUL TRU
+Dialogue: 271,0:06:16.42,0:06:22.42,Chat,,0,0,0,,{\be1\an2\move(1920,284,-1360,284,0,6000)\fs50\c&H25CF6A&}EYES
+Dialogue: 270,0:06:16.64,0:06:22.64,Chat,,0,0,0,,{\be1\an2\move(1920,413,-2160,413,0,6000)\fs50\c&H4CDF54&}The twist xD
+Dialogue: 269,0:06:17.07,0:06:23.07,Chat,,0,0,0,,{\be1\an2\move(1920,60,-1760,60,0,6000)\fs50\c&H47DB32&}????????
+Dialogue: 268,0:06:17.21,0:06:23.21,Chat,,0,0,0,,{\be1\an2\move(1920,102,-2460,102,0,6000)\fs41\c&H246FCA&}M NIGHT SHYMALALAN
+Dialogue: 267,0:06:17.35,0:06:23.35,Chat,,0,0,0,,{\be1\an2\move(1920,528,-2460,528,0,6000)\fs41\c&H25D443&}JAIL TIME PogChamp
+Dialogue: 266,0:06:17.64,0:06:23.64,Chat,,0,0,0,,{\be1\an2\move(1920,183,-2160,183,0,6000)\fs50\c&H2A4ED9&}what a twist
+Dialogue: 265,0:06:17.78,0:06:23.78,Chat,,0,0,0,,{\be1\an2\move(1920,710,-1160,710,0,6000)\fs50\c&H4EE0D6&}:O
+Dialogue: 264,0:06:17.92,0:06:23.92,Chat,,0,0,0,,{\be1\an2\move(1920,375,-1660,375,0,6000)\fs50\c&HD9B927&}EXPOSED
+Dialogue: 263,0:06:18.07,0:06:24.07,Chat,,0,0,0,,{\be1\an2\move(1920,73,-2260,73,0,6000)\fs50\c&H25D2AD&}????????????+
+Dialogue: 262,0:06:18.23,0:06:24.23,Chat,,0,0,0,,{\be1\an2\move(1920,710,-1960,710,0,6000)\fs50\c&H4FE0D9&}WHAT A PRO
+Dialogue: 261,0:06:18.38,0:06:24.38,Chat,,0,0,0,,{\be1\an2\move(1920,865,-1410,865,0,6000)\fs75\c&H744273&}LOL
+Dialogue: 260,0:06:18.46,0:06:24.46,Chat,,0,0,0,,{\be1\an2\move(1920,741,-2360,741,0,6000)\fs100\c&H7E6567&}SourPls
+Dialogue: 259,0:06:19.23,0:06:25.23,Chat,,0,0,0,,{\be1\an2\move(1920,425,-1560,425,0,6000)\fs100\c&H62A295&}LUL
+Dialogue: 258,0:06:19.53,0:06:25.53,Chat,,0,0,0,,{\be1\an2\move(1920,105,-2060,105,0,6000)\fs50\c&HB0DF4A&}EXPOSED LUL
+Dialogue: 257,0:06:19.61,0:06:25.61,Chat,,0,0,0,,{\be1\an2\move(1920,233,-2060,233,0,6000)\fs50\c&HDF51E0&}LUL LUL LUL
+Dialogue: 256,0:05:30.26,0:05:42.26,Chat,,0,0,0,,{\be1\an2\move(1920,397,-14100,397,0,12000)\fs30\c&H57E1B2&\alpha&H7f}🤔 PLOT TWIST : HE'S WEREWOLF, BUT HE CAN'T REMEMBER 🤔 PLOT TWIST : HE'S WEREWOLF, BUT HE CAN'T REMEMBER 🤔 PLOT TWIST : HE'S WEREWOLF, BUT HE CAN'T REMEMBER 🤔 PLOT TWIST : HE'S WEREWOLF, BUT HE CAN'T REMEMBER
+Dialogue: 255,0:05:31.06,0:05:37.06,Chat,,0,0,0,,{\be1\an2\move(1920,162,-2520,162,0,6000)\fs30\c&H2432CB&\alpha&H7f}Jiiiiiiiiiiiiiiiiiiiiiiiii
+Dialogue: 254,0:06:21.19,0:06:27.19,Chat,,0,0,0,,{\be1\an2\move(1920,924,-1860,924,0,6000)\fs50\c&HB051E0&}ooooohhhh
+Dialogue: 253,0:05:31.60,0:05:40.39,Chat,,0,0,0,,{\be1\an2\move(1920,807,-3600,807,0,8800)\fs30\c&H76E7D6&\alpha&H7f}Kreygasm Kreygasm Kreygasm Kreygasm Kreygasm
+Dialogue: 252,0:06:21.86,0:06:27.86,Chat,,0,0,0,,{\be1\an2\move(1920,621,-1460,621,0,6000)\fs50\c&H9EA51D&}?????
+Dialogue: 251,0:06:22.00,0:06:34.00,Chat,,0,0,0,,{\be1\an2\move(1920,154,-2560,154,0,12000)\fs100\c&H7A8478&}Jebaited
+Dialogue: 250,0:06:22.10,0:06:28.10,Chat,,0,0,0,,{\be1\an2\move(1920,419,-1760,419,0,6000)\fs50\c&HAC50E0&}D: D: D:
+Dialogue: 249,0:06:22.30,0:06:28.30,Chat,,0,0,0,,{\be1\an2\move(1920,547,-1660,547,0,6000)\fs50\c&HE7BA7A&}TWIST!!
+Dialogue: 248,0:05:32.60,0:05:39.39,Chat,,0,0,0,,{\be1\an2\move(1920,926,-3000,926,0,6800)\fs30\c&H42DE8E&\alpha&H7f}JJJJJJJiiiiiiiiiiiiiiiiiiiiiiiiiii
+Dialogue: 247,0:06:22.60,0:06:28.60,Chat,,0,0,0,,{\be1\an2\move(1920,785,-2460,785,0,6000)\fs46\c&H87E464&}LUL Jebaited LUL
+Dialogue: 246,0:06:22.80,0:06:28.80,Chat,,0,0,0,,{\be1\an2\move(1920,831,-1560,831,0,6000)\fs50\c&H194990&}FILTHY
+Dialogue: 245,0:06:23.10,0:06:29.10,Chat,,0,0,0,,{\be1\an2\move(1920,559,-2460,559,0,6000)\fs44\c&H87B21F&}Jebaited Jebaited
+Dialogue: 244,0:06:23.50,0:06:29.50,Chat,,0,0,0,,{\be1\an2\move(1920,774,-1060,774,0,6000)\fs50\c&HD58526&}k
+Dialogue: 243,0:06:23.60,0:06:29.60,Chat,,0,0,0,,{\be1\an2\move(1920,470,-1460,470,0,6000)\fs50\c&H33DB6A&}Woose
+Dialogue: 242,0:06:23.80,0:06:29.80,Chat,,0,0,0,,{\be1\an2\move(1920,966,-1960,966,0,6000)\fs50\c&HC563E3&}??????????
+Dialogue: 241,0:06:24.66,0:06:30.66,Chat,,0,0,0,,{\be1\an2\move(1920,960,-1960,960,0,6000)\fs50\c&H441FB0&}He did it!
+Dialogue: 240,0:06:24.91,0:06:30.91,Chat,,0,0,0,,{\be1\an2\move(1920,974,-1860,974,0,6000)\fs50\c&H193C90&}monkaMega
+Dialogue: 239,0:06:25.33,0:06:31.33,Chat,,0,0,0,,{\be1\an2\move(1920,299,-1260,299,0,6000)\fs50\c&HAAE156&}PRO
+Dialogue: 238,0:05:35.46,0:05:41.46,Chat,,0,0,0,,{\be1\an2\move(1920,218,-2640,218,0,6000)\fs30\c&H52E197&\alpha&H7f}@PlazmaPlay5 it was a blast,
+Dialogue: 237,0:06:25.91,0:06:31.91,Chat,,0,0,0,,{\be1\an2\move(1920,853,-2460,853,0,6000)\fs44\c&H7A1885&}Cliffhanger Kappa
+Dialogue: 236,0:06:26.19,0:06:32.19,Chat,,0,0,0,,{\be1\an2\move(1920,439,-2460,439,0,6000)\fs50\c&HBC8921&}Jebaited GOT EM
+Dialogue: 235,0:06:26.60,0:06:32.60,Chat,,0,0,0,,{\be1\an2\move(1920,681,-1960,681,0,6000)\fs50\c&H835A55&}PLot Twist
+Dialogue: 234,0:06:26.80,0:06:32.80,Chat,,0,0,0,,{\be1\an2\move(1920,987,-2460,987,0,6000)\fs41\c&H568918&}WOOSER 9th TRAITOR
+Dialogue: 233,0:06:27.39,0:06:33.39,Chat,,0,0,0,,{\be1\an2\move(1920,455,-2160,455,0,6000)\fs50\c&HE779CF&}Jebaited PRO
+Dialogue: 232,0:06:27.50,0:06:33.50,Chat,,0,0,0,,{\be1\an2\move(1920,586,-1560,586,0,6000)\fs50\c&HCE53E1&}rayycP
+Dialogue: 231,0:06:28.12,0:06:34.12,Chat,,0,0,0,,{\be1\an2\move(1920,336,-1560,336,0,6000)\fs50\c&HA58D1D&}lmaooo
+Dialogue: 230,0:06:28.37,0:06:34.37,Chat,,0,0,0,,{\be1\an2\move(1920,390,-2460,390,0,6000)\fs39\c&H991B7B&}PRO STRATS PogChamp
+Dialogue: 229,0:06:28.62,0:06:34.62,Chat,,0,0,0,,{\be1\an2\move(1920,741,-1560,741,0,6000)\fs50\c&H236FC6&}200 IQ
+Dialogue: 228,0:06:29.12,0:06:35.12,Chat,,0,0,0,,{\be1\an2\move(1920,536,-2160,536,0,6000)\fs50\c&H9351E0&}that was bad
+Dialogue: 227,0:05:39.81,0:05:50.41,Chat,,0,0,0,,{\be1\an2\move(1920,795,-4140,795,0,10600)\fs30\c&H571990&\alpha&H7f}tyler1IQ tyler1IQ tyler1IQ tyler1IQ tyler1IQ tyler1IQ
+Dialogue: 226,0:06:30.00,0:06:36.00,Chat,,0,0,0,,{\be1\an2\move(1920,500,-2460,500,0,6000)\fs44\c&H9757E1&}DansGame DansGame
+Dialogue: 225,0:06:30.28,0:06:36.28,Chat,,0,0,0,,{\be1\an2\move(1920,362,-1660,362,0,6000)\fs50\c&H22AAC3&}WUT ???
+Dialogue: 224,0:05:41.66,0:05:47.66,Chat,,0,0,0,,{\be1\an2\move(1920,422,-2580,422,0,6000)\fs30\c&HAA71E6&\alpha&H7f}Len-chan is the werewolf <3
+Dialogue: 223,0:06:31.71,0:06:37.71,Chat,,0,0,0,,{\be1\an2\move(1920,431,-2460,431,0,6000)\fs50\c&HCB61E3&}Je effin baited
+Dialogue: 222,0:05:42.00,0:05:48.00,Chat,,0,0,0,,{\be1\an2\move(1920,970,-2460,970,0,6000)\fs34\c&H21B8B7&\alpha&H7f}SHOEBILL TECH Kreygasm
+Dialogue: 221,0:06:32.00,0:06:38.00,Chat,,0,0,0,,{\be1\an2\move(1920,267,-2360,267,0,6000)\fs50\c&HC6E673&}im so confused
+Dialogue: 220,0:06:32.33,0:06:38.33,Chat,,0,0,0,,{\be1\an2\move(1920,728,-1260,728,0,6000)\fs50\c&H8B8D19&}WTF
+Dialogue: 219,0:06:32.50,0:06:38.50,Chat,,0,0,0,,{\be1\an2\move(1920,391,-1160,391,0,6000)\fs50\c&HA2411D&}D:
+Dialogue: 218,0:06:33.00,0:06:39.00,Chat,,0,0,0,,{\be1\an2\move(1920,615,-1960,615,0,6000)\fs50\c&H20B622&}\ Jebaited
+Dialogue: 217,0:06:33.16,0:06:39.16,Chat,,0,0,0,,{\be1\an2\move(1920,664,-2560,664,0,6000)\fs100\c&HAF689F&}Jebaited
+Dialogue: 216,0:06:33.33,0:06:39.33,Chat,,0,0,0,,{\be1\an2\move(1920,697,-2260,697,0,6000)\fs50\c&HB521BA&}CHAT JEBAITED
+Dialogue: 215,0:06:33.66,0:06:39.66,Chat,,0,0,0,,{\be1\an2\move(1920,211,-1960,211,0,6000)\fs50\c&H1B9944&}this sucks
+Dialogue: 214,0:06:33.83,0:06:39.83,Chat,,0,0,0,,{\be1\an2\move(1920,311,-1360,311,0,6000)\fs50\c&HABDF4A&}WHAT
+Dialogue: 213,0:05:44.00,0:05:51.00,Chat,,0,0,0,,{\be1\an2\move(1920,601,-3060,601,0,7000)\fs30\c&H26D9B3&\alpha&H7f}FrankerZ FrankerZ FrankerZ FrankerZ
+Dialogue: 212,0:06:34.00,0:06:40.00,Chat,,0,0,0,,{\be1\an2\move(1920,468,-1760,468,0,6000)\fs50\c&H2CCA24&}Kreygasm
+Dialogue: 211,0:06:34.36,0:06:40.36,Chat,,0,0,0,,{\be1\an2\move(1920,938,-1960,938,0,6000)\fs50\c&H7B52E1&}:D ez game
+Dialogue: 210,0:06:34.90,0:06:40.90,Chat,,0,0,0,,{\be1\an2\move(1920,121,-2260,121,0,6000)\fs50\c&H4EDE46&}WOOSER IS SPY
+Dialogue: 209,0:06:35.27,0:06:41.27,Chat,,0,0,0,,{\be1\an2\move(1920,168,-2360,168,0,6000)\fs100\c&H5E56A3&}SourPls
+Dialogue: 208,0:06:35.63,0:06:41.63,Chat,,0,0,0,,{\be1\an2\move(1920,811,-2360,811,0,6000)\fs50\c&HAF1F96&}KONO DIO DAAAA
+Dialogue: 207,0:06:35.81,0:06:41.81,Chat,,0,0,0,,{\be1\an2\move(1920,797,-2460,797,0,6000)\fs46\c&H66CAE4&}REEEEEEEEEEEEWEW
+Dialogue: 206,0:06:36.00,0:06:42.00,Chat,,0,0,0,,{\be1\an2\move(1920,531,-2060,531,0,6000)\fs50\c&HD741DD&}I love this
+Dialogue: 205,0:06:36.33,0:06:42.33,Chat,,0,0,0,,{\be1\an2\move(1920,348,-1460,348,0,6000)\fs50\c&H4A2AD9&}skip!
+Dialogue: 204,0:06:36.66,0:06:42.66,Chat,,0,0,0,,{\be1\an2\move(1920,468,-2460,468,0,6000)\fs46\c&HA01C24&}IT WAS ME WOOSER
+Dialogue: 203,0:05:47.33,0:05:53.33,Chat,,0,0,0,,{\be1\an2\move(1920,683,-2460,683,0,6000)\fs35\c&H22C391&\alpha&H7f}RANDOM LYNCH FailFish
+Dialogue: 202,0:05:48.00,0:05:54.00,Chat,,0,0,0,,{\be1\an2\move(1920,458,-2520,458,0,6000)\fs30\c&H25C3D0&\alpha&H7f}WHO DO YOU CHOOSE Kreygasm
+Dialogue: 201,0:06:38.18,0:06:44.18,Chat,,0,0,0,,{\be1\an2\move(1920,447,-960,447,0,6000)\fs50\c&HE177E7&}
+Dialogue: 200,0:06:38.36,0:06:44.36,Chat,,0,0,0,,{\be1\an2\move(1920,425,-2060,425,0,6000)\fs50\c&HB62060&}1000IQ play
+Dialogue: 199,0:06:39.08,0:06:45.08,Chat,,0,0,0,,{\be1\an2\move(1920,261,-1160,261,0,6000)\fs50\c&HA2AE1F&};P
+Dialogue: 198,0:05:49.50,0:06:01.50,Chat,,0,0,0,,{\be1\an2\move(1920,997,-6120,997,0,12000)\fs30\c&H6225D4&\alpha&H7f}Try Crunchyroll FREE for 30 days! Sign up now: http://link.twitch.tv/crunchyrollsignup
+Dialogue: 197,0:06:39.45,0:06:45.45,Chat,,0,0,0,,{\be1\an2\move(1920,285,-1260,285,0,6000)\fs50\c&HE155C7&}LUL
+Dialogue: 196,0:06:39.63,0:06:45.63,Chat,,0,0,0,,{\be1\an2\move(1920,284,-2160,284,0,6000)\fs50\c&HA95BE2&}russian game
+Dialogue: 195,0:06:39.81,0:06:45.81,Chat,,0,0,0,,{\be1\an2\move(1920,300,-1360,300,0,6000)\fs50\c&H178327&}w3tf
+Dialogue: 194,0:06:40.80,0:06:46.80,Chat,,0,0,0,,{\be1\an2\move(1920,604,-2360,604,0,6000)\fs50\c&H91E361&}WOOSER SEVENTH
+Dialogue: 193,0:06:41.19,0:06:47.19,Chat,,0,0,0,,{\be1\an2\move(1920,72,-1760,72,0,6000)\fs50\c&H2F9E1C&}30000 IQ
+Dialogue: 192,0:06:41.60,0:06:47.60,Chat,,0,0,0,,{\be1\an2\move(1920,812,-2460,812,0,6000)\fs46\c&H7FB21F&}HE LIED TO US XD
+Dialogue: 191,0:06:42.22,0:06:48.22,Chat,,0,0,0,,{\be1\an2\move(1920,478,-1660,478,0,6000)\fs50\c&H6824CA&}SoBayed
+Dialogue: 190,0:06:42.66,0:06:48.66,Chat,,0,0,0,,{\be1\an2\move(1920,959,-2460,959,0,6000)\fs41\c&HC48023&}am i the werewolf?
+Dialogue: 189,0:05:53.33,0:05:59.33,Chat,,0,0,0,,{\be1\an2\move(1920,871,-2460,871,0,6000)\fs34\c&H3F5EDD&\alpha&H7f}JOKER GAME NotLikeThis
+Dialogue: 188,0:06:43.33,0:06:49.33,Chat,,0,0,0,,{\be1\an2\move(1920,505,-1760,505,0,6000)\fs50\c&HC8AB23&}🐶🐶
+Dialogue: 187,0:06:43.77,0:06:49.77,Chat,,0,0,0,,{\be1\an2\move(1920,434,-1760,434,0,6000)\fs50\c&HB47D6F&}Jebaited
+Dialogue: 186,0:05:54.39,0:06:00.39,Chat,,0,0,0,,{\be1\an2\move(1920,659,-2460,659,0,6000)\fs35\c&HA422C2&\alpha&H7f}THIS IS THE HARD PART
+Dialogue: 185,0:06:44.50,0:06:50.50,Chat,,0,0,0,,{\be1\an2\move(1920,797,-1260,797,0,6000)\fs50\c&HCBE66F&}WTF
+Dialogue: 184,0:06:45.00,0:06:51.00,Chat,,0,0,0,,{\be1\an2\move(1920,859,-2160,859,0,6000)\fs50\c&H1EAC29&}BJBlazkowicz
+Dialogue: 183,0:05:56.28,0:06:02.28,Chat,,0,0,0,,{\be1\an2\move(1920,167,-2460,167,0,6000)\fs37\c&HC1DB32&}RIN IS TRAITOR haHAA
+Dialogue: 182,0:06:46.19,0:06:52.19,Chat,,0,0,0,,{\be1\an2\move(1920,201,-1760,201,0,6000)\fs50\c&H1A924B&}SUKASUKA
+Dialogue: 181,0:06:46.60,0:06:52.60,Chat,,0,0,0,,{\be1\an2\move(1920,393,-1860,393,0,6000)\fs50\c&H2CDA2E&}TriHard 7
+Dialogue: 180,0:05:57.42,0:06:03.42,Chat,,0,0,0,,{\be1\an2\move(1920,613,-2580,613,0,6000)\fs30\c&HDC703B&\alpha&H7f}ITS NO F INFORMATION AT ALL
+Dialogue: 179,0:05:58.39,0:06:04.60,Chat,,0,0,0,,{\be1\an2\move(1920,910,-2820,910,0,6200)\fs30\c&H198E4C&\alpha&H7f}LEN TRIED TO LYNCH WOOSER DAY 1
+Dialogue: 178,0:06:48.00,0:06:54.00,Chat,,0,0,0,,{\be1\an2\move(1920,375,-2360,375,0,6000)\fs50\c&HE15658&}KONO WOOSER DA
+Dialogue: 177,0:06:49.00,0:06:55.00,Chat,,0,0,0,,{\be1\an2\move(1920,724,-1760,724,0,6000)\fs50\c&H174584&}gg no re
+Dialogue: 176,0:06:49.33,0:06:55.33,Chat,,0,0,0,,{\be1\an2\move(1920,521,-2060,521,0,6000)\fs50\c&H9ADD40&}KONO DIO DA
+Dialogue: 175,0:06:49.66,0:06:55.66,Chat,,0,0,0,,{\be1\an2\move(1920,425,-1260,425,0,6000)\fs50\c&HDA2E2C&}SPY
+Dialogue: 174,0:06:50.00,0:06:56.00,Chat,,0,0,0,,{\be1\an2\move(1920,932,-2460,932,0,6000)\fs46\c&H8C191D&}Jebaited exbcSpy
+Dialogue: 173,0:06:51.19,0:06:57.19,Chat,,0,0,0,,{\be1\an2\move(1920,856,-2460,856,0,6000)\fs46\c&H6AA5E5&}195IQ BigBrother
+Dialogue: 172,0:06:52.28,0:06:58.28,Chat,,0,0,0,,{\be1\an2\move(1920,494,-2010,494,0,6000)\fs75\c&H55CDC3&}SourPls
+Dialogue: 171,0:06:04.84,0:06:13.44,Chat,,0,0,0,,{\be1\an2\move(1920,732,-3540,732,0,8600)\fs30\c&HE777AF&\alpha&H7f}Well see you all in an hour HeyGuys HeyGuys
+Dialogue: 170,0:06:54.50,0:07:00.50,Chat,,0,0,0,,{\be1\an2\move(1920,194,-2460,194,0,6000)\fs44\c&H341DA2&}what show is this
+Dialogue: 169,0:06:05.05,0:06:17.05,Chat,,0,0,0,,{\be1\an2\move(1920,368,-4680,368,0,12000)\fs30\c&H9D1C48&\alpha&H7f}Black Hair most likely werewolf or we was lied the entire time
+Dialogue: 168,0:06:05.89,0:06:11.89,Chat,,0,0,0,,{\be1\an2\move(1920,753,-2460,753,0,6000)\fs35\c&H51D5E0&\alpha&H7f}YOU KNOW FOR KIDS LUL
+Dialogue: 167,0:06:06.54,0:06:18.54,Chat,,0,0,0,,{\be1\an2\move(1920,671,-10140,671,0,12000)\fs30\c&H3A7A61&\alpha&H7f}TehePelo JAIL IS JUST A ROOM TehePelo JAIL IS JUST A ROOM TehePelo JAIL IS JUST A ROOM TehePelo JAIL IS JUST A ROOM TehePelo JAIL IS JUST A ROOM TehePelo
+Dialogue: 166,0:06:56.39,0:07:02.39,Chat,,0,0,0,,{\be1\an2\move(1920,815,-1560,815,0,6000)\fs50\c&HE77A76&}VoHiYo
+Dialogue: 165,0:06:06.90,0:06:12.90,Chat,,0,0,0,,{\be1\an2\move(1920,409,-2460,409,0,6000)\fs37\c&H3FDB31&}I TAKE BOTH Kreygasm
+Dialogue: 164,0:06:07.81,0:06:14.81,Chat,,0,0,0,,{\be1\an2\move(1920,671,-3060,671,0,7000)\fs30\c&H46DEC8&\alpha&H7f}Kreygasm Kreygasm Kreygasm Kreygasm
+Dialogue: 163,0:06:58.00,0:07:04.00,Chat,,0,0,0,,{\be1\an2\move(1920,688,-2460,688,0,6000)\fs39\c&H1F61AD&}dam we got Jebaited
+Dialogue: 162,0:06:09.00,0:06:15.00,Chat,,0,0,0,,{\be1\an2\move(1920,678,-2460,678,0,6000)\fs37\c&H2C8FDA&}JOSHI KOSEI Kreygasm
+Dialogue: 161,0:07:00.00,0:07:06.00,Chat,,0,0,0,,{\be1\an2\move(1920,680,-1960,680,0,6000)\fs50\c&H66198E&}LUCKY GURL
+Dialogue: 160,0:07:01.00,0:07:07.00,Chat,,0,0,0,,{\be1\an2\move(1920,920,-2460,920,0,6000)\fs44\c&H63B6E4&}BUNNY WAS THE 7TH
+Dialogue: 159,0:06:11.33,0:06:17.53,Chat,,0,0,0,,{\be1\an2\move(1920,370,-2820,370,0,6200)\fs30\c&H32DB4D&\alpha&H7f}???????????????????????????????
+Dialogue: 158,0:07:02.66,0:07:08.66,Chat,,0,0,0,,{\be1\an2\move(1920,779,-1760,779,0,6000)\fs50\c&H78DD40&}Jebaited
+Dialogue: 157,0:06:13.00,0:06:23.60,Chat,,0,0,0,,{\be1\an2\move(1920,655,-4140,655,0,10600)\fs30\c&H531A91&\alpha&H7f}Put Len-chan in prison so we can i'nterrogate' her <3
+Dialogue: 156,0:06:13.14,0:06:21.94,Chat,,0,0,0,,{\be1\an2\move(1920,407,-3600,407,0,8800)\fs30\c&H78E7E6&\alpha&H7f}Jebaited Jebaited Jebaited Jebaited Jebaited
+Dialogue: 155,0:06:13.28,0:06:19.28,Chat,,0,0,0,,{\be1\an2\move(1920,1033,-2460,1033,0,6000)\fs32\c&H198C72&\alpha&H7f}WutFace WutFace WutFace
+Dialogue: 154,0:07:03.33,0:07:09.33,Chat,,0,0,0,,{\be1\an2\move(1920,198,-2160,198,0,6000)\fs50\c&HA623C5&}WW BEST ROLE
+Dialogue: 153,0:06:14.12,0:06:20.12,Chat,,0,0,0,,{\be1\an2\move(1920,658,-2460,658,0,6000)\fs34\c&H7A5E62&\alpha&H7f}top 10 anime betrayals
+Dialogue: 152,0:07:04.00,0:07:10.00,Chat,,0,0,0,,{\be1\an2\move(1920,255,-1260,255,0,6000)\fs50\c&H35951A&}⭐
+Dialogue: 151,0:06:14.50,0:06:24.10,Chat,,0,0,0,,{\be1\an2\move(1920,99,-3840,99,0,9600)\fs30\c&H3FDDA7&\alpha&H7f}WEREWOLF DON'T REMEMBER TURNING : IT'S WOOSE LUL
+Dialogue: 150,0:07:04.50,0:07:10.50,Chat,,0,0,0,,{\be1\an2\move(1920,836,-1360,836,0,6000)\fs50\c&H96831B&}4FPS
+Dialogue: 149,0:07:06.00,0:07:12.00,Chat,,0,0,0,,{\be1\an2\move(1920,101,-2460,101,0,6000)\fs39\c&H21BD8C&}STRONGEST MAN 4Head
+Dialogue: 148,0:07:06.39,0:07:12.39,Chat,,0,0,0,,{\be1\an2\move(1920,487,-2460,487,0,6000)\fs41\c&H177A82&}WOOSER WAS THE 7TH
+Dialogue: 147,0:06:16.78,0:06:22.78,Chat,,0,0,0,,{\be1\an2\move(1920,67,-2700,67,0,6000)\fs30\c&H7D63E3&\alpha&H7f}Okabe PogChamp Okabe PogChamp
+Dialogue: 146,0:06:17.28,0:06:29.28,Chat,,0,0,0,,{\be1\an2\move(1920,502,-14280,502,0,12000)\fs44\c&H638A9A&\alpha&H7f}SourPls O-oooooooooo SourPls AAAAE-A-A-I-A-U- SourPls JO-oooooooooooo SourPls AAE-O-A-A-U-U-A- SourPls E-eee-ee-eee SourPls AAAAE-A-E-I-E-A- SourPls
+Dialogue: 145,0:07:07.19,0:07:13.19,Chat,,0,0,0,,{\be1\an2\move(1920,211,-1660,211,0,6000)\fs50\c&H8B1947&}SourPls
+Dialogue: 144,0:07:07.60,0:07:13.60,Chat,,0,0,0,,{\be1\an2\move(1920,831,-2460,831,0,6000)\fs41\c&HACE467&}WOOSER 9th TRAITOR
+Dialogue: 143,0:06:18.00,0:06:28.80,Chat,,0,0,0,,{\be1\an2\move(1920,646,-4200,646,0,10800)\fs30\c&H64E499&\alpha&H7f}how to make a 6 day marathon into a single anime Kappa
+Dialogue: 142,0:07:08.66,0:07:14.66,Chat,,0,0,0,,{\be1\an2\move(1920,808,-1660,808,0,6000)\fs50\c&HB6DB34&}10 / 10
+Dialogue: 141,0:06:21.73,0:06:33.13,Chat,,0,0,0,,{\be1\an2\move(1920,245,-4380,245,0,11400)\fs30\c&H635DE2&\alpha&H7f}WEREWOLF IS ACTUALLY LEGIT AND YOU PEOPLE NEED TO PLAY IT
+Dialogue: 140,0:06:22.50,0:06:29.50,Chat,,0,0,0,,{\be1\an2\move(1920,266,-3060,266,0,7000)\fs30\c&H1EA889&\alpha&H7f}tenchiBM tenchiBM tenchiBM tenchiBM
+Dialogue: 139,0:06:22.69,0:06:28.69,Chat,,0,0,0,,{\be1\an2\move(1920,256,-2520,256,0,6000)\fs30\c&HDA60E3&\alpha&H7f}Jebaited Jebaited Jebaited
+Dialogue: 138,0:06:23.19,0:06:35.19,Chat,,0,0,0,,{\be1\an2\move(1920,921,-10440,921,0,12000)\fs30\c&H741887&\alpha&H7f}NOW THIS IS MY KIND OF PLOT DEVELOPMENT FeelsGoodMan NOW THIS IS MY KIND OF PLOT DEVELOPMENT FeelsGoodMan NOW THIS IS MY KIND OF PLOT DEVELOPMENT FeelsGoodMan
+Dialogue: 137,0:06:24.00,0:06:30.60,Chat,,0,0,0,,{\be1\an2\move(1920,1002,-2940,1002,0,6600)\fs30\c&HBB5BE2&\alpha&H7f}HE PLAYED THEM LIKE A DAMN FIDDLE
+Dialogue: 136,0:06:24.25,0:06:36.25,Chat,,0,0,0,,{\be1\an2\move(1920,418,-5220,418,0,12000)\fs30\c&HE25D71&\alpha&H7f}SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls
+Dialogue: 135,0:06:24.33,0:06:33.13,Chat,,0,0,0,,{\be1\an2\move(1920,398,-3600,398,0,8800)\fs30\c&HE2C95D&\alpha&H7f}WWWWWuuuttt ClappyDerp ClappyDerp ClappyDerp
+Dialogue: 134,0:07:14.00,0:07:20.00,Chat,,0,0,0,,{\be1\an2\move(1920,630,-1760,630,0,6000)\fs50\c&HBD25D1&}SourPls\
+Dialogue: 133,0:06:25.41,0:06:31.41,Chat,,0,0,0,,{\be1\an2\move(1920,548,-2460,548,0,6000)\fs32\c&H74BEE6&\alpha&H7f}TOP 10 ANIME PLOTTWISTS
+Dialogue: 132,0:06:25.66,0:06:31.66,Chat,,0,0,0,,{\be1\an2\move(1920,286,-2460,286,0,6000)\fs37\c&H6D71E5&}D: D: D: D: D: D: D:
+Dialogue: 131,0:06:26.69,0:06:37.30,Chat,,0,0,0,,{\be1\an2\move(1920,623,-4140,623,0,10600)\fs30\c&H5FBFE3&\alpha&H7f}PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp
+Dialogue: 130,0:06:26.89,0:06:38.89,Chat,,0,0,0,,{\be1\an2\move(1920,344,-8580,344,0,12000)\fs30\c&H828A18&\alpha&H7f}SourPls TehePelo SourPls KonCha SourPls TehePelo SourPls KonCha SourPls TehePelo SourPls KonCha SourPls TehePelo SourPls KonCha
+Dialogue: 129,0:06:27.30,0:06:34.30,Chat,,0,0,0,,{\be1\an2\move(1920,936,-3060,936,0,7000)\fs30\c&H6444DE&\alpha&H7f}cmonBruh Jebaited Jebaited Jebaited
+Dialogue: 128,0:07:17.33,0:07:23.33,Chat,,0,0,0,,{\be1\an2\move(1920,560,-2460,560,0,6000)\fs44\c&HB1DC3A&}hour left of this
+Dialogue: 127,0:06:27.69,0:06:33.69,Chat,,0,0,0,,{\be1\an2\move(1920,760,-2460,760,0,6000)\fs37\c&H76A9E7&}m night shamalalalam
+Dialogue: 126,0:06:27.89,0:06:38.10,Chat,,0,0,0,,{\be1\an2\move(1920,782,-4020,782,0,10200)\fs30\c&H188089&\alpha&H7f}IT WAS ME ALL ALONG YOU ALL BOUGHT IT LIUL Jebaited
+Dialogue: 125,0:07:18.00,0:07:24.00,Chat,,0,0,0,,{\be1\an2\move(1920,606,-2360,606,0,6000)\fs100\c&H786587&}SourPls
+Dialogue: 124,0:07:18.22,0:07:24.22,Chat,,0,0,0,,{\be1\an2\move(1920,498,-2460,498,0,6000)\fs41\c&HADDC39&}WOOSER WAS THE 7th
+Dialogue: 123,0:06:28.75,0:06:34.75,Chat,,0,0,0,,{\be1\an2\move(1920,1011,-2460,1011,0,6000)\fs30\c&H1B779A&\alpha&H7f}Jebaited out of existence
+Dialogue: 122,0:06:28.87,0:06:38.27,Chat,,0,0,0,,{\be1\an2\move(1920,437,-3780,437,0,9400)\fs30\c&H7C51E0&\alpha&H7f}HotPokket LOL So Random I love NIHON! PicoMause
+Dialogue: 121,0:06:29.00,0:06:35.00,Chat,,0,0,0,,{\be1\an2\move(1920,817,-2460,817,0,6000)\fs35\c&HDE4CDF&\alpha&H7f}10/10 game show Kappa
+Dialogue: 120,0:06:29.62,0:06:35.62,Chat,,0,0,0,,{\be1\an2\move(1920,510,-2760,510,0,6000)\fs30\c&H24CD69&\alpha&H7f}THIS IS HOW YOU DON"T PLAY LUL
+Dialogue: 119,0:06:29.75,0:06:41.55,Chat,,0,0,0,,{\be1\an2\move(1920,271,-4500,271,0,11800)\fs30\c&H1E4DAC&\alpha&H7f}TableHere TableHere TableHere TableHere TableHere TableHere
+Dialogue: 118,0:06:30.57,0:06:36.57,Chat,,0,0,0,,{\be1\an2\move(1920,435,-2460,435,0,6000)\fs30\c&H7123C5&\alpha&H7f}Wait was he the werewolf?
+Dialogue: 117,0:06:32.66,0:06:38.66,Chat,,0,0,0,,{\be1\an2\move(1920,284,-2460,284,0,6000)\fs35\c&H22C07B&\alpha&H7f}HE FOOLED HIMSELF????
+Dialogue: 116,0:06:32.83,0:06:38.83,Chat,,0,0,0,,{\be1\an2\move(1920,610,-2460,610,0,6000)\fs34\c&H6A1A93&\alpha&H7f}HOW MANY EPISODES LEFT
+Dialogue: 115,0:07:22.80,0:07:28.80,Chat,,0,0,0,,{\be1\an2\move(1920,251,-1960,251,0,6000)\fs50\c&HCE2426&}RUCKY STAR
+Dialogue: 114,0:06:33.50,0:06:42.89,Chat,,0,0,0,,{\be1\an2\move(1920,308,-3780,308,0,9400)\fs30\c&HD05854&\alpha&H7f}SourPls SourPls SourPls SourPls SourPls SourPls
+Dialogue: 113,0:06:34.18,0:06:40.18,Chat,,0,0,0,,{\be1\an2\move(1920,100,-2460,100,0,6000)\fs37\c&H236EC6&}wooser was werewolf?
+Dialogue: 112,0:06:34.54,0:06:40.54,Chat,,0,0,0,,{\be1\an2\move(1920,873,-2520,873,0,6000)\fs30\c&H22C023&\alpha&H7f}that's so god damn awesome
+Dialogue: 111,0:06:34.72,0:06:46.72,Chat,,0,0,0,,{\be1\an2\move(1920,361,-12260,361,0,12000)\fs50\c&H6E778F&\alpha&H7f}YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls
+Dialogue: 110,0:06:35.08,0:06:43.49,Chat,,0,0,0,,{\be1\an2\move(1920,777,-3480,777,0,8400)\fs30\c&HBD4121&\alpha&H7f}Definitely didn't see that coming... Kappa
+Dialogue: 109,0:07:26.00,0:07:32.00,Chat,,0,0,0,,{\be1\an2\move(1920,616,-1460,616,0,6000)\fs50\c&HC98523&}KAPOW
+Dialogue: 108,0:07:26.25,0:07:32.25,Chat,,0,0,0,,{\be1\an2\move(1920,738,-2260,738,0,6000)\fs50\c&HD95C29&}i want to die
+Dialogue: 107,0:06:38.54,0:06:50.54,Chat,,0,0,0,,{\be1\an2\move(1920,786,-10020,786,0,12000)\fs30\c&HCD2430&\alpha&H7f}SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage
+Dialogue: 106,0:07:28.88,0:07:34.88,Chat,,0,0,0,,{\be1\an2\move(1920,316,-1660,316,0,6000)\fs50\c&H8820B4&}WutFace
+Dialogue: 105,0:06:39.27,0:06:45.27,Chat,,0,0,0,,{\be1\an2\move(1920,564,-2460,564,0,6000)\fs35\c&H64E157&\alpha&H7f}Jebaited SPY Jebaited
+Dialogue: 104,0:07:29.33,0:07:35.33,Chat,,0,0,0,,{\be1\an2\move(1920,594,-1660,594,0,6000)\fs50\c&H39AF75&}SourPls
+Dialogue: 103,0:07:29.55,0:07:35.55,Chat,,0,0,0,,{\be1\an2\move(1920,592,-1660,592,0,6000)\fs50\c&HB69A20&}Ara Ara
+Dialogue: 102,0:06:40.39,0:06:46.39,Chat,,0,0,0,,{\be1\an2\move(1920,829,-2520,829,0,6000)\fs30\c&H3AC0DC&\alpha&H7f}ive been b-b-b-banboozled!
+Dialogue: 101,0:07:30.33,0:07:36.33,Chat,,0,0,0,,{\be1\an2\move(1920,843,-1960,843,0,6000)\fs50\c&H9424CD&}LUCKY DI K
+Dialogue: 100,0:06:42.00,0:06:48.00,Chat,,0,0,0,,{\be1\an2\move(1920,115,-2580,115,0,6000)\fs30\c&H24CE69&\alpha&H7f}bunny is always the traitor
+Dialogue: 99,0:06:43.11,0:06:49.11,Chat,,0,0,0,,{\be1\an2\move(1920,760,-2460,760,0,6000)\fs31\c&HA41EA8&\alpha&H7f}WE DAIJOBU CHAT CmonBruh
+Dialogue: 98,0:06:43.55,0:06:49.55,Chat,,0,0,0,,{\be1\an2\move(1920,506,-2460,506,0,6000)\fs35\c&H84AD1F&\alpha&H7f}Top 10 Anime Betrayls
+Dialogue: 97,0:07:33.50,0:07:39.50,Chat,,0,0,0,,{\be1\an2\move(1920,930,-1960,930,0,6000)\fs50\c&H7697E7&}AHHHHHHHHH
+Dialogue: 96,0:07:35.00,0:07:41.00,Chat,,0,0,0,,{\be1\an2\move(1920,255,-1960,255,0,6000)\fs50\c&H22A5C0&}RUCKY GIRL
+Dialogue: 95,0:06:45.50,0:06:51.50,Chat,,0,0,0,,{\be1\an2\move(1920,742,-2700,742,0,6000)\fs30\c&H88951A&\alpha&H7f}Twitch Jebaited Chat Jebaited
+Dialogue: 94,0:06:46.00,0:06:54.60,Chat,,0,0,0,,{\be1\an2\move(1920,263,-3540,263,0,8600)\fs30\c&HBA22C1&\alpha&H7f}Jebaired LIED EVEN TO THE AUDIENCE PogChamp
+Dialogue: 93,0:06:46.39,0:06:52.80,Chat,,0,0,0,,{\be1\an2\move(1920,805,-2880,805,0,6400)\fs30\c&H76E7CF&\alpha&H7f}CHAT,Lets play Werewolf Jebaited
+Dialogue: 92,0:06:46.80,0:06:56.60,Chat,,0,0,0,,{\be1\an2\move(1920,479,-3900,479,0,9800)\fs30\c&H1D9AA5&\alpha&H7f}TO FOOL OTHERS, YOU MUST FIRST FOOL YOURSELF 🤔
+Dialogue: 91,0:06:47.00,0:06:57.60,Chat,,0,0,0,,{\be1\an2\move(1920,238,-4140,238,0,10600)\fs30\c&H769BE7&\alpha&H7f}Can someone give me a run down on what this anime is?
+Dialogue: 90,0:06:47.19,0:06:59.19,Chat,,0,0,0,,{\be1\an2\move(1920,248,-5700,248,0,12000)\fs30\c&HAD461F&\alpha&H7f}SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls
+Dialogue: 89,0:06:47.39,0:06:53.39,Chat,,0,0,0,,{\be1\an2\move(1920,278,-2460,278,0,6000)\fs37\c&H8D3F19&}WOOSER > BRAIN POWER
+Dialogue: 88,0:06:47.60,0:06:53.60,Chat,,0,0,0,,{\be1\an2\move(1920,41,-2640,41,0,6000)\fs30\c&H7425D1&\alpha&H7f}Kreygasm LUCKY STAR Kreygasm
+Dialogue: 87,0:06:47.80,0:06:54.39,Chat,,0,0,0,,{\be1\an2\move(1920,312,-2940,312,0,6600)\fs30\c&H1FB083&\alpha&H7f}Jebaited J E B A I T E D Jebaited
+Dialogue: 86,0:06:48.33,0:06:54.73,Chat,,0,0,0,,{\be1\an2\move(1920,655,-2880,655,0,6400)\fs30\c&H38DC5B&\alpha&H7f}BIGGEST PLOT TWIST OF THE SEASON
+Dialogue: 85,0:06:48.66,0:06:54.66,Chat,,0,0,0,,{\be1\an2\move(1920,888,-2580,888,0,6000)\fs30\c&H921A79&\alpha&H7f}WE WANT JOJO NOT THIS TRASH
+Dialogue: 84,0:06:50.80,0:06:56.80,Chat,,0,0,0,,{\be1\an2\move(1920,943,-2640,943,0,6000)\fs30\c&H223FC0&\alpha&H7f}This show has alot of class.
+Dialogue: 83,0:06:51.60,0:06:57.60,Chat,,0,0,0,,{\be1\an2\move(1920,209,-2460,209,0,6000)\fs31\c&H2FDA7A&\alpha&H7f}TI-TI-TI-TIMOTHY SourPls
+Dialogue: 82,0:06:52.00,0:07:04.00,Chat,,0,0,0,,{\be1\an2\move(1920,848,-4800,848,0,12000)\fs30\c&H4B1DA7&\alpha&H7f}You though it was him but it was ME WOOSER BRANDO THE WHOLE TIME
+Dialogue: 81,0:06:52.57,0:06:58.57,Chat,,0,0,0,,{\be1\an2\move(1920,69,-2760,69,0,6000)\fs30\c&HE79D79&\alpha&H7f}WOOSER IS THE TRAITOR Jebaited
+Dialogue: 80,0:06:53.42,0:07:05.42,Chat,,0,0,0,,{\be1\an2\move(1920,548,-6660,548,0,12000)\fs30\c&H81A05A&\alpha&H7f}WE KappaPride WERE KappaPride BORN KappaPride TO KappaPride BE KappaPride Werewolves KappaPride
+Dialogue: 79,0:06:54.00,0:07:06.00,Chat,,0,0,0,,{\be1\an2\move(1920,282,-4740,282,0,12000)\fs30\c&H5D4DE0&\alpha&H7f}ResidentSleeper ResidentSleeper ResidentSleeper ResidentSleeper
+Dialogue: 78,0:06:55.00,0:07:07.00,Chat,,0,0,0,,{\be1\an2\move(1920,490,-7140,490,0,12000)\fs30\c&HE78B78&\alpha&H7f}SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls
+Dialogue: 77,0:06:55.50,0:07:07.50,Chat,,0,0,0,,{\be1\an2\move(1920,606,-5400,606,0,12000)\fs30\c&H5A6FE2&\alpha&H7f}i was just about to give up hope in this marathon, then this came on Kappa
+Dialogue: 76,0:06:56.00,0:07:02.00,Chat,,0,0,0,,{\be1\an2\move(1920,181,-2460,181,0,6000)\fs37\c&H811B97&}Chat we coo cmonBruh
+Dialogue: 75,0:06:56.80,0:07:08.80,Chat,,0,0,0,,{\be1\an2\move(1920,829,-9540,829,0,12000)\fs30\c&HE3A85F&\alpha&H7f}FeelsGoodMan HAPPIEST FeelsGoodMan GIRL FeelsGoodMan IN FeelsGoodMan THE FeelsGoodMan WORLD FeelsGoodMan WAITING FeelsGoodMan ROOM FeelsGoodMan
+Dialogue: 74,0:06:57.19,0:07:03.19,Chat,,0,0,0,,{\be1\an2\move(1920,194,-2460,194,0,6000)\fs34\c&H39D374&\alpha&H7f}SourPls VoHiYo SourPls
+Dialogue: 73,0:06:57.60,0:07:04.00,Chat,,0,0,0,,{\be1\an2\move(1920,431,-2880,431,0,6400)\fs30\c&H9AD826&\alpha&H7f}YOUR WERENT A VILLAGER WOOSER XD
+Dialogue: 72,0:07:00.19,0:07:12.19,Chat,,0,0,0,,{\be1\an2\move(1920,42,-12300,42,0,12000)\fs30\c&H921A22&\alpha&H7f}SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage SwiftRage WE WANT FOOD WARS SwiftRage
+Dialogue: 71,0:07:00.39,0:07:06.39,Chat,,0,0,0,,{\be1\an2\move(1920,140,-2460,140,0,6000)\fs30\c&HDA2DB1&\alpha&H7f}Top10 anime betrayals LUL
+Dialogue: 70,0:07:00.60,0:07:06.60,Chat,,0,0,0,,{\be1\an2\move(1920,502,-2460,502,0,6000)\fs37\c&H1CA147&}this is low IQ anime
+Dialogue: 69,0:07:00.80,0:07:07.00,Chat,,0,0,0,,{\be1\an2\move(1920,627,-2820,627,0,6200)\fs30\c&HDF49C0&\alpha&H7f}GIVE US JOJO WTF NOT THIS TRASH
+Dialogue: 68,0:07:01.19,0:07:09.00,Chat,,0,0,0,,{\be1\an2\move(1920,868,-3300,868,0,7800)\fs30\c&HAE22C0&\alpha&H7f}SourPls SourPls SourPls SourPls SourPls
+Dialogue: 67,0:07:01.39,0:07:07.39,Chat,,0,0,0,,{\be1\an2\move(1920,406,-2460,406,0,6000)\fs32\c&H90193E&\alpha&H7f}I'M THE WEREWOLF. I WIN
+Dialogue: 66,0:07:01.60,0:07:13.60,Chat,,0,0,0,,{\be1\an2\move(1920,808,-6780,808,0,12000)\fs30\c&H6ABEE5&\alpha&H7f}WE KappaPride WERE KappaPride BORN KappaPride TO KappaPride MAKE KappaPride VIDEOGAMES KappaPride
+Dialogue: 65,0:07:01.80,0:07:13.80,Chat,,0,0,0,,{\be1\an2\move(1920,101,-6900,101,0,12000)\fs30\c&H9AE56C&\alpha&H7f}TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls
+Dialogue: 64,0:07:02.00,0:07:10.19,Chat,,0,0,0,,{\be1\an2\move(1920,331,-3420,331,0,8200)\fs30\c&HDE4470&\alpha&H7f}Wait this is actually good FeelsGoodMan ?
+Dialogue: 63,0:07:05.50,0:07:13.89,Chat,,0,0,0,,{\be1\an2\move(1920,694,-3480,694,0,8400)\fs30\c&HD9E56A&\alpha&H7f}SourPls SourPls Lucky Star SourPls SourPls
+Dialogue: 62,0:07:06.80,0:07:12.80,Chat,,0,0,0,,{\be1\an2\move(1920,634,-2460,634,0,6000)\fs31\c&HA01C64&\alpha&H7f}@shmario im the werewolf
+Dialogue: 61,0:07:08.00,0:07:20.00,Chat,,0,0,0,,{\be1\an2\move(1920,126,-9120,126,0,12000)\fs30\c&H3DD125&\alpha&H7f}☕ Truth be told, I'm quite proud of my house blend. To attain my flavor and fragrance, I use five different types of coffee beans. ☕
+Dialogue: 60,0:07:09.33,0:07:21.33,Chat,,0,0,0,,{\be1\an2\move(1920,552,-5580,552,0,12000)\fs30\c&HDB9036&\alpha&H7f}what if the werewolf doesn't kill the last person, no one will ever know 🤔
+Dialogue: 59,0:07:10.00,0:07:16.00,Chat,,0,0,0,,{\be1\an2\move(1920,719,-2640,719,0,6000)\fs30\c&H188685&\alpha&H7f}VIEWCOUNT INCREASED PogChamp
+Dialogue: 58,0:07:11.33,0:07:17.33,Chat,,0,0,0,,{\be1\an2\move(1920,939,-2460,939,0,6000)\fs32\c&HB0E154&\alpha&H7f}Trying to cheat US haha
+Dialogue: 57,0:07:12.00,0:07:24.00,Chat,,0,0,0,,{\be1\an2\move(1920,610,-9900,610,0,12000)\fs30\c&HA648DF&\alpha&H7f}TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls
+Dialogue: 56,0:07:13.00,0:07:25.00,Chat,,0,0,0,,{\be1\an2\move(1920,873,-16060,873,0,12000)\fs50\c&H677774&\alpha&H7f}YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls
+Dialogue: 55,0:07:15.60,0:07:21.60,Chat,,0,0,0,,{\be1\an2\move(1920,1036,-2460,1036,0,6000)\fs31\c&H7495E6&\alpha&H7f}SourPls TehePelo SourPls
+Dialogue: 54,0:07:16.00,0:07:22.00,Chat,,0,0,0,,{\be1\an2\move(1920,610,-2460,610,0,6000)\fs32\c&H408A7E&\alpha&H7f}SourPls SourPls SourPls
+Dialogue: 53,0:07:16.33,0:07:28.33,Chat,,0,0,0,,{\be1\an2\move(1920,49,-5940,49,0,12000)\fs30\c&HCAE050&\alpha&H7f}SourPls YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls
+Dialogue: 52,0:07:16.66,0:07:28.66,Chat,,0,0,0,,{\be1\an2\move(1920,482,-6780,482,0,12000)\fs30\c&H339019&\alpha&H7f}⭐ <3 VoHiYo ⭐ <3 VoHiYo ⭐ <3 VoHiYo ⭐ <3 VoHiYo ⭐ <3 VoHiYo ⭐ <3 VoHiYo ⭐ <3 VoHiYo
+Dialogue: 51,0:07:18.44,0:07:30.44,Chat,,0,0,0,,{\be1\an2\move(1920,358,-4740,358,0,12000)\fs30\c&H9D1C72&\alpha&H7f}SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls
+Dialogue: 50,0:07:18.66,0:07:24.86,Chat,,0,0,0,,{\be1\an2\move(1920,116,-2820,116,0,6200)\fs30\c&H2D26D6&\alpha&H7f}SourPls WOOSER IS LEGIT SourPls
+Dialogue: 49,0:07:18.88,0:07:27.08,Chat,,0,0,0,,{\be1\an2\move(1920,487,-3420,487,0,8200)\fs30\c&H188A89&\alpha&H7f}VoHiYo LUCKY GIRL VoHiYo LUCKY BOY VoHiYo
+Dialogue: 48,0:07:19.55,0:07:25.55,Chat,,0,0,0,,{\be1\an2\move(1920,1004,-2460,1004,0,6000)\fs35\c&HA5A71D&\alpha&H7f}YOU ARE MY RUCKY STAR
+Dialogue: 47,0:07:19.77,0:07:31.77,Chat,,0,0,0,,{\be1\an2\move(1920,341,-5400,341,0,12000)\fs30\c&H1CA056&\alpha&H7f}TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls TI-TI-TI-TIMOTHY SourPls
+Dialogue: 46,0:07:20.00,0:07:32.00,Chat,,0,0,0,,{\be1\an2\move(1920,862,-8040,862,0,12000)\fs30\c&H195B8F&\alpha&H7f}YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls YEAH
+Dialogue: 45,0:07:22.39,0:07:28.39,Chat,,0,0,0,,{\be1\an2\move(1920,740,-2580,740,0,6000)\fs30\c&H2D8FDA&\alpha&H7f}NO MORE JUSTICE FeelsBadMan
+Dialogue: 44,0:07:23.60,0:07:35.60,Chat,,0,0,0,,{\be1\an2\move(1920,185,-5880,185,0,12000)\fs30\c&HE05173&\alpha&H7f}WTF people didn't actually know? He literally had his eyes open during night phase
+Dialogue: 43,0:07:24.00,0:07:36.00,Chat,,0,0,0,,{\be1\an2\move(1920,720,-8880,720,0,12000)\fs30\c&H39DCA5&\alpha&H7f}YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls LUCKY STAR SourPls YOU ARE MY SourPls
+Dialogue: 42,0:07:25.33,0:07:37.33,Chat,,0,0,0,,{\be1\an2\move(1920,937,-8460,937,0,12000)\fs50\c&H8C8788&\alpha&H7f}VoHiYo I VoHiYo WANNA VoHiYo BE VoHiYo YOUR VoHiYo LUCKY VoHiYo GIRL VoHiYo
+Dialogue: 41,0:07:27.50,0:07:33.50,Chat,,0,0,0,,{\be1\an2\move(1920,228,-2460,228,0,6000)\fs31\c&H9C1C48&\alpha&H7f}Just waiting for ED card
+Dialogue: 40,0:07:28.22,0:07:40.22,Chat,,0,0,0,,{\be1\an2\move(1920,335,-6660,335,0,12000)\fs30\c&H8DDA2D&\alpha&H7f}SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls SourPls
+Dialogue: 39,0:07:29.11,0:07:41.11,Chat,,0,0,0,,{\be1\an2\move(1920,251,-5880,251,0,12000)\fs30\c&H4DA494&\alpha&H7f}VoHiYo I VoHiYo WANNA VoHiYo BE VoHiYo YOUR VoHiYo LUCKY VoHiYo VoHiYo GIRL VoHiYo
+Dialogue: 38,0:07:30.00,0:07:36.00,Chat,,0,0,0,,{\be1\an2\move(1920,735,-2460,735,0,6000)\fs30\c&H71188A&\alpha&H7f}VoHiYo Any weebs in chat?
+Dialogue: 37,0:07:30.66,0:07:40.06,Chat,,0,0,0,,{\be1\an2\move(1920,674,-3780,674,0,9400)\fs30\c&HDD3FB2&\alpha&H7f}VoHiYo I WANNA BE VoHiYo YOUR LUCKY GIRL VoHiYo
+Dialogue: 36,0:07:31.33,0:07:37.33,Chat,,0,0,0,,{\be1\an2\move(1920,1038,-2520,1038,0,6000)\fs30\c&H64E4D5&\alpha&H7f}this anime is on crack LUL
+Dialogue: 35,0:07:31.66,0:07:38.26,Chat,,0,0,0,,{\be1\an2\move(1920,495,-2940,495,0,6600)\fs30\c&HD92740&\alpha&H7f}Asiaaaanssss are so fucking weird
+Dialogue: 34,0:07:32.00,0:07:41.00,Chat,,0,0,0,,{\be1\an2\move(1920,1032,-3660,1032,0,9000)\fs30\c&H721886&\alpha&H7f}SourPls YOU ARE MY SourPls LUCKY STAR SourPls
+Dialogue: 33,0:07:32.50,0:07:38.50,Chat,,0,0,0,,{\be1\an2\move(1920,173,-2580,173,0,6000)\fs30\c&HAD7F1F&\alpha&H7f}Low IQ anime Kappa Jenaited
+Dialogue: 32,0:07:33.00,0:07:45.00,Chat,,0,0,0,,{\be1\an2\move(1920,126,-6060,126,0,12000)\fs30\c&HE38061&\alpha&H7f}VoHiYo TPcrunchyroll VoHiYo TPcrunchyroll VoHiYo TPcrunchyroll TPcrunchyroll PogChamp
+Dialogue: 31,0:07:34.00,0:07:46.00,Chat,,0,0,0,,{\be1\an2\move(1920,862,-9840,862,0,12000)\fs30\c&HB1CA24&\alpha&H7f}SourPls O-oooooooooo SourPls AAAAE-A-A-I-A-U- SourPls JO-oooooooooooo SourPls AAE-O-A-A-U-U-A- SourPls E-eee-ee-eee SourPls AAAAE-A-E-I-E-A- SourPls
+Dialogue: 30,0:07:34.50,0:07:40.50,Chat,,0,0,0,,{\be1\an2\move(1920,559,-2460,559,0,6000)\fs30\c&HDC36B5&\alpha&H7f}@FrawztFyre Heck yeah lul
+Dialogue: 29,0:07:36.00,0:07:42.00,Chat,,0,0,0,,{\be1\an2\move(1920,735,-2640,735,0,6000)\fs30\c&H501A91&\alpha&H7f}Kreygasm LUCKY GIRL Kreygasm
+Dialogue: 28,0:07:36.66,0:07:42.66,Chat,,0,0,0,,{\be1\an2\move(1920,984,-2700,984,0,6000)\fs30\c&H8B7618&\alpha&H7f}VoHiYo CurseLit TPcrunchyroll
+Dialogue: 27,0:07:37.33,0:07:43.33,Chat,,0,0,0,,{\be1\an2\move(1920,951,-2580,951,0,6000)\fs30\c&H863DDD&\alpha&H7f}PunOko PunOko PunOko PunOko
+Dialogue: 26,0:07:38.00,0:07:49.60,Chat,,0,0,0,,{\be1\an2\move(1920,899,-4440,899,0,11600)\fs30\c&H2139BC&\alpha&H7f}where are the other two pet things? i've only seen the two
+Dialogue: 25,0:07:38.50,0:07:50.50,Chat,,0,0,0,,{\be1\an2\move(1920,792,-5100,792,0,12000)\fs30\c&H4BD526&\alpha&H7f}⭐ <3 VoHiYo ⭐ <3 VoHiYo ⭐ <3 VoHiYo ⭐ <3 VoHiYo ⭐ <3 VoHiYo
+Dialogue: 24,0:07:39.50,0:07:51.50,Chat,,0,0,0,,{\be1\an2\move(1920,257,-5580,257,0,12000)\fs30\c&HBD8421&\alpha&H7f}FARMING BBS AND WATCHING AN ANIME MARATHON WHAT ELSE CAN MAKE THIS DAY BETTER
+Dialogue: 23,0:07:40.50,0:07:46.50,Chat,,0,0,0,,{\be1\an2\move(1920,70,-1560,70,0,6000)\fs50\c&H2358C4&}VoHiYo
+Dialogue: 22,0:07:41.00,0:07:47.00,Chat,,0,0,0,,{\be1\an2\move(1920,224,-2460,224,0,6000)\fs41\c&H538517&}WOOSER 9th TRAITOR
+Dialogue: 21,0:07:42.00,0:07:48.00,Chat,,0,0,0,,{\be1\an2\move(1920,814,-1960,814,0,6000)\fs50\c&H5F1784&}FUCKY GURL
+Dialogue: 20,0:07:42.50,0:07:51.50,Chat,,0,0,0,,{\be1\an2\move(1920,535,-3660,535,0,9000)\fs30\c&HE56F69&\alpha&H7f}Usually werewolf has more types of characters
+Dialogue: 19,0:07:43.00,0:07:49.00,Chat,,0,0,0,,{\be1\an2\move(1920,509,-1660,509,0,6000)\fs50\c&H2F6ADA&}SourPls
+Dialogue: 18,0:07:43.50,0:07:49.50,Chat,,0,0,0,,{\be1\an2\move(1920,203,-1860,203,0,6000)\fs50\c&H57DA2D&}🌟 🌟
+Dialogue: 17,0:07:44.00,0:07:55.00,Chat,,0,0,0,,{\be1\an2\move(1920,898,-4260,898,0,11000)\fs30\c&H1B976E&\alpha&H7f}VoHiYo VoHiYo VoHiYo VoHiYo VoHiYo VoHiYo VoHiYo VoHiYo
+Dialogue: 16,0:07:44.50,0:07:51.69,Chat,,0,0,0,,{\be1\an2\move(1920,150,-2560,150,0,7200)\fs100\c&H5F8684&}PogChamp
+Dialogue: 15,0:07:45.50,0:07:57.50,Chat,,0,0,0,,{\be1\an2\move(1920,153,-5340,153,0,12000)\fs30\c&H62CFE3&\alpha&H7f}im starting to like this better quit watching just one more episode Kappa
+Dialogue: 14,0:07:46.28,0:07:52.28,Chat,,0,0,0,,{\be1\an2\move(1920,75,-2460,75,0,6000)\fs50\c&H9B201B&}rucky girl lmao
+Dialogue: 13,0:07:46.57,0:07:57.37,Chat,,0,0,0,,{\be1\an2\move(1920,782,-4200,782,0,10800)\fs30\c&H741782&\alpha&H7f}ResidentSleeper SUKA SUKA WAITING ROOM ResidentSleeper
+Dialogue: 12,0:07:46.85,0:07:52.85,Chat,,0,0,0,,{\be1\an2\move(1920,619,-1260,619,0,6000)\fs50\c&H3D2AD9&}lol
+Dialogue: 11,0:07:47.14,0:07:59.14,Chat,,0,0,0,,{\be1\an2\move(1920,462,-5700,462,0,12000)\fs30\c&HAC75E7&\alpha&H7f}So wooser was the werewolf? I was too busy typin in chat and wasnt watching lol
+Dialogue: 10,0:07:47.71,0:07:58.71,Chat,,0,0,0,,{\be1\an2\move(1920,718,-4260,718,0,11000)\fs30\c&HBFA222&\alpha&H7f}TPcrunchyroll TPcrunchyroll TPcrunchyroll TPcrunchyroll
+Dialogue: 9,0:07:48.00,0:07:54.00,Chat,,0,0,0,,{\be1\an2\move(1920,713,-1360,713,0,6000)\fs50\c&HE56A94&}derp
+Dialogue: 8,0:07:48.16,0:07:54.16,Chat,,0,0,0,,{\be1\an2\move(1920,261,-2460,261,0,6000)\fs46\c&HE4649B&}PogChamp SO COOL
+Dialogue: 7,0:07:48.33,0:07:54.33,Chat,,0,0,0,,{\be1\an2\move(1920,1005,-1760,1005,0,6000)\fs50\c&H875418&}Kreygasm
+Dialogue: 6,0:07:48.50,0:07:56.69,Chat,,0,0,0,,{\be1\an2\move(1920,1035,-3420,1035,0,8200)\fs30\c&HE38262&\alpha&H7f}VoHiYo TPcrunchyroll VoHiYo TPcrunchyroll
+Dialogue: 5,0:07:48.83,0:08:00.63,Chat,,0,0,0,,{\be1\an2\move(1920,208,-4500,208,0,11800)\fs30\c&HB7DD3F&\alpha&H7f}jail SourPls is SourPls just SourPls a SourPls room SourPls
+Dialogue: 4,0:07:49.50,0:07:55.50,Chat,,0,0,0,,{\be1\an2\move(1920,1017,-1260,1017,0,6000)\fs50\c&HC22223&}LUL
+Dialogue: 3,0:07:49.66,0:07:55.66,Chat,,0,0,0,,{\be1\an2\move(1920,145,-2160,145,0,6000)\fs50\c&H3894DC&}SUNRISE POSE
+Dialogue: 2,0:07:49.83,0:07:59.43,Chat,,0,0,0,,{\be1\an2\move(1920,916,-3840,916,0,9600)\fs30\c&H26D699&\alpha&H7f}WEREWOLF DON'T REMEMBER TURNING : IT'S WOOSE LUL
+Dialogue: 1,0:07:51.00,0:07:57.00,Chat,,0,0,0,,{\be1\an2\move(1920,146,-1260,146,0,6000)\fs50\c&H6E71E5&}FIN
